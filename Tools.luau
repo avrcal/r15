@@ -7,6 +7,9 @@ local function createEmoteTool(toolInfo)
     tool.Name = toolInfo.name or "Emote"
     tool.RequiresHandle = false
     tool.Parent = Backpack
+
+    local activeTrack = nil
+
     tool.Equipped:Connect(function()
         local character = LocalPlayer.Character or LocalPlayer.CharacterAdded:Wait()
         local humanoid = character:FindFirstChildOfClass("Humanoid")
@@ -24,6 +27,23 @@ local function createEmoteTool(toolInfo)
         end)
         if track then
             track:Play()
+            activeTrack = track
+        end
+    end)
+
+    tool.Unequipped:Connect(function()
+        if activeTrack then
+            pcall(function()
+                activeTrack:Stop()
+            end)
+            activeTrack = nil
+        end
+        local character = LocalPlayer.Character
+        if character then
+            local humanoid = character:FindFirstChildOfClass("Humanoid")
+            if humanoid then
+                humanoid:LoadDefaultAnimations()
+            end
         end
     end)
 end
