@@ -42,7 +42,15 @@ local function createEmoteTool(toolInfo)
         if character then
             local humanoid = character:FindFirstChildOfClass("Humanoid")
             if humanoid then
-                humanoid:LoadDefaultAnimations()
+                local anim = Instance.new("Animation")
+                anim.AnimationId = "rbxassetid://0"
+                local track
+                pcall(function()
+                    track = humanoid:LoadAnimation(anim)
+                end)
+                if track then
+                    track:Play()
+                end
             end
         end
     end)
