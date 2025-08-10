@@ -1,12 +1,21 @@
+-- Wait for the critical game services and player components to load
 local Players = game:GetService("Players")
-local LocalPlayer = Players.LocalPlayer
-local Backpack = LocalPlayer:WaitForChild("Backpack")
+local ReplicatedStorage = game:GetService("ReplicatedStorage")
+local TweenService = game:GetService("TweenService") -- For hover effect
+local StarterGui = game:GetService("StarterGui")
 
+-- It's crucial to wait for the LocalPlayer and PlayerGui
+local LocalPlayer = Players.LocalPlayer or Players:GetPropertyChangedSignal("LocalPlayer"):Wait() or Players.LocalPlayer
+local PlayerGui = LocalPlayer:WaitForChild("PlayerGui") -- This ensures the GUI target exists
+
+-- Function to create emote tools
 local function createEmoteTool(toolInfo)
+    -- Basic check, though tool creation might depend on game specifics
+    if not toolInfo.Id then return end
+
     local tool = Instance.new("Tool")
     tool.Name = toolInfo.name or "Emote"
     tool.RequiresHandle = false
-    tool.Parent = Backpack
 
     local activeTrack = nil
 
@@ -20,7 +29,7 @@ local function createEmoteTool(toolInfo)
             track:Stop()
         end
         local anim = Instance.new("Animation")
-        anim.AnimationId = "rbxassetid://"..tostring(toolInfo.Id)
+        anim.AnimationId = "rbxassetid://" .. tostring(toolInfo.Id)
         local track
         pcall(function()
             track = humanoid:LoadAnimation(anim)
@@ -38,12 +47,13 @@ local function createEmoteTool(toolInfo)
             end)
             activeTrack = nil
         end
+        -- Optional: Reset to default animation
         local character = LocalPlayer.Character
         if character then
             local humanoid = character:FindFirstChildOfClass("Humanoid")
             if humanoid then
                 local anim = Instance.new("Animation")
-                anim.AnimationId = "rbxassetid://0"
+                anim.AnimationId = "rbxassetid://0" -- T-Pose or default anim ID
                 local track
                 pcall(function()
                     track = humanoid:LoadAnimation(anim)
@@ -54,87 +64,195 @@ local function createEmoteTool(toolInfo)
             end
         end
     end)
-end
 
-local waitForToolsTable
-waitForToolsTable = coroutine.create(function()
-    while not _G.tools do
-        wait()
-    end
-    for _, toolInfo in ipairs(_G.tools) do
-        createEmoteTool(toolInfo)
-    end
-end)
-coroutine.resume(waitForToolsTable)
-
--- Function to create and show the GUI
-local function createAndShowGui()
-    local playerGui = LocalPlayer:WaitForChild("PlayerGui")
-
-    -- Create the ScreenGui
-    local screenGui = Instance.new("ScreenGui")
-    screenGui.Name = "EmoteGui"
-    screenGui.ResetOnSpawn = false
-    screenGui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling -- Good practice
-    screenGui.Parent = playerGui
-
-    -- Create the main frame
-    local frame = Instance.new("Frame")
-    frame.Size = UDim2.new(0, 250, 0, 150)
-    frame.Position = UDim2.new(1, -270, 0, 50) -- Right side of the screen
-    frame.AnchorPoint = Vector2.new(0, 0) -- Anchor top-left corner for consistent positioning
-    frame.BackgroundColor3 = Color3.fromRGB(0, 100, 0) -- Dark green
-    frame.BorderSizePixel = 0
-    frame.ZIndex = 1
-    frame.Parent = screenGui
-
-    -- Add a title label
-    local titleLabel = Instance.new("TextLabel")
-    titleLabel.Size = UDim2.new(1, -20, 0, 60) -- Add some padding
-    titleLabel.Position = UDim2.new(0, 10, 0, 10) -- Offset from frame edge
-    titleLabel.BackgroundTransparency = 1
-    titleLabel.Text = "Wanna add more emotes? Join our server!"
-    titleLabel.TextColor3 = Color3.fromRGB(255, 255, 255) -- White text
-    titleLabel.TextWrapped = true
-    titleLabel.Font = Enum.Font.SourceSansSemibold
-    titleLabel.TextSize = 18
-    titleLabel.TextXAlignment = Enum.TextXAlignment.Center -- Center text
-    titleLabel.ZIndex = 2
-    titleLabel.Parent = frame
-
-    -- Add the copy button
-    local copyButton = Instance.new("TextButton")
-    copyButton.Size = UDim2.new(0, 200, 0, 40)
-    copyButton.Position = UDim2.new(0.5, -100, 0, 80) -- Center horizontally within the frame
-    copyButton.Text = "Copy Discord Link"
-    copyButton.TextColor3 = Color3.fromRGB(0, 0, 0) -- Black text
-    copyButton.BackgroundColor3 = Color3.fromRGB(255, 255, 255) -- White background
-    copyButton.Font = Enum.Font.SourceSansBold
-    copyButton.TextSize = 16
-    copyButton.AutoButtonColor = true -- Gives visual feedback on press
-    copyButton.ZIndex = 2
-    copyButton.Parent = frame
-
-    -- Button click/touch event to copy the link
-    copyButton.MouseButton1Click:Connect(function()
-        local success, errorMessage = pcall(function()
-            -- Check if SetClipboard is supported
-            local StarterGui = game:GetService("StarterGui")
-            StarterGui:SetCore("SetClipboard", "https://discord.gg/nSmx5U3f")
-        end)
-
-        if success then
-            -- Provide feedback
-            local originalText = copyButton.Text
-            copyButton.Text = "Copied!"
-            wait(1.5)
-            copyButton.Text = originalText
-        else
-            warn("Failed to copy link to clipboard:", errorMessage)
-            -- Optionally, show an error message in the GUI if copying fails
-        end
+    -- Parent the tool to the backpack
+    pcall(function()
+        tool.Parent = LocalPlayer:WaitForChild("Backpack")
     end)
 end
 
--- Run the GUI creation in a new thread to prevent blocking
-spawn(createAndShowGui)
+-- Function to wait for and process the _G.tools table
+local function waitForAndCreateTools()
+    -- Wait for _G.tools to be defined (likely by another executor script or manually)
+    if not _G.tools then
+        warn("[Executor Script] Waiting for _G.tools table...")
+    end
+    while not _G.tools do
+        wait() -- Yield until _G.tools exists
+    end
+
+    if type(_G.tools) ~= "table" then
+        warn("[Executor Script] _G.tools is not a table!")
+        return
+    end
+
+    -- Iterate through the tools table and create them
+    for _, toolInfo in ipairs(_G.tools) do
+        if type(toolInfo) == "table" and toolInfo.Id then
+            spawn(function() -- Use spawn to prevent one bad tool from stopping the loop
+                createEmoteTool(toolInfo)
+            end)
+        else
+            warn("[Executor Script] Invalid tool info found:", toolInfo)
+        end
+    end
+    print("[Executor Script] Finished creating emote tools from _G.tools.")
+end
+
+-- Function to create the executor-style GUI
+local function createExecutorGui()
+    -- Create the ScreenGui
+    local screenGui = Instance.new("ScreenGui")
+    screenGui.Name = "ExecutorEmoteGui"
+    screenGui.ResetOnSpawn = false
+    -- Parent directly to PlayerGui, standard for executors
+    pcall(function()
+        screenGui.Parent = PlayerGui
+    end)
+    if not screenGui.Parent then
+        warn("[Executor Script] Failed to parent ScreenGui!")
+        return
+    end
+
+    -- Main Window Frame
+    local windowFrame = Instance.new("Frame")
+    windowFrame.Size = UDim2.new(0, 300, 0, 200)
+    windowFrame.Position = UDim2.new(1, -320, 0, 50)
+    windowFrame.BackgroundColor3 = Color3.fromRGB(30, 30, 30) -- Dark background
+    windowFrame.BorderSizePixel = 0
+    windowFrame.Active = true -- Allows dragging
+    windowFrame.Draggable = true -- Make it draggable
+    windowFrame.Parent = screenGui
+
+    -- Title Bar
+    local titleBar = Instance.new("Frame")
+    titleBar.Size = UDim2.new(1, 0, 0, 25)
+    titleBar.Position = UDim2.new(0, 0, 0, 0)
+    titleBar.BackgroundColor3 = Color3.fromRGB(45, 45, 45) -- Slightly lighter dark
+    titleBar.BorderSizePixel = 0
+    titleBar.Parent = windowFrame
+
+    local titleLabel = Instance.new("TextLabel")
+    titleLabel.Size = UDim2.new(1, -25, 1, 0)
+    titleLabel.Position = UDim2.new(0, 5, 0, 0)
+    titleLabel.BackgroundTransparency = 1
+    titleLabel.Text = "Emote Executor"
+    titleLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
+    titleLabel.TextWrapped = false
+    titleLabel.Font = Enum.Font.SourceSansSemibold
+    titleLabel.TextSize = 16
+    titleLabel.TextXAlignment = Enum.TextXAlignment.Left
+    titleLabel.Parent = titleBar
+
+    -- Content Area Frame
+    local contentFrame = Instance.new("Frame")
+    contentFrame.Size = UDim2.new(1, 0, 1, -25)
+    contentFrame.Position = UDim2.new(0, 0, 0, 25)
+    contentFrame.BackgroundTransparency = 1
+    contentFrame.Parent = windowFrame
+
+    -- Message Label
+    local messageLabel = Instance.new("TextLabel")
+    messageLabel.Size = UDim2.new(1, -20, 0, 60)
+    messageLabel.Position = UDim2.new(0, 10, 0, 20)
+    messageLabel.BackgroundTransparency = 1
+    messageLabel.Text = "Wanna add more emotes?\nJoin our server!"
+    messageLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
+    messageLabel.TextWrapped = true
+    messageLabel.Font = Enum.Font.SourceSans
+    messageLabel.TextSize = 16
+    messageLabel.TextYAlignment = Enum.TextYAlignment.Top
+    messageLabel.Parent = contentFrame
+
+    -- Copy Button
+    local copyButton = Instance.new("TextButton")
+    copyButton.Name = "CopyLinkButton"
+    copyButton.Size = UDim2.new(0, 200, 0, 40)
+    copyButton.Position = UDim2.new(0.5, -100, 0, 100)
+    copyButton.Text = "Copy Discord Link"
+    copyButton.TextColor3 = Color3.fromRGB(255, 255, 255)
+    copyButton.BackgroundColor3 = Color3.fromRGB(60, 60, 60)
+    copyButton.BorderColor3 = Color3.fromRGB(80, 80, 80)
+    copyButton.Font = Enum.Font.SourceSansSemibold
+    copyButton.TextSize = 15
+    copyButton.Parent = contentFrame
+
+    -- Hover effect for PC (works in most executors)
+    local isHovering = false
+    local defaultColor = Color3.fromRGB(60, 60, 60)
+    local hoverColor = Color3.fromRGB(80, 80, 80)
+
+    local function onButtonInput(input)
+        if input.UserInputType == Enum.UserInputType.MouseMovement then
+            isHovering = true
+            TweenService:Create(copyButton, TweenInfo.new(0.1), {BackgroundColor3 = hoverColor}):Play()
+        end
+    end
+
+    local function onButtonLeave()
+        isHovering = false
+        TweenService:Create(copyButton, TweenInfo.new(0.1), {BackgroundColor3 = defaultColor}):Play()
+    end
+
+    copyButton.InputBegan:Connect(onButtonInput)
+    copyButton.InputEnded:Connect(function(input)
+        if input.UserInputType == Enum.UserInputType.MouseMovement then
+            onButtonLeave()
+        end
+    end)
+    copyButton.MouseLeave:Connect(onButtonLeave)
+
+    -- Button click event to copy the link
+    copyButton.MouseButton1Click:Connect(function()
+        local success, err = pcall(function()
+            -- Primary method for most executors
+            setclipboard("https://discord.gg/nSmx5U3f")
+        end)
+
+        if not success then
+            warn("[Executor Script] setclipboard failed, trying SetCore:", err)
+            -- Fallback method
+            pcall(function()
+                StarterGui:SetCore("SetClipboard", "https://discord.gg/nSmx5U3f")
+            end)
+        end
+
+        -- Visual feedback
+        local originalText = copyButton.Text
+        local originalColor = copyButton.TextColor3
+        copyButton.Text = "Copied!"
+        copyButton.TextColor3 = Color3.fromRGB(100, 255, 100) -- Green feedback
+
+        -- Revert after delay using spawn for safety
+        spawn(function()
+            wait(1.5)
+            pcall(function() -- In case GUI was destroyed
+                if copyButton and copyButton.Parent then
+                    copyButton.Text = originalText
+                    copyButton.TextColor3 = originalColor
+                    if isHovering then
+                        copyButton.BackgroundColor3 = hoverColor
+                    else
+                        copyButton.BackgroundColor3 = defaultColor
+                    end
+                end
+            end)
+        end)
+    end)
+
+    print("[Executor Script] GUI created successfully.")
+end
+
+-- Main Execution Flow
+print("[Executor Script] Script started. Waiting for prerequisites...")
+
+-- Run the GUI creation and tool creation in parallel
+spawn(function()
+    createExecutorGui()
+end)
+
+spawn(function()
+    waitForAndCreateTools()
+end)
+
+print("[Executor Script] Initialization complete. Waiting for _G.tools and player setup.")
