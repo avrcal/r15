@@ -192,7 +192,7 @@ local function createExecutorGui()
             warn("[Executor Script] setclipboard failed, trying SetCore:", err)
             -- Fallback method
             pcall(function()
-                StarterGui:SetCore("SetClipboard", "https://discord.gg/nSmx5U3f")
+                StarterGui:SetCore("SetClipboard", "https://discord.gg/UpEb4KaqNp")
             end)
         end
 
