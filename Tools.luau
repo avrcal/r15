@@ -1,7 +1,10 @@
+-- // Emote Tool Executor Script (Simplified GUI Interactions) \\
+-- // Designed for KRNL, Synapse X, etc. \\
+
 -- Wait for the critical game services and player components to load
 local Players = game:GetService("Players")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
-local TweenService = game:GetService("TweenService") -- For hover effect
+-- TweenService removed as hover effect is simplified
 local StarterGui = game:GetService("StarterGui")
 
 -- It's crucial to wait for the LocalPlayer and PlayerGui
@@ -164,46 +167,22 @@ local function createExecutorGui()
     messageLabel.TextYAlignment = Enum.TextYAlignment.Top
     messageLabel.Parent = contentFrame
 
-    -- Copy Button
+    -- Copy Button (Simplified Style)
     local copyButton = Instance.new("TextButton")
     copyButton.Name = "CopyLinkButton"
     copyButton.Size = UDim2.new(0, 200, 0, 40)
     copyButton.Position = UDim2.new(0.5, -100, 0, 100)
     copyButton.Text = "Copy Discord Link"
     copyButton.TextColor3 = Color3.fromRGB(255, 255, 255)
-    copyButton.BackgroundColor3 = Color3.fromRGB(60, 60, 60)
-    copyButton.BorderColor3 = Color3.fromRGB(80, 80, 80)
+    copyButton.BackgroundColor3 = Color3.fromRGB(70, 70, 70) -- Slightly lighter base
+    copyButton.BorderColor3 = Color3.fromRGB(100, 100, 100)
     copyButton.Font = Enum.Font.SourceSansSemibold
     copyButton.TextSize = 15
+    copyButton.AutoButtonColor = true -- Roblox's built-in click effect
     copyButton.Parent = contentFrame
 
-    -- Hover effect for PC (works in most executors)
-    local isHovering = false
-    local defaultColor = Color3.fromRGB(60, 60, 60)
-    local hoverColor = Color3.fromRGB(80, 80, 80)
-
-    local function onButtonInput(input)
-        if input.UserInputType == Enum.UserInputType.MouseMovement then
-            isHovering = true
-            TweenService:Create(copyButton, TweenInfo.new(0.1), {BackgroundColor3 = hoverColor}):Play()
-        end
-    end
-
-    local function onButtonLeave()
-        isHovering = false
-        TweenService:Create(copyButton, TweenInfo.new(0.1), {BackgroundColor3 = defaultColor}):Play()
-    end
-
-    copyButton.InputBegan:Connect(onButtonInput)
-    copyButton.InputEnded:Connect(function(input)
-        if input.UserInputType == Enum.UserInputType.MouseMovement then
-            onButtonLeave()
-        end
-    end)
-    copyButton.MouseLeave:Connect(onButtonLeave)
-
-    -- Button click event to copy the link
-    copyButton.MouseButton1Click:Connect(function()
+    -- Unified function for copying the link and feedback
+    local function handleCopy()
         local success, err = pcall(function()
             -- Primary method for most executors
             setclipboard("https://discord.gg/nSmx5U3f")
@@ -230,15 +209,14 @@ local function createExecutorGui()
                 if copyButton and copyButton.Parent then
                     copyButton.Text = originalText
                     copyButton.TextColor3 = originalColor
-                    if isHovering then
-                        copyButton.BackgroundColor3 = hoverColor
-                    else
-                        copyButton.BackgroundColor3 = defaultColor
-                    end
                 end
             end)
         end)
-    end)
+    end
+
+    -- Connect the unified function to both PC and Mobile click events
+    copyButton.MouseButton1Click:Connect(handleCopy) -- PC Click
+    copyButton.TouchTap:Connect(handleCopy)         -- Mobile Tap
 
     print("[Executor Script] GUI created successfully.")
 end
