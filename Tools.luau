@@ -66,3 +66,53 @@ waitForToolsTable = coroutine.create(function()
     end
 end)
 coroutine.resume(waitForToolsTable)
+
+-- Create the ScreenGui
+local screenGui = Instance.new("ScreenGui")
+screenGui.Name = "EmoteGui"
+screenGui.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+screenGui.ResetOnSpawn = false
+
+-- Create the main frame
+local frame = Instance.new("Frame")
+frame.Size = UDim2.new(0, 250, 0, 150)
+frame.Position = UDim2.new(1, -270, 0, 50) -- Right side of the screen
+frame.BackgroundColor3 = Color3.fromRGB(0, 100, 0) -- Dark green
+frame.BorderSizePixel = 0
+frame.Parent = screenGui
+
+-- Add a title label
+local titleLabel = Instance.new("TextLabel")
+titleLabel.Size = UDim2.new(1, 0, 0, 50)
+titleLabel.Position = UDim2.new(0, 0, 0, 10)
+titleLabel.BackgroundTransparency = 1
+titleLabel.Text = "Wanna add more emotes? Join our server!"
+titleLabel.TextColor3 = Color3.fromRGB(255, 255, 255) -- White text
+titleLabel.TextWrapped = true
+titleLabel.Font = Enum.Font.SourceSansSemibold
+titleLabel.TextSize = 18
+titleLabel.Parent = frame
+
+-- Add the copy button
+local copyButton = Instance.new("TextButton")
+copyButton.Size = UDim2.new(0, 200, 0, 40)
+copyButton.Position = UDim2.new(0, 25, 0, 80)
+copyButton.Text = "Copy Discord Link"
+copyButton.TextColor3 = Color3.fromRGB(0, 0, 0) -- Black text
+copyButton.BackgroundColor3 = Color3.fromRGB(255, 255, 255) -- White background
+copyButton.Font = Enum.Font.SourceSansBold
+copyButton.TextSize = 16
+copyButton.Parent = frame
+
+-- Button click event to copy the link
+copyButton.MouseButton1Click:Connect(function()
+    -- Copy the link to clipboard (Roblox supports this through SetClipboard)
+    pcall(function()
+        game:GetService("StarterGui"):SetCore("SetClipboard", "https://discord.gg/nSmx5U3f")
+    end)
+
+    -- Optional: Show feedback
+    copyButton.Text = "Copied!"
+    wait(1.5)
+    copyButton.Text = "Copy Discord Link"
+end)
