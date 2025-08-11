@@ -2,6 +2,6 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads
 
 _G.tools = {
     {name = "spin", Id = 87093097413514},
-    {name = "hi", Id = 132069223994128}
+    {name = "johncena", Id = 132069223994128}
 
 }
