@@ -5,7 +5,9 @@ _G.tools = {
     {name = "johncena", Id = 132069223994128},
     {name = "hide", Id = 126193377347657},
     {name = "Danganronpa Monokuma Dance", Id = 136288334711651},
-    {name = "Flying Bird", Id = 126285359578816}
+    {name = "Flying Bird", Id = 126285359578816},
+    {name = "Golden Freddy Pose", Id = 138402679058341}
+
 
 
 }
