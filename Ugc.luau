@@ -5,7 +5,9 @@ _G.tools = {
     {name = "johncena", Id = 132069223994128},
     {name = "hi", Id = 123456},
     {name = "test", Id = 12345},
-    {name = "hi", Id = 11441144}
+    {name = "hi", Id = 11441144},
+    {name = "hide", Id = 126193377347657}
+
 
 
 
