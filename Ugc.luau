@@ -12,6 +12,8 @@ _G.tools = {
     {name = "Wiggly Worm", Id = 83400387781374},
     {name = "Tank Transformation", Id = 94915612757079},
     {name = "Swing & Sit", Id = 113729630216220},
-    {name = "Zero Two Dance", Id = 133729878579101}
+    {name = "Zero Two Dance", Id = 133729878579101},
+    {name = "Chinese Cat Dance Animation", Id = 117009465956163}
+
 
 }
