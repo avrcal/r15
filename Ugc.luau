@@ -10,7 +10,9 @@ _G.tools = {
     {name = "Charleston", Id = 72556581432614},
     {name = "Obby", Id = 71337558824888},
     {name = "Wiggly Worm", Id = 83400387781374},
-    {name = "Tank Transformation", Id = 94915612757079}
+    {name = "Tank Transformation", Id = 94915612757079},
+    {name = "Swing & Sit", Id = 113729630216220}
+
 
 
 
