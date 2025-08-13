@@ -49,6 +49,7 @@ _G.tools = {
     {name = "🎃 Headless 🎃", Id = 88577457423712},
     {name = "I  WANNA RUN AWAY", Id = 104428851742579},
     {name = "Animatronic Jumpscare 🐻🐰🐔🦊", Id = 73867501246797},
-    {name = "Gangnam Style", Id = 101944868952743}
+    {name = "Gangnam Style", Id = 101944868952743},
+    {name = "Get Griddy", Id = 117535973356048}
 
 }
