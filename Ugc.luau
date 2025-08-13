@@ -51,6 +51,7 @@ _G.tools = {
     {name = "Animatronic Jumpscare 🐻🐰🐔🦊", Id = 73867501246797},
     {name = "Gangnam Style", Id = 101944868952743},
     {name = "Get Griddy", Id = 117535973356048},
-    {name = "Jinu Pose - Saja Boys", Id = 129935556822359}
+    {name = "Jinu Pose - Saja Boys", Id = 129935556822359},
+    {name = "Meditate", Id = 78711609487261}
 
 }
