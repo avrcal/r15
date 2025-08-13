@@ -43,6 +43,7 @@ _G.tools = {
     {name = "Skibidi", Id = 127154705636043},
     {name = "Cute Silly kawai sit", Id = 131532348578183},
     {name = "Spiderman Idle", Id = 82021709878654},
-    {name = "weird fly", Id = 124969505392283}
+    {name = "weird fly", Id = 124969505392283},
+    {name = "Circle", Id = 107862849749608}
 
 }
