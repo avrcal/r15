@@ -28,7 +28,9 @@ _G.tools = {
     {name = "Head 180 Jumpscare", Id = 78085469922687},
     {name = "💀 MM2 Fake Death (Realistic)", Id = 139503369384883},
     {name = "Thumbs Down", Id = 137390715994712},
-    {name = "Invisible Glitch Emote", Id = 108469393428138}
+    {name = "Invisible Glitch Emote", Id = 108469393428138},
+    {name = "Take My Head!", Id = 80933525424006}
+
 
 
 
