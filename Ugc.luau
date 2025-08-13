@@ -44,6 +44,7 @@ _G.tools = {
     {name = "Cute Silly kawai sit", Id = 131532348578183},
     {name = "Spiderman Idle", Id = 82021709878654},
     {name = "weird fly", Id = 124969505392283},
-    {name = "Circle", Id = 107862849749608}
+    {name = "Circle", Id = 107862849749608},
+    {name = "My Head and Leg are gone! [HEADLESS + LEGLESS]", Id = 118995887280296}
 
 }
