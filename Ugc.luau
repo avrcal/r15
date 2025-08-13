@@ -32,7 +32,9 @@ _G.tools = {
     {name = "Take My Head!", Id = 80933525424006},
     {name = "i gently open the catalog", Id = 112647495998630},
     {name = "Flying Admin Troll", Id = 74554636301949},
-    {name = "♡ kawaii doll sitting pose", Id = 139510904359228}
+    {name = "♡ kawaii doll sitting pose", Id = 139510904359228},
+    {name = "sleeping levitation", Id = 131491925495256}
+
 
 
 
