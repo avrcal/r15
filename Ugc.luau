@@ -39,6 +39,7 @@ _G.tools = {
     {name = "Miss The Quiet [BEST]", Id = 7644490540560},
     {name = "Jujutsu Dance", Id = 86052851487687},
     {name = "Wally West [R6]", Id = 109447419896836},
-    {name = "Heart Hands Pose 3.0", Id = 133301852311284}
+    {name = "Heart Hands Pose 3.0", Id = 133301852311284},
+    {name = "Skibidi", Id = 127154705636043}
 
 }
