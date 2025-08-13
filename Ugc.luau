@@ -25,7 +25,9 @@ _G.tools = {
     {name = "Speed Glitch+", Id = 80120791952773},
     {name = "Cat girl cleaning car", Id = 138406489301475},
     {name = "VTuber Concert", Id = 72127611642176},
-    {name = "Head 180 Jumpscare", Id = 78085469922687}
+    {name = "Head 180 Jumpscare", Id = 78085469922687},
+    {name = "💀 MM2 Fake Death (Realistic)", Id = 139503369384883}
+
 
 
 
