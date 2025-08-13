@@ -22,7 +22,9 @@ _G.tools = {
     {name = "Biblically Accurate Emote", Id = 109873544976020},
     {name = "Fake Death (BEST)", Id = 131921180248141},
     {name = "Speed Glitch", Id = 93872845447733},
-    {name = "Speed Glitch+", Id = 80120791952773}
+    {name = "Speed Glitch+", Id = 80120791952773},
+    {name = "Cat girl cleaning car", Id = 138406489301475}
+
 
 
 
