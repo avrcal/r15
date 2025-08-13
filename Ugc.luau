@@ -59,6 +59,7 @@ _G.tools = {
     {name = "[K-POP] i-dle - Good Thing (MIYEON DANCE)", Id = 114546275175330},
     {name = "Aura Farming", Id = 80310147207105},
     {name = "head walks away", Id = 83715869445749},
-    {name = "♡ discombobulate into a heart..", Id = 77099157224384}
+    {name = "♡ discombobulate into a heart..", Id = 77099157224384},
+    {name = "Tiny Obby", Id = 115271469979987}
 
 }
