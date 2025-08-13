@@ -52,6 +52,7 @@ _G.tools = {
     {name = "Gangnam Style", Id = 101944868952743},
     {name = "Get Griddy", Id = 117535973356048},
     {name = "Jinu Pose - Saja Boys", Id = 129935556822359},
-    {name = "Meditate", Id = 78711609487261}
+    {name = "Meditate", Id = 78711609487261},
+    {name = "Ballroom Dance", Id = 117124502867791}
 
 }
