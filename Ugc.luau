@@ -37,6 +37,7 @@ _G.tools = {
     {name = "Headlock", Id = 80763849288559},
     {name = "Lord X - I Miss The Quiet", Id = 125559741616034},
     {name = "Miss The Quiet [BEST]", Id = 7644490540560},
-    {name = "Jujutsu Dance", Id = 86052851487687}
+    {name = "Jujutsu Dance", Id = 86052851487687},
+    {name = "Wally West [R6]", Id = 109447419896836}
 
 }
