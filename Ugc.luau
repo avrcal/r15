@@ -47,6 +47,7 @@ _G.tools = {
     {name = "Circle", Id = 107862849749608},
     {name = "My Head and Leg are gone! [HEADLESS + LEGLESS]", Id = 118995887280296},
     {name = "🎃 Headless 🎃", Id = 88577457423712},
-    {name = "I  WANNA RUN AWAY", Id = 104428851742579}
+    {name = "I  WANNA RUN AWAY", Id = 104428851742579},
+    {name = "Animatronic Jumpscare 🐻🐰🐔🦊", Id = 73867501246797}
 
 }
