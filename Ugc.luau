@@ -35,7 +35,9 @@ _G.tools = {
     {name = "♡ kawaii doll sitting pose", Id = 139510904359228},
     {name = "sleeping levitation", Id = 131491925495256},
     {name = "Headlock", Id = 80763849288559},
-    {name = "Lord X - I Miss The Quiet", Id = 125559741616034}
+    {name = "Lord X - I Miss The Quiet", Id = 125559741616034},
+    {name = "Miss The Quiet [BEST]", Id = 76444905405605}
+
 
 
 
