@@ -57,6 +57,7 @@ _G.tools = {
     {name = "Exotic : APEX Emote [Sol's RNG]", Id = 125722696765151},
     {name = "CHROMATIC Emote [Sol's RNG]", Id = 87449122230956},
     {name = "[K-POP] i-dle - Good Thing (MIYEON DANCE)", Id = 114546275175330},
-    {name = "Aura Farming", Id = 80310147207105}
+    {name = "Aura Farming", Id = 80310147207105},
+    {name = "head walks away", Id = 83715869445749}
 
 }
