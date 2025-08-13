@@ -26,7 +26,9 @@ _G.tools = {
     {name = "Cat girl cleaning car", Id = 138406489301475},
     {name = "VTuber Concert", Id = 72127611642176},
     {name = "Head 180 Jumpscare", Id = 78085469922687},
-    {name = "💀 MM2 Fake Death (Realistic)", Id = 139503369384883}
+    {name = "💀 MM2 Fake Death (Realistic)", Id = 139503369384883},
+    {name = "Thumbs Down", Id = 137390715994712}
+
 
 
 
