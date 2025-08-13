@@ -24,7 +24,9 @@ _G.tools = {
     {name = "Speed Glitch", Id = 93872845447733},
     {name = "Speed Glitch+", Id = 80120791952773},
     {name = "Cat girl cleaning car", Id = 138406489301475},
-    {name = "VTuber Concert", Id = 72127611642176}
+    {name = "VTuber Concert", Id = 72127611642176},
+    {name = "Head 180 Jumpscare", Id = 78085469922687}
+
 
 
 
