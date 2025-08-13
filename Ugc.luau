@@ -41,6 +41,7 @@ _G.tools = {
     {name = "Wally West [R6]", Id = 109447419896836},
     {name = "Heart Hands Pose 3.0", Id = 133301852311284},
     {name = "Skibidi", Id = 127154705636043},
-    {name = "Cute Silly kawai sit", Id = 131532348578183}
+    {name = "Cute Silly kawai sit", Id = 131532348578183},
+    {name = "Spiderman Idle", Id = 82021709878654}
 
 }
