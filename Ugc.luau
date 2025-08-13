@@ -19,7 +19,9 @@ _G.tools = {
     {name = "Soccer Head / Football Head", Id = 133211570660993},
     {name = "Onion", Id = 134735047372485},
     {name = "Onion", Id = 78316090743742},
-    {name = "Biblically Accurate Emote", Id = 109873544976020}
+    {name = "Biblically Accurate Emote", Id = 109873544976020},
+    {name = "Fake Death (BEST)", Id = 131921180248141}
+
 
 
 
