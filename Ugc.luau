@@ -30,7 +30,9 @@ _G.tools = {
     {name = "Thumbs Down", Id = 137390715994712},
     {name = "Invisible Glitch Emote", Id = 108469393428138},
     {name = "Take My Head!", Id = 80933525424006},
-    {name = "i gently open the catalog", Id = 112647495998630}
+    {name = "i gently open the catalog", Id = 112647495998630},
+    {name = "Flying Admin Troll", Id = 74554636301949}
+
 
 
 
