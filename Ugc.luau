@@ -15,7 +15,9 @@ _G.tools = {
     {name = "Zero Two Dance", Id = 133729878579101},
     {name = "Chinese Cat Dance Animation", Id = 117009465956163},
     {name = "Islamic Prayer", Id = 127829093804907},
-    {name = "Soccer Head Kick / Football", Id = 138223657785025}
+    {name = "Soccer Head Kick / Football", Id = 138223657785025},
+    {name = "Soccer Head / Football Head", Id = 133211570660993}
+
 
 
 
