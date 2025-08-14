@@ -159,6 +159,7 @@ _G.tools = {
     {name = "🚀Breakdown Fortnite Dance", Id = 89071805405399},
     {name = "Drill", Id = 131753285765317},
     {name = "UFO", Id = 125479521553423},
-    {name = "Nuh Uh! (Finger Wiggle)", Id = 85811771512356}
+    {name = "Nuh Uh! (Finger Wiggle)", Id = 85811771512356},
+    {name = "Sledge Hammer", Id = 71427407550005}
 
 }
