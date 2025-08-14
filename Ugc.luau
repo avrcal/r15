@@ -80,6 +80,7 @@ _G.tools = {
     {name = "Billy Bounce", Id = 119280135350752},
     {name = "Rambunctious", Id = 98593519635326},
     {name = "Breakdown", Id = 96622928642956},
-    {name = "[ORIGINAL] Scenario - Roblox", Id = 81747251604858}
+    {name = "[ORIGINAL] Scenario - Roblox", Id = 81747251604858},
+    {name = "Dog Head Scratch", Id = 135741057459893}
 
 }
