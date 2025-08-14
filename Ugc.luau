@@ -70,6 +70,7 @@ _G.tools = {
     {name = "Dia Delicia Dance", Id = 137289759833149},
     {name = "Pump It Up! (RIZZ) 😩💦", Id = 117931208003529},
     {name = "Hug", Id = 100841599606623},
-    {name = "2 Phut Hon Dance", Id = 114774556469581}
+    {name = "2 Phut Hon Dance", Id = 114774556469581},
+    {name = "Die Lit", Id = 100114227897992}
 
 }
