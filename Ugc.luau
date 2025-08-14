@@ -138,6 +138,7 @@ _G.tools = {
     {name = "[ORIGINAL] California Girl Dance", Id = 124982597491660},
     {name = "6-7", Id = 72823814954687},
     {name = "I should have quit while I was a head (body gone)", Id = 96696645846601},
-    {name = "A Cube.", Id = 117954506558431}
+    {name = "A Cube.", Id = 117954506558431},
+    {name = "Skinwalker [ANIMATED]", Id = 114817184246236}
 
 }
