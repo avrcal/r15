@@ -111,6 +111,7 @@ _G.tools = {
     {name = "Floating Adonis (Matching Floating Goddess)", Id = 112531228799916},
     {name = "Beat Da Koto Nai", Id = 122639636262924},
     {name = "Cute Sit Pose", Id = 114858110513023},
-    {name = "Cute Sit Pose", Id = 114508990242643}
+    {name = "Cute Sit Pose", Id = 114508990242643},
+    {name = "Confession Groove", Id = 106076860866382}
 
 }
