@@ -125,6 +125,7 @@ _G.tools = {
     {name = "Signature Shuffle", Id = 112931882473990},
     {name = "Locked In", Id = 139119221876136},
     {name = "Be Not Afraid", Id = 115474307862803},
-    {name = "Become A Car!", Id = 124756446017361}
+    {name = "Become A Car!", Id = 124756446017361},
+    {name = "Zen", Id = 81443378895151}
 
 }
