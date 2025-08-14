@@ -68,6 +68,7 @@ _G.tools = {
     {name = "♡ boo im a ghost (cute halloween idle)", Id = 120171309934090},
     {name = "KATSEYE - Gnarly", Id = 118837515562476},
     {name = "Dia Delicia Dance", Id = 137289759833149},
-    {name = "Pump It Up! (RIZZ) 😩💦", Id = 117931208003529}
+    {name = "Pump It Up! (RIZZ) 😩💦", Id = 117931208003529},
+    {name = "Hug", Id = 100841599606623}
 
 }
