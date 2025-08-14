@@ -107,6 +107,7 @@ _G.tools = {
     {name = "Blocky Pose", Id = 78989723273859},
     {name = "SPLIT on them opps emote pose", Id = 102840777887514},
     {name = "Shattered", Id = 79757971761739},
-    {name = "Helicopter Spin", Id = 122951149300674}
+    {name = "Helicopter Spin", Id = 122951149300674},
+    {name = "Floating Adonis (Matching Floating Goddess)", Id = 112531228799916}
 
 }
