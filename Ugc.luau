@@ -152,6 +152,7 @@ _G.tools = {
     {name = "Headlock", Id = 116729450403482},
     {name = "The Run Around", Id = 138476169783496},
     {name = "Relaxing in the Air", Id = 140266422884303},
-    {name = "Aura RNG Fly Idle ✨", Id = 89523370947906}
+    {name = "Aura RNG Fly Idle ✨", Id = 89523370947906},
+    {name = "Human Gun", Id = 93183371675890}
 
 }
