@@ -164,6 +164,7 @@ _G.tools = {
     {name = "Divine", Id = 112240881944654},
     {name = "Ride The Pony", Id = 86264870013135},
     {name = "Ride The Pony", Id = 98423330975657},
-    {name = "Worm", Id = 112024753958948}
+    {name = "Worm", Id = 112024753958948},
+    {name = "Take The L", Id = 125578981255289}
 
 }
