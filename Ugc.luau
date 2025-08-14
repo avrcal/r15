@@ -66,6 +66,7 @@ _G.tools = {
     {name = "Blob Victory Dance", Id = 104567071299593},
     {name = "Conquest", Id = 79363126356151},
     {name = "♡ boo im a ghost (cute halloween idle)", Id = 120171309934090},
-    {name = "KATSEYE - Gnarly", Id = 118837515562476}
+    {name = "KATSEYE - Gnarly", Id = 118837515562476},
+    {name = "Dia Delicia Dance", Id = 137289759833149}
 
 }
