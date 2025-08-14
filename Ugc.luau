@@ -131,6 +131,7 @@ _G.tools = {
     {name = "Headlock", Id = 75543443460768},
     {name = "TV Time Dance", Id = 104748118296461},
     {name = "[HOT] Soda Pop - Demon Hunters", Id = 97020817673595},
-    {name = "KATSEYE (PART 2) - Gabriela", Id = 92528323199312}
+    {name = "KATSEYE (PART 2) - Gabriela", Id = 92528323199312},
+    {name = "KATSEYE - Gabriela", Id = 110015296997192}
 
 }
