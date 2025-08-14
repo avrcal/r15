@@ -103,6 +103,7 @@ _G.tools = {
     {name = "Kitty laying pose", Id = 132176452615941},
     {name = "Yoruichi Cat Pose", Id = 128878234519023},
     {name = "Classic /e dance", Id = 139463668048138},
-    {name = "Baki Pose", Id = 137039302506432}
+    {name = "Baki Pose", Id = 137039302506432},
+    {name = "Blocky Pose", Id = 78989723273859}
 
 }
