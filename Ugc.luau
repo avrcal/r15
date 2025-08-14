@@ -63,6 +63,7 @@ _G.tools = {
     {name = "Tiny Obby", Id = 115271469979987},
     {name = "Moon Walk", Id = 87058607990254},
     {name = "Doggy Things", Id = 130059214239749},
-    {name = "Blob Victory Dance", Id = 104567071299593}
+    {name = "Blob Victory Dance", Id = 104567071299593},
+    {name = "Conquest", Id = 79363126356151}
 
 }
