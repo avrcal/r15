@@ -94,6 +94,7 @@ _G.tools = {
     {name = "Confess Dance", Id = 85716925694838},
     {name = "Hula Hooping", Id = 136513150384112},
     {name = "Pure Cinema", Id = 79082342647677},
-    {name = "Doodle Dance Meme", Id = 98684790214641}
+    {name = "Doodle Dance Meme", Id = 98684790214641},
+    {name = "Taekwondo Combo", Id = 107497599176078}
 
 }
