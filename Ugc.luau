@@ -122,6 +122,7 @@ _G.tools = {
     {name = "Glitch Animation", Id = 73614993133405},
     {name = "Jubi Slide", Id = 85247727536511},
     {name = "Interdimensional Breakdancing", Id = 102488507813982},
-    {name = "Signature Shuffle", Id = 112931882473990}
+    {name = "Signature Shuffle", Id = 112931882473990},
+    {name = "Locked In", Id = 139119221876136}
 
 }
