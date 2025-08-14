@@ -118,6 +118,7 @@ _G.tools = {
     {name = "Kawaii Cute Kita Doodle Dance | 喜多郁代で推", Id = 126997868835240},
     {name = "Philly Tanging V2", Id = 110803336005483},
     {name = "⚙ Transformer ⚙", Id = 100249216216361},
-    {name = "Seesaw", Id = 118060770955611}
+    {name = "Seesaw", Id = 118060770955611},
+    {name = "Glitch Animation", Id = 73614993133405}
 
 }
