@@ -112,6 +112,7 @@ _G.tools = {
     {name = "Beat Da Koto Nai", Id = 122639636262924},
     {name = "Cute Sit Pose", Id = 114858110513023},
     {name = "Cute Sit Pose", Id = 114508990242643},
-    {name = "Confession Groove", Id = 106076860866382}
+    {name = "Confession Groove", Id = 106076860866382},
+    {name = "China dance emote", Id = 119391790283731}
 
 }
