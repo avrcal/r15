@@ -99,6 +99,7 @@ _G.tools = {
     {name = "Bubbly Sit", Id = 93120341268524},
     {name = "Cute Nezuko Kicks in Air", Id = 94993347432825},
     {name = "♡ cute kawaii crawling kitty idle pose", Id = 133204315799701},
-    {name = "Omni Man Pose", Id = 81636895937131}
+    {name = "Omni Man Pose", Id = 81636895937131},
+    {name = "Kitty laying pose", Id = 132176452615941}
 
 }
