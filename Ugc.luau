@@ -104,6 +104,7 @@ _G.tools = {
     {name = "Yoruichi Cat Pose", Id = 128878234519023},
     {name = "Classic /e dance", Id = 139463668048138},
     {name = "Baki Pose", Id = 137039302506432},
-    {name = "Blocky Pose", Id = 78989723273859}
+    {name = "Blocky Pose", Id = 78989723273859},
+    {name = "SPLIT on them opps emote pose", Id = 102840777887514}
 
 }
