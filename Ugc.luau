@@ -90,6 +90,7 @@ _G.tools = {
     {name = "Fresh", Id = 137039451581216},
     {name = "🧟REANIMATED🧟", Id = 88428537602842},
     {name = "California Girls", Id = 108871901565194},
-    {name = "Astro Dance", Id = 109701716804385}
+    {name = "Astro Dance", Id = 109701716804385},
+    {name = "Confess Dance", Id = 85716925694838}
 
 }
