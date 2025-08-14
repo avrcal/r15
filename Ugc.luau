@@ -115,6 +115,7 @@ _G.tools = {
     {name = "Confession Groove", Id = 106076860866382},
     {name = "China dance emote", Id = 119391790283731},
     {name = "Crying Baby - Animation", Id = 81606207721898},
-    {name = "Kawaii Cute Kita Doodle Dance | 喜多郁代で推", Id = 126997868835240}
+    {name = "Kawaii Cute Kita Doodle Dance | 喜多郁代で推", Id = 126997868835240},
+    {name = "Philly Tanging V2", Id = 110803336005483}
 
 }
