@@ -106,6 +106,7 @@ _G.tools = {
     {name = "Baki Pose", Id = 137039302506432},
     {name = "Blocky Pose", Id = 78989723273859},
     {name = "SPLIT on them opps emote pose", Id = 102840777887514},
-    {name = "Shattered", Id = 79757971761739}
+    {name = "Shattered", Id = 79757971761739},
+    {name = "Helicopter Spin", Id = 122951149300674}
 
 }
