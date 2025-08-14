@@ -76,6 +76,7 @@ _G.tools = {
     {name = "Philly Top Rock", Id = 114918697694748},
     {name = "leembucks tanging", Id = 126685578271542},
     {name = "Philly Tanging V1", Id = 86598160773809},
-    {name = "Orange Justice", Id = 95127716920692}
+    {name = "Orange Justice", Id = 95127716920692},
+    {name = "Billy Bounce", Id = 119280135350752}
 
 }
