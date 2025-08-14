@@ -119,6 +119,7 @@ _G.tools = {
     {name = "Philly Tanging V2", Id = 110803336005483},
     {name = "⚙ Transformer ⚙", Id = 100249216216361},
     {name = "Seesaw", Id = 118060770955611},
-    {name = "Glitch Animation", Id = 73614993133405}
+    {name = "Glitch Animation", Id = 73614993133405},
+    {name = "Jubi Slide", Id = 85247727536511}
 
 }
