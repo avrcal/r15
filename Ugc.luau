@@ -129,6 +129,7 @@ _G.tools = {
     {name = "Zen", Id = 81443378895151},
     {name = "The Honoured One (Gojo Float)", Id = 98604242520342},
     {name = "Headlock", Id = 75543443460768},
-    {name = "TV Time Dance", Id = 104748118296461}
+    {name = "TV Time Dance", Id = 104748118296461},
+    {name = "[HOT] Soda Pop - Demon Hunters", Id = 97020817673595}
 
 }
