@@ -85,6 +85,7 @@ _G.tools = {
     {name = "Rat Dance", Id = 113375965758912},
     {name = "Electro Swing", Id = 138785676658772},
     {name = "Friday Funk", Id = 100360981689145},
-    {name = "Casual Sit", Id = 90840348750437}
+    {name = "Casual Sit", Id = 90840348750437},
+    {name = "Freestyle", Id = 90323184721931}
 
 }
