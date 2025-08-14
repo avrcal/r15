@@ -88,6 +88,7 @@ _G.tools = {
     {name = "Casual Sit", Id = 90840348750437},
     {name = "Freestyle", Id = 90323184721931},
     {name = "Fresh", Id = 137039451581216},
-    {name = "🧟REANIMATED🧟", Id = 88428537602842}
+    {name = "🧟REANIMATED🧟", Id = 88428537602842},
+    {name = "California Girls", Id = 108871901565194}
 
 }
