@@ -136,6 +136,7 @@ _G.tools = {
     {name = "Prince Of Egypt Dance / What You Want", Id = 139658061151500},
     {name = "Big Hand Wave", Id = 77304386644418},
     {name = "[ORIGINAL] California Girl Dance", Id = 124982597491660},
-    {name = "6-7", Id = 72823814954687}
+    {name = "6-7", Id = 72823814954687},
+    {name = "I should have quit while I was a head (body gone)", Id = 96696645846601}
 
 }
