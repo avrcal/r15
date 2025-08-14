@@ -127,6 +127,7 @@ _G.tools = {
     {name = "Be Not Afraid", Id = 115474307862803},
     {name = "Become A Car!", Id = 124756446017361},
     {name = "Zen", Id = 81443378895151},
-    {name = "The Honoured One (Gojo Float)", Id = 98604242520342}
+    {name = "The Honoured One (Gojo Float)", Id = 98604242520342},
+    {name = "Headlock", Id = 75543443460768}
 
 }
