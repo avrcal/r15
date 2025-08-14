@@ -123,6 +123,7 @@ _G.tools = {
     {name = "Jubi Slide", Id = 85247727536511},
     {name = "Interdimensional Breakdancing", Id = 102488507813982},
     {name = "Signature Shuffle", Id = 112931882473990},
-    {name = "Locked In", Id = 139119221876136}
+    {name = "Locked In", Id = 139119221876136},
+    {name = "Be Not Afraid", Id = 115474307862803}
 
 }
