@@ -121,6 +121,7 @@ _G.tools = {
     {name = "Seesaw", Id = 118060770955611},
     {name = "Glitch Animation", Id = 73614993133405},
     {name = "Jubi Slide", Id = 85247727536511},
-    {name = "Interdimensional Breakdancing", Id = 102488507813982}
+    {name = "Interdimensional Breakdancing", Id = 102488507813982},
+    {name = "Signature Shuffle", Id = 112931882473990}
 
 }
