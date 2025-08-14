@@ -83,6 +83,7 @@ _G.tools = {
     {name = "[ORIGINAL] Scenario - Roblox", Id = 81747251604858},
     {name = "Dog Head Scratch", Id = 135741057459893},
     {name = "Rat Dance", Id = 113375965758912},
-    {name = "Electro Swing", Id = 138785676658772}
+    {name = "Electro Swing", Id = 138785676658772},
+    {name = "Friday Funk", Id = 100360981689145}
 
 }
