@@ -147,6 +147,7 @@ _G.tools = {
     {name = "Party Party [ Goku Meme ]", Id = 80443100846814},
     {name = "Crying Spider Noob Meme", Id = 94624372344303},
     {name = "[R6] Nyan Cat Meme", Id = 102583205412686},
-    {name = "Yoga Pose (RDJ holding legs meme)", Id = 100974147245056}
+    {name = "Yoga Pose (RDJ holding legs meme)", Id = 100974147245056},
+    {name = "Helicopter Meme", Id = 91820059447217}
 
 }
