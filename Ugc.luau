@@ -143,6 +143,7 @@ _G.tools = {
     {name = "Cat Girl", Id = 124873747842579},
     {name = "Cat Girl Cute Sit Pose 🐾", Id = 134503647657828},
     {name = "cat", Id = 70734144133718},
-    {name = "Arona Dance Meme", Id = 112176404394603}
+    {name = "Arona Dance Meme", Id = 112176404394603},
+    {name = "Party Party [ Goku Meme ]", Id = 80443100846814}
 
 }
