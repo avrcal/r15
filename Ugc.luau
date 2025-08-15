@@ -203,6 +203,7 @@ _G.tools = {
     {name = "Boxing (Creed Edit)", Id = 120462427970991},
     {name = "Boxing Jab", Id = 96425715499926},
     {name = "Boxing Punch - KSI", Id = 10717116749},
-    {name = "leaning back against wall hands in pocket", Id = 137684883186461}
+    {name = "leaning back against wall hands in pocket", Id = 137684883186461},
+    {name = "Sturdy Dance", Id = 132967433846099}
 
 }
