@@ -170,6 +170,7 @@ _G.tools = {
     {name = "Invisible", Id = 112119483472206},
     {name = "Catwalk Walk", Id = 97847888500780},
     {name = "Angry Stomp", Id = 115048845533448},
-    {name = "MONSTER MASH", Id = 107294735596115}
+    {name = "MONSTER MASH", Id = 107294735596115},
+    {name = "Classic R6 Sit", Id = 76939255365514}
 
 }
