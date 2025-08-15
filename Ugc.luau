@@ -192,6 +192,7 @@ _G.tools = {
     {name = "Boxing", Id = 87683757107994},
     {name = "Boxing Combo", Id = 104962316700738},
     {name = "KAPOW!! (boxing, fighting, punching)", Id = 71483195998835},
-    {name = "Boxing", Id = 80933111363555}
+    {name = "Boxing", Id = 80933111363555},
+    {name = "Boxing Stance", Id = 96035825297909}
 
 }
