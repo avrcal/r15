@@ -181,6 +181,7 @@ _G.tools = {
     {name = "/e invisible (works)", Id = 108210268078796},
     {name = "floor", Id = 89695507588530},
     {name = "/e float", Id = 73264933957647},
-    {name = "Hide Away [SMALLEST] MM2", Id = 115606728710702}
+    {name = "Hide Away [SMALLEST] MM2", Id = 115606728710702},
+    {name = "Hide (Stay below the ground)", Id = 90878454666108}
 
 }
