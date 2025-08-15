@@ -185,6 +185,7 @@ _G.tools = {
     {name = "Hide (Stay below the ground)", Id = 90878454666108},
     {name = "Leg Farts", Id = 81187246879732},
     {name = "Cute Legs-Up Pose", Id = 128197972195350},
-    {name = "💪 Leg Bar Pull-Up", Id = 90185939246160}
+    {name = "💪 Leg Bar Pull-Up", Id = 90185939246160},
+    {name = "Slam Dunk", Id = 99534800014128}
 
 }
