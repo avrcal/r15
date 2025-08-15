@@ -183,6 +183,7 @@ _G.tools = {
     {name = "/e float", Id = 73264933957647},
     {name = "Hide Away [SMALLEST] MM2", Id = 115606728710702},
     {name = "Hide (Stay below the ground)", Id = 90878454666108},
-    {name = "Leg Farts", Id = 81187246879732}
+    {name = "Leg Farts", Id = 81187246879732},
+    {name = "Cute Legs-Up Pose", Id = 128197972195350}
 
 }
