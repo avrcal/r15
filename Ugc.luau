@@ -169,6 +169,7 @@ _G.tools = {
     {name = "Asgore Driving / Truck Car Driving - DELTARUNE", Id = 80044874246380},
     {name = "Invisible", Id = 112119483472206},
     {name = "Catwalk Walk", Id = 97847888500780},
-    {name = "Angry Stomp", Id = 115048845533448}
+    {name = "Angry Stomp", Id = 115048845533448},
+    {name = "MONSTER MASH", Id = 107294735596115}
 
 }
