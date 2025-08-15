@@ -186,6 +186,7 @@ _G.tools = {
     {name = "Leg Farts", Id = 81187246879732},
     {name = "Cute Legs-Up Pose", Id = 128197972195350},
     {name = "💪 Leg Bar Pull-Up", Id = 90185939246160},
-    {name = "Slam Dunk", Id = 99534800014128}
+    {name = "Slam Dunk", Id = 99534800014128},
+    {name = "Bully Maguire (Spiderman)", Id = 113814533436918}
 
 }
