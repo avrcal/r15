@@ -180,6 +180,7 @@ _G.tools = {
     {name = "7 Rings Dance", Id = 116835198609765},
     {name = "/e invisible (works)", Id = 108210268078796},
     {name = "floor", Id = 89695507588530},
-    {name = "/e float", Id = 73264933957647}
+    {name = "/e float", Id = 73264933957647},
+    {name = "Hide Away [SMALLEST] MM2", Id = 115606728710702}
 
 }
