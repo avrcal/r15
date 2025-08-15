@@ -208,6 +208,7 @@ _G.tools = {
     {name = "Gojo Floating / The Honored One", Id = 109030594660124},
     {name = "Sit", Id = 87148945377075},
     {name = "/e fly", Id = 91133306449431},
-    {name = "Relaxed Sit", Id = 97185364700038}
+    {name = "Relaxed Sit", Id = 97185364700038},
+    {name = "MM2 Dead", Id = 102255430997582}
 
 }
