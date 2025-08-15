@@ -189,6 +189,7 @@ _G.tools = {
     {name = "Slam Dunk", Id = 99534800014128},
     {name = "Bully Maguire (Spiderman)", Id = 113814533436918},
     {name = "Boxe [Emote]", Id = 71378959481909},
-    {name = "Boxing", Id = 87683757107994}
+    {name = "Boxing", Id = 87683757107994},
+    {name = "Boxing Combo", Id = 104962316700738}
 
 }
