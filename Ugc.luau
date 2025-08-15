@@ -199,6 +199,7 @@ _G.tools = {
     {name = "shadow boxing", Id = 91253649842307},
     {name = "KSI Boxing Starjumps", Id = 110042386415529},
     {name = "Shadow Boxing", Id = 70735660905476},
-    {name = "Shadow Boxing", Id = 75014181054740}
+    {name = "Shadow Boxing", Id = 75014181054740},
+    {name = "Boxing (Creed Edit)", Id = 120462427970991}
 
 }
