@@ -230,6 +230,7 @@ _G.tools = {
     {name = "[🔴Working🔵] Hollow Purple GOJO", Id = 93612961664824},
     {name = "Gojo Hops with Flowerside", Id = 82064137949653},
     {name = "Gojo The Strongest Of Today Pose", Id = 131404681619254},
-    {name = "Conga", Id = 86767876779723}
+    {name = "Conga", Id = 86767876779723},
+    {name = "Mannrobics (TF2)", Id = 73932117454031}
 
 }
