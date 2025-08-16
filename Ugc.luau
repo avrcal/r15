@@ -234,6 +234,7 @@ _G.tools = {
     {name = "Mannrobics (TF2)", Id = 73932117454031},
     {name = "TF2 Laughing (Demoman)", Id = 82965632072615},
     {name = "Finger Pistol: Bang!", Id = 122680007581387},
-    {name = "Mewing Finger", Id = 100670263895066}
+    {name = "Mewing Finger", Id = 100670263895066},
+    {name = "Nope Finger (emote)", Id = 124371366634097}
 
 }
