@@ -229,6 +229,7 @@ _G.tools = {
     {name = "Become A Bike", Id = 96207427647725},
     {name = "[🔴Working🔵] Hollow Purple GOJO", Id = 93612961664824},
     {name = "Gojo Hops with Flowerside", Id = 82064137949653},
-    {name = "Gojo The Strongest Of Today Pose", Id = 131404681619254}
+    {name = "Gojo The Strongest Of Today Pose", Id = 131404681619254},
+    {name = "Conga", Id = 86767876779723}
 
 }
