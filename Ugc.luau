@@ -225,6 +225,7 @@ _G.tools = {
     {name = "Yes (Finger Emote) 👍", Id = 113970732294166},
     {name = "Horse-walk (Model Strut)", Id = 126487155420219},
     {name = "Gmod - Crowbar Looking Around", Id = 101197238583271},
-    {name = "JoJos | Jonathan's Pose", Id = 120629563851640}
+    {name = "JoJos | Jonathan's Pose", Id = 120629563851640},
+    {name = "Become A Bike", Id = 96207427647725}
 
 }
