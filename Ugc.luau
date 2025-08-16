@@ -222,6 +222,7 @@ _G.tools = {
     {name = "Kazotsky Kick", Id = 119264600441310},
     {name = "[BEST] Katseye Gnarly Obvi Obvi Dance", Id = 118396501338560},
     {name = "KATSEYE - I'M LEGIT GNARLY", Id = 107801710435479},
-    {name = "Yes (Finger Emote) 👍", Id = 113970732294166}
+    {name = "Yes (Finger Emote) 👍", Id = 113970732294166},
+    {name = "Horse-walk (Model Strut)", Id = 126487155420219}
 
 }
