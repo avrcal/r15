@@ -214,6 +214,7 @@ _G.tools = {
     {name = "Diva Catwalk", Id = 110271693046662},
     {name = "Catwalk", Id = 70637851209232},
     {name = "Become a Plane", Id = 119440277215867},
-    {name = "Hakari Dance", Id = 118465124106910}
+    {name = "Hakari Dance", Id = 118465124106910},
+    {name = "The Plane", Id = 126260434999355}
 
 }
