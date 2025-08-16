@@ -213,6 +213,7 @@ _G.tools = {
     {name = "Slow-Mo Run", Id = 89490336154435},
     {name = "Diva Catwalk", Id = 110271693046662},
     {name = "Catwalk", Id = 70637851209232},
-    {name = "Become a Plane", Id = 119440277215867}
+    {name = "Become a Plane", Id = 119440277215867},
+    {name = "Hakari Dance", Id = 118465124106910}
 
 }
