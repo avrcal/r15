@@ -232,6 +232,7 @@ _G.tools = {
     {name = "Gojo The Strongest Of Today Pose", Id = 131404681619254},
     {name = "Conga", Id = 86767876779723},
     {name = "Mannrobics (TF2)", Id = 73932117454031},
-    {name = "TF2 Laughing (Demoman)", Id = 82965632072615}
+    {name = "TF2 Laughing (Demoman)", Id = 82965632072615},
+    {name = "Finger Pistol: Bang!", Id = 122680007581387}
 
 }
