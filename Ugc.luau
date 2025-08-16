@@ -216,6 +216,7 @@ _G.tools = {
     {name = "Become a Plane", Id = 119440277215867},
     {name = "Hakari Dance", Id = 118465124106910},
     {name = "The Plane", Id = 126260434999355},
-    {name = "Runway Model Catwalk", Id = 112405511280072}
+    {name = "Runway Model Catwalk", Id = 112405511280072},
+    {name = "Cute Model Catwalk", Id = 70418480730096}
 
 }
