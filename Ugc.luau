@@ -212,6 +212,7 @@ _G.tools = {
     {name = "MM2 Dead", Id = 102255430997582},
     {name = "Slow-Mo Run", Id = 89490336154435},
     {name = "Diva Catwalk", Id = 110271693046662},
-    {name = "Catwalk", Id = 70637851209232}
+    {name = "Catwalk", Id = 70637851209232},
+    {name = "Become a Plane", Id = 119440277215867}
 
 }
