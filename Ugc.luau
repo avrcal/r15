@@ -237,6 +237,7 @@ _G.tools = {
     {name = "Mewing Finger", Id = 100670263895066},
     {name = "Nope Finger (emote)", Id = 124371366634097},
     {name = "Gojo", Id = 104005971401220},
-    {name = "taboo", Id = 133639309098613}
+    {name = "taboo", Id = 133639309098613},
+    {name = "Gojo Honored One", Id = 139000839803032}
 
 }
