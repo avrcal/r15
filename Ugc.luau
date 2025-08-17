@@ -270,6 +270,7 @@ _G.tools = {
     {name = "Attack on Titan Salute", Id = 81470545805918},
     {name = "kawaii chibi pose", Id = 109625571708575},
     {name = "Michael Myers Dance", Id = 121436340868609},
-    {name = "Side Hug!", Id = 137920131311393}
+    {name = "Side Hug!", Id = 137920131311393},
+    {name = "Lady Floating", Id = 131785405505186}
 
 }
