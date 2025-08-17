@@ -253,6 +253,7 @@ _G.tools = {
     {name = "player 222 baby squid game 1.0", Id = 90450794688572},
     {name = "Speedy Pushups", Id = 134918034680794},
     {name = "Jay Guapo Cardigan dance", Id = 115183941223349},
-    {name = "Juice WRLD - Lucid Dreams", Id = 123356620918902}
+    {name = "Juice WRLD - Lucid Dreams", Id = 123356620918902},
+    {name = "Angel Flying (float)", Id = 77529400769588}
 
 }
