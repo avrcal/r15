@@ -256,6 +256,7 @@ _G.tools = {
     {name = "Juice WRLD - Lucid Dreams", Id = 123356620918902},
     {name = "Angel Flying (float)", Id = 77529400769588},
     {name = "PB & J", Id = 128160283445749},
-    {name = "Teto Territory", Id = 120983791067599}
+    {name = "Teto Territory", Id = 120983791067599},
+    {name = "LAST BREATH SANS PHASE 3", Id = 77136815653085}
 
 }
