@@ -263,6 +263,7 @@ _G.tools = {
     {name = "♡ Cutesy Carried Over Shoulder Kawaii Pose", Id = 137661420461590},
     {name = "(Matching) Piggyback Ride", Id = 120027485463142},
     {name = "Cute Sit On Shoulder Idle", Id = 139917499423552},
-    {name = "watching tv", Id = 95705428377990}
+    {name = "watching tv", Id = 95705428377990},
+    {name = "IShowSpeed Dance", Id = 96951376912636}
 
 }
