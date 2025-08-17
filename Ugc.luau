@@ -261,6 +261,7 @@ _G.tools = {
     {name = "Mesmerizer", Id = 124532423933420},
     {name = "Aura Fly Sitting", Id = 130198479813020},
     {name = "♡ Cutesy Carried Over Shoulder Kawaii Pose", Id = 137661420461590},
-    {name = "(Matching) Piggyback Ride", Id = 120027485463142}
+    {name = "(Matching) Piggyback Ride", Id = 120027485463142},
+    {name = "Cute Sit On Shoulder Idle", Id = 139917499423552}
 
 }
