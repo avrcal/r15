@@ -272,6 +272,7 @@ _G.tools = {
     {name = "Michael Myers Dance", Id = 121436340868609},
     {name = "Side Hug!", Id = 137920131311393},
     {name = "Lady Floating", Id = 131785405505186},
-    {name = "Eva Lonely Lonely + Rampage", Id = 98000940994930}
+    {name = "Eva Lonely Lonely + Rampage", Id = 98000940994930},
+    {name = "Rampage 2.0", Id = 119710039061283}
 
 }
