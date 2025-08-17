@@ -246,6 +246,7 @@ _G.tools = {
     {name = "Ksuuvi Stomp", Id = 108429442201368},
     {name = "/e fly", Id = 127193965947477},
     {name = "Abracadabra", Id = 115500534764384},
-    {name = "Become a car: F1 Race Car", Id = 116625361313832}
+    {name = "Become a car: F1 Race Car", Id = 116625361313832},
+    {name = "Da Hood Stomp", Id = 92249489340640}
 
 }
