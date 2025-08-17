@@ -241,6 +241,7 @@ _G.tools = {
     {name = "Gojo Honored One", Id = 139000839803032},
     {name = "Come here! (Finger Wiggle)", Id = 135564504604543},
     {name = "Peace Out! (Finger Emote)", Id = 75045269777631},
-    {name = "Floating on clouds", Id = 77840765435893}
+    {name = "Floating on clouds", Id = 77840765435893},
+    {name = "Louisiana jig", Id = 115142724557793}
 
 }
