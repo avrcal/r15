@@ -266,6 +266,7 @@ _G.tools = {
     {name = "watching tv", Id = 95705428377990},
     {name = "IShowSpeed Dance", Id = 96951376912636},
     {name = "Rizz Emote 😝", Id = 129361422431665},
-    {name = "Helldiver Salute", Id = 127921352521984}
+    {name = "Helldiver Salute", Id = 127921352521984},
+    {name = "Attack on Titan Salute", Id = 81470545805918}
 
 }
