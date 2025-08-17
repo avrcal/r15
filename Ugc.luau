@@ -243,6 +243,7 @@ _G.tools = {
     {name = "Peace Out! (Finger Emote)", Id = 75045269777631},
     {name = "Floating on clouds", Id = 77840765435893},
     {name = "Louisiana jig", Id = 115142724557793},
-    {name = "Ksuuvi Stomp", Id = 108429442201368}
+    {name = "Ksuuvi Stomp", Id = 108429442201368},
+    {name = "/e fly", Id = 127193965947477}
 
 }
