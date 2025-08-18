@@ -286,6 +286,7 @@ _G.tools = {
     {name = "Maraschino Step", Id = 115666021063476},
     {name = "ACELERADA", Id = 103360497719320},
     {name = "Effortless Aura Idle", Id = 95535410227939},
-    {name = "Dancing", Id = 73290147964741}
+    {name = "Dancing", Id = 73290147964741},
+    {name = "Ian xxl Freestyle Dance", Id = 121251518232365}
 
 }
