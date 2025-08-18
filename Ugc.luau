@@ -298,6 +298,7 @@ _G.tools = {
     {name = "Aura Farm", Id = 109429734463303},
     {name = "Weird Tower", Id = 116732690818367},
     {name = "rollie", Id = 74639807214228},
-    {name = "Emote Bent Back", Id = 95845330272367}
+    {name = "Emote Bent Back", Id = 95845330272367},
+    {name = "Cute Knee Sit", Id = 132748871980206}
 
 }
