@@ -281,6 +281,7 @@ _G.tools = {
     {name = "JUMP K-POP Dance Choreo", Id = 84797661217427},
     {name = "Big Papa Squat", Id = 104151027065011},
     {name = "Candy Emote", Id = 136073073685621},
-    {name = "Make You Mine", Id = 87686948832992}
+    {name = "Make You Mine", Id = 87686948832992},
+    {name = "Floating Goddess (Matching Floating Adonis)", Id = 100681208320300}
 
 }
