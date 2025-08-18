@@ -284,6 +284,7 @@ _G.tools = {
     {name = "Make You Mine", Id = 87686948832992},
     {name = "Floating Goddess (Matching Floating Adonis)", Id = 100681208320300},
     {name = "Maraschino Step", Id = 115666021063476},
-    {name = "ACELERADA", Id = 103360497719320}
+    {name = "ACELERADA", Id = 103360497719320},
+    {name = "Effortless Aura Idle", Id = 95535410227939}
 
 }
