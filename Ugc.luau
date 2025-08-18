@@ -288,6 +288,7 @@ _G.tools = {
     {name = "Effortless Aura Idle", Id = 95535410227939},
     {name = "Dancing", Id = 73290147964741},
     {name = "Ian xxl Freestyle Dance", Id = 121251518232365},
-    {name = "♡ be held - matching emote [1/2]", Id = 104616332143360}
+    {name = "♡ be held - matching emote [1/2]", Id = 104616332143360},
+    {name = "Tyla dance", Id = 130001899505580}
 
 }
