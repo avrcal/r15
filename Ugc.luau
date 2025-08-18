@@ -296,6 +296,7 @@ _G.tools = {
     {name = "how did he hit every beat", Id = 136095999219650},
     {name = "Pushup", Id = 113889893443813},
     {name = "Aura Farm", Id = 109429734463303},
-    {name = "Weird Tower", Id = 116732690818367}
+    {name = "Weird Tower", Id = 116732690818367},
+    {name = "rollie", Id = 74639807214228}
 
 }
