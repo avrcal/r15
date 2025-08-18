@@ -277,6 +277,7 @@ _G.tools = {
     {name = "Fashion Model Pose Spin", Id = 118583126400466},
     {name = "Strutting fashion catwalk", Id = 105965993719110},
     {name = "Diva Runway Catwalk", Id = 126716042378279},
-    {name = "Female Runway Walk", Id = 126640550232183}
+    {name = "Female Runway Walk", Id = 126640550232183},
+    {name = "JUMP K-POP Dance Choreo", Id = 84797661217427}
 
 }
