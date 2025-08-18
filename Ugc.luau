@@ -280,6 +280,7 @@ _G.tools = {
     {name = "Female Runway Walk", Id = 126640550232183},
     {name = "JUMP K-POP Dance Choreo", Id = 84797661217427},
     {name = "Big Papa Squat", Id = 104151027065011},
-    {name = "Candy Emote", Id = 136073073685621}
+    {name = "Candy Emote", Id = 136073073685621},
+    {name = "Make You Mine", Id = 87686948832992}
 
 }
