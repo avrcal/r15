@@ -283,6 +283,7 @@ _G.tools = {
     {name = "Candy Emote", Id = 136073073685621},
     {name = "Make You Mine", Id = 87686948832992},
     {name = "Floating Goddess (Matching Floating Adonis)", Id = 100681208320300},
-    {name = "Maraschino Step", Id = 115666021063476}
+    {name = "Maraschino Step", Id = 115666021063476},
+    {name = "ACELERADA", Id = 103360497719320}
 
 }
