@@ -300,6 +300,7 @@ _G.tools = {
     {name = "rollie", Id = 74639807214228},
     {name = "Emote Bent Back", Id = 95845330272367},
     {name = "Cute Knee Sit", Id = 132748871980206},
-    {name = "Highest Floating Gojo (The Honored One)", Id = 73211757884080}
+    {name = "Highest Floating Gojo (The Honored One)", Id = 73211757884080},
+    {name = "Gojo - The Honored One (Floating)", Id = 140669267691808}
 
 }
