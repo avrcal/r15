@@ -276,6 +276,7 @@ _G.tools = {
     {name = "Rampage 2.0", Id = 119710039061283},
     {name = "Fashion Model Pose Spin", Id = 118583126400466},
     {name = "Strutting fashion catwalk", Id = 105965993719110},
-    {name = "Diva Runway Catwalk", Id = 126716042378279}
+    {name = "Diva Runway Catwalk", Id = 126716042378279},
+    {name = "Female Runway Walk", Id = 126640550232183}
 
 }
