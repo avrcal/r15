@@ -275,6 +275,7 @@ _G.tools = {
     {name = "Eva Lonely Lonely + Rampage", Id = 98000940994930},
     {name = "Rampage 2.0", Id = 119710039061283},
     {name = "Fashion Model Pose Spin", Id = 118583126400466},
-    {name = "Strutting fashion catwalk", Id = 105965993719110}
+    {name = "Strutting fashion catwalk", Id = 105965993719110},
+    {name = "Diva Runway Catwalk", Id = 126716042378279}
 
 }
