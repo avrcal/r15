@@ -307,6 +307,7 @@ _G.tools = {
     {name = "Supermodel Fantasy (LOOP)", Id = 85622303949996},
     {name = "Baddie Shake", Id = 82290588229832},
     {name = "Magic Manipulation", Id = 94957340186015},
-    {name = "Gojo Death Pose", Id = 109525701989889}
+    {name = "Gojo Death Pose", Id = 109525701989889},
+    {name = "[MATCHING] Gojo Walk", Id = 72284053953674}
 
 }
