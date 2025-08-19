@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Roblox Emote AnimationId Finder</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/style.css" />
+</head>
+<body>
+  <div id="app">
+    <header class="app-bar">
+      <div class="app-title">Emote AnimationId Finder</div>
+    </header>
+    <main class="container">
+      <section class="card">
+        <h1>Find AnimationId from Catalog URL</h1>
+        <p class="muted">Paste a Roblox catalog/bundle/emote URL or enter a numeric asset ID. The server uses your .ROBLOSECURITY (configured server-side) to fetch Asset Delivery and scan the asset for 6+ digit IDs.</p>
+
+        <label class="label" for="catalogUrl">Catalog URL or Asset ID</label>
+        <div class="input-row">
+          <input id="catalogUrl" type="text" placeholder="https://www.roblox.com/catalog/123456789/Some-Emote or 123456789" />
+          <button id="resolveBtn" class="btn primary">Resolve</button>
+        </div>
+
+        <details class="advanced">
+          <summary>Advanced</summary>
+          <div class="advanced-grid">
+            <label class="label" for="assetId">Optional Asset ID (overrides URL)</label>
+            <input id="assetId" type="text" placeholder="123456789" />
+
+            <label class="label" for="xRobloxSecurity">Optional X-Roblox-Security header (discouraged; prefer server env)</label>
+            <input id="xRobloxSecurity" type="password" placeholder=".ROBLOSECURITY" />
+          </div>
+        </details>
+
+        <div id="status" class="status"></div>
+
+        <div id="result" class="result hidden">
+          <div class="result-row">
+            <span class="key">Input ID</span>
+            <span class="value" id="resInputId">—</span>
+          </div>
+          <div class="result-row">
+            <span class="key">AnimationId (candidate)</span>
+            <span class="value" id="resCandidate">—</span>
+          </div>
+          <div class="result-row">
+            <span class="key">All numeric matches (6+ digits)</span>
+            <span class="value" id="resAll">—</span>
+          </div>
+        </div>
+      </section>
+    </main>
+    <footer class="footer">
+      <span>Dark theme • Material-inspired • No analytics</span>
+    </footer>
+  </div>
+  <script src="/app.js"></script>
+  <script>
+    // Prevent the browser from accidentally sending credentials cross-origin
+    if (window.location.protocol === 'http:') {
+      console.warn('Using HTTP; ensure you trust this environment.');
+    }
+  </script>
+  </body>
+  </html>
+
