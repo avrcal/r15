@@ -322,5 +322,6 @@ _G.tools = {
     {name = "Your Idol", Id = 112354084479644},
     {name = "Rin Itoshi", Id = 122306366995847},
     {name = "Retro Dance", Id = 89373379864690},
-    {name = "MM2 Fake Death 💀", Id = 102864893189040}
+    {name = "MM2 Fake Death 💀", Id = 102864893189040},
+    {name = "/e fling", Id = 122963771713861}
 }
