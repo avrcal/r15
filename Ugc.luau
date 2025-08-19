@@ -314,6 +314,7 @@ _G.tools = {
     {name = "Flag", Id = 88997563858218},
     {name = "Hide ( Stay below the ground )", Id = 117235285849847},
     {name = "Parking Lot Dance", Id = 101841781757637},
-    {name = "Hood Dance 2", Id = 131830662237755}
+    {name = "Hood Dance 2", Id = 131830662237755},
+    {name = "Hood Dance", Id = 108171959207138}
 
 }
