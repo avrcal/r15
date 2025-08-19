@@ -308,6 +308,7 @@ _G.tools = {
     {name = "Baddie Shake", Id = 82290588229832},
     {name = "Magic Manipulation", Id = 94957340186015},
     {name = "Gojo Death Pose", Id = 109525701989889},
-    {name = "[MATCHING] Gojo Walk", Id = 72284053953674}
+    {name = "[MATCHING] Gojo Walk", Id = 72284053953674},
+    {name = "Emperor Aura Pose", Id = 83177043847912}
 
 }
