@@ -305,6 +305,7 @@ _G.tools = {
     {name = "Roblox Egor Run Animation", Id = 110895566503220},
     {name = "Sleepy Fold", Id = 99884600777781},
     {name = "Supermodel Fantasy (LOOP)", Id = 85622303949996},
-    {name = "Baddie Shake", Id = 82290588229832}
+    {name = "Baddie Shake", Id = 82290588229832},
+    {name = "Magic Manipulation", Id = 94957340186015}
 
 }
