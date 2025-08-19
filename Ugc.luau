@@ -304,6 +304,7 @@ _G.tools = {
     {name = "Gojo - The Honored One (Floating)", Id = 140669267691808},
     {name = "Roblox Egor Run Animation", Id = 110895566503220},
     {name = "Sleepy Fold", Id = 99884600777781},
-    {name = "Supermodel Fantasy (LOOP)", Id = 85622303949996}
+    {name = "Supermodel Fantasy (LOOP)", Id = 85622303949996},
+    {name = "Baddie Shake", Id = 82290588229832}
 
 }
