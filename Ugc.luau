@@ -332,5 +332,6 @@ _G.tools = {
     {name = "half of a heart pair pose", Id = 101317872828570},
     {name = "Solo Leveling – Sung Jin Woo Goku Warmup", Id = 98936612652622},
     {name = "Infinite R6 Backflips", Id = 112134081988873},
-    {name = "KJ", Id = 139302979952874}
+    {name = "KJ", Id = 139302979952874},
+    {name = "Drone", Id = 121049172692579}
 }
