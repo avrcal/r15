@@ -318,6 +318,7 @@ _G.tools = {
     {name = "Hood Dance", Id = 108171959207138},
     {name = "Hood Dance 2", Id = 111534221408404},
     {name = "Truck Driving Looped", Id = 138861918679066},
-    {name = "rolling crybaby", Id = 129699431093711}
+    {name = "rolling crybaby", Id = 129699431093711},
+    {name = "Your Idol", Id = 112354084479644}
 
 }
