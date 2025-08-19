@@ -325,5 +325,6 @@ _G.tools = {
     {name = "MM2 Fake Death 💀", Id = 102864893189040},
     {name = "/e fling", Id = 122963771713861},
     {name = "Fashion Model Catwalk", Id = 127834645809981},
-    {name = "♡ (BEST) sassy model catwalk diva", Id = 80313618518510}
+    {name = "♡ (BEST) sassy model catwalk diva", Id = 80313618518510},
+    {name = "Sassy Diva Model Catwalk", Id = 76677916613028}
 }
