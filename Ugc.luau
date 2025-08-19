@@ -311,6 +311,7 @@ _G.tools = {
     {name = "[MATCHING] Gojo Walk", Id = 72284053953674},
     {name = "Emperor Aura Pose", Id = 83177043847912},
     {name = "FORSAKEN John Doe Pose", Id = 72526127498800},
-    {name = "Flag", Id = 88997563858218}
+    {name = "Flag", Id = 88997563858218},
+    {name = "Hide ( Stay below the ground )", Id = 117235285849847}
 
 }
