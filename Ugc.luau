@@ -328,5 +328,6 @@ _G.tools = {
     {name = "♡ (BEST) sassy model catwalk diva", Id = 80313618518510},
     {name = "Sassy Diva Model Catwalk", Id = 76677916613028},
     {name = "Head Car Obby", Id = 114659902242081},
-    {name = "Nicki Minaj High School Pose", Id = 124452903969816}
+    {name = "Nicki Minaj High School Pose", Id = 124452903969816},
+    {name = "half of a heart pair pose", Id = 101317872828570}
 }
