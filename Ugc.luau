@@ -333,5 +333,6 @@ _G.tools = {
     {name = "Solo Leveling – Sung Jin Woo Goku Warmup", Id = 98936612652622},
     {name = "Infinite R6 Backflips", Id = 112134081988873},
     {name = "KJ", Id = 139302979952874},
-    {name = "Drone", Id = 121049172692579}
+    {name = "Drone", Id = 121049172692579},
+    {name = "[Glitched] Big L", Id = 106043806421765}
 }
