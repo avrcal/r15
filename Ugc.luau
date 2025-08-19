@@ -320,6 +320,6 @@ _G.tools = {
     {name = "Truck Driving Looped", Id = 138861918679066},
     {name = "rolling crybaby", Id = 129699431093711},
     {name = "Your Idol", Id = 112354084479644},
-    {name = "Rin Itoshi", Id = 122306366995847}
-
+    {name = "Rin Itoshi", Id = 122306366995847},
+    {name = "Retro Dance", Id = 89373379864690}
 }
