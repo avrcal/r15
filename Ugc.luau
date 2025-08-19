@@ -336,5 +336,6 @@ _G.tools = {
     {name = "Drone", Id = 121049172692579},
     {name = "[Glitched] Big L", Id = 106043806421765},
     {name = "Hamster Wheel", Id = 122395450603288},
-    {name = "Power Blast", Id = 10714389396}
+    {name = "Power Blast", Id = 10714389396},
+    {name = "Diva Spotlight", Id = 125242128671008}
 }
