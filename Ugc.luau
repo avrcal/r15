@@ -330,5 +330,6 @@ _G.tools = {
     {name = "Head Car Obby", Id = 114659902242081},
     {name = "Nicki Minaj High School Pose", Id = 124452903969816},
     {name = "half of a heart pair pose", Id = 101317872828570},
-    {name = "Solo Leveling – Sung Jin Woo Goku Warmup", Id = 98936612652622}
+    {name = "Solo Leveling – Sung Jin Woo Goku Warmup", Id = 98936612652622},
+    {name = "Infinite R6 Backflips", Id = 112134081988873}
 }
