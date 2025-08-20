@@ -388,5 +388,6 @@ _G.tools = {
     {name = "Sonic's Idle", Id = 104340881915453},
     {name = "Sonic The Hedgehog Breakdance", Id = 103921013750164},
     {name = "[FUN] Be a Sign", Id = 135356106693857},
-    {name = "good boy dog sit", Id = 121231009240838}
+    {name = "good boy dog sit", Id = 121231009240838},
+    {name = "Huda's Signature Move", Id = 102969907406039}
 }
