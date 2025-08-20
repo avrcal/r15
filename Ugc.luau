@@ -352,5 +352,6 @@ _G.tools = {
     {name = "Die Lit", Id = 130445733737505},
     {name = "Rose Kneel V2", Id = 88821774101564},
     {name = "Xaviersobased Emote [ORIGINAL]", Id = 126267736796071},
-    {name = "Druski Dance", Id = 100720024673692}
+    {name = "Druski Dance", Id = 100720024673692},
+    {name = "Philly Tang (Split Mid Tang)", Id = 94609859253649}
 }
