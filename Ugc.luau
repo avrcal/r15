@@ -355,5 +355,6 @@ _G.tools = {
     {name = "Druski Dance", Id = 100720024673692},
     {name = "Philly Tang (Split Mid Tang)", Id = 94609859253649},
     {name = "Get Sturdy", Id = 133050549047747},
-    {name = "Hit Dem Folks", Id = 134499922212008}
+    {name = "Hit Dem Folks", Id = 134499922212008},
+    {name = "WAVE", Id = 137648658870915}
 }
