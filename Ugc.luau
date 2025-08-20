@@ -369,5 +369,6 @@ _G.tools = {
     {name = "Sonic's Spindash", Id = 119889021060156},
     {name = "llorar", Id = 91741146586434},
     {name = "pose 28", Id = 100506368182961},
-    {name = "Idol - Saja Boys", Id = 74062879356538}
+    {name = "Idol - Saja Boys", Id = 74062879356538},
+    {name = "Your Idol", Id = 127121740972134}
 }
