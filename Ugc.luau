@@ -342,5 +342,6 @@ _G.tools = {
     {name = "Sassy Diva Idle", Id = 90951476023165},
     {name = "Diva Laying Down - Model Pose", Id = 75566100254160},
     {name = "Fierce Sassy Diva Catwalk", Id = 93144545501660},
-    {name = "Fashion Model Catwalk", Id = 116671212353395}
+    {name = "Fashion Model Catwalk", Id = 116671212353395},
+    {name = "daddy fing Dance", Id = 115755052140627}
 }
