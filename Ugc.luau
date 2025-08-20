@@ -366,5 +366,6 @@ _G.tools = {
     {name = "Dwerk", Id = 82555245171693},
     {name = "Sonic the Hedgehog Run", Id = 85752365414182},
     {name = "Sonic Idle Wait Animation", Id = 75752382380063},
-    {name = "Sonic's Spindash", Id = 119889021060156}
+    {name = "Sonic's Spindash", Id = 119889021060156},
+    {name = "llorar", Id = 91741146586434}
 }
