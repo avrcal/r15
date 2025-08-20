@@ -359,5 +359,6 @@ _G.tools = {
     {name = "WAVE", Id = 137648658870915},
     {name = "Relax Twin", Id = 76674304652918},
     {name = "Monster", Id = 115925857222691},
-    {name = "Box up", Id = 92210214911000}
+    {name = "Box up", Id = 92210214911000},
+    {name = "Dark Fountain - Deltarune", Id = 108582534585198}
 }
