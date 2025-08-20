@@ -348,5 +348,6 @@ _G.tools = {
     {name = "Animation", Id = 81521372155417},
     {name = "Cat Licking Its leg", Id = 86853627824669},
     {name = "♡ Sat down on knees v1", Id = 90772982440422},
-    {name = "Sit - Knee Sit", Id = 86335124950678}
+    {name = "Sit - Knee Sit", Id = 86335124950678},
+    {name = "Die Lit", Id = 130445733737505}
 }
