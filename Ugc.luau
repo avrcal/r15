@@ -364,5 +364,6 @@ _G.tools = {
     {name = "One Arm Pushup (perfect loop)", Id = 117251272422646},
     {name = "V4 Human Pose", Id = 70707650375351},
     {name = "Dwerk", Id = 82555245171693},
-    {name = "Sonic the Hedgehog Run", Id = 85752365414182}
+    {name = "Sonic the Hedgehog Run", Id = 85752365414182},
+    {name = "Sonic Idle Wait Animation", Id = 75752382380063}
 }
