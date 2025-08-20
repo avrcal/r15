@@ -380,5 +380,6 @@ _G.tools = {
     {name = "Sonic Finger Wag Pose", Id = 72318173920433},
     {name = "Freaky Sonic 🦔", Id = 74846170435450},
     {name = "Giant Hand Grab", Id = 97394961469038},
-    {name = "Giant hand grab (picks your head up)", Id = 85274143755887}
+    {name = "Giant hand grab (picks your head up)", Id = 85274143755887},
+    {name = "Rabbit other people (hand)", Id = 78472740524365}
 }
