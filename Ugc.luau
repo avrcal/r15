@@ -345,5 +345,6 @@ _G.tools = {
     {name = "Fashion Model Catwalk", Id = 116671212353395},
     {name = "daddy fing Dance", Id = 115755052140627},
     {name = "Model backstage Emote", Id = 97255747167046},
-    {name = "Animation", Id = 81521372155417}
+    {name = "Animation", Id = 81521372155417},
+    {name = "Cat Licking Its leg", Id = 86853627824669}
 }
