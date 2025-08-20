@@ -376,5 +376,6 @@ _G.tools = {
     {name = "Big Hand Point", Id = 71439424797320},
     {name = "OK Hand👌", Id = 100188963456227},
     {name = "Big Hand Come Here", Id = 70624447898635},
-    {name = "Classic Sonic Run", Id = 137135247245806}
+    {name = "Classic Sonic Run", Id = 137135247245806},
+    {name = "Sonic Finger Wag Pose", Id = 72318173920433}
 }
