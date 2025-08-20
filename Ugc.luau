@@ -363,5 +363,6 @@ _G.tools = {
     {name = "Dark Fountain - Deltarune", Id = 108582534585198},
     {name = "One Arm Pushup (perfect loop)", Id = 117251272422646},
     {name = "V4 Human Pose", Id = 70707650375351},
-    {name = "Dwerk", Id = 82555245171693}
+    {name = "Dwerk", Id = 82555245171693},
+    {name = "Sonic the Hedgehog Run", Id = 85752365414182}
 }
