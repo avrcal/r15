@@ -350,5 +350,6 @@ _G.tools = {
     {name = "♡ Sat down on knees v1", Id = 90772982440422},
     {name = "Sit - Knee Sit", Id = 86335124950678},
     {name = "Die Lit", Id = 130445733737505},
-    {name = "Rose Kneel V2", Id = 88821774101564}
+    {name = "Rose Kneel V2", Id = 88821774101564},
+    {name = "Xaviersobased Emote [ORIGINAL]", Id = 126267736796071}
 }
