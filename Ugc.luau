@@ -372,5 +372,6 @@ _G.tools = {
     {name = "Idol - Saja Boys", Id = 74062879356538},
     {name = "Your Idol", Id = 127121740972134},
     {name = "Rest", Id = 89854747707257},
-    {name = "Sturdy", Id = 121397018477703}
+    {name = "Sturdy", Id = 121397018477703},
+    {name = "Big Hand Point", Id = 71439424797320}
 }
