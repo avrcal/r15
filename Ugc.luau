@@ -397,5 +397,6 @@ _G.tools = {
     {name = "One Handed Push Up", Id = 140409138293585},
     {name = "Animation", Id = 120042759066139},
     {name = "CPR", Id = 80712297212927},
-    {name = "The Receive You Pose", Id = 80172557434326}
+    {name = "The Receive You Pose", Id = 80172557434326},
+    {name = "Light Post", Id = 136418721245851}
 }
