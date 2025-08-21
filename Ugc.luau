@@ -401,5 +401,6 @@ _G.tools = {
     {name = "Light Post", Id = 136418721245851},
     {name = "Casual Lay", Id = 127189257392992},
     {name = "Low Crawl", Id = 132646845827726},
-    {name = "~ Idle sit ~", Id = 123179252403955}
+    {name = "~ Idle sit ~", Id = 123179252403955},
+    {name = "Look Up", Id = 82471397502609}
 }
