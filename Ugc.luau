@@ -438,5 +438,6 @@ _G.tools = {
     {name = "♡ cute kawaii scratching arms emote", Id = 78753379510352},
     {name = "Koto Nai Meme Dance", Id = 96355916263786},
     {name = "Happy Sit", Id = 133597663639529},
-    {name = "Crucified Cross", Id = 82158457562073}
+    {name = "Crucified Cross", Id = 82158457562073},
+    {name = "Invincible Dance (Lonely) 💃", Id = 82859575920829}
 }
