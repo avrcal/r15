@@ -413,5 +413,6 @@ _G.tools = {
     {name = "Chill Aura Farming 🔥", Id = 92234677136253},
     {name = "Iconic It-Girl sit pose", Id = 107157439301353},
     {name = "FLYING BUG", Id = 71836981213967},
-    {name = "Flying Phonk Edit", Id = 129533830788044}
+    {name = "Flying Phonk Edit", Id = 129533830788044},
+    {name = "Flying Superhero", Id = 122698959016442}
 }
