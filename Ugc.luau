@@ -426,5 +426,6 @@ _G.tools = {
     {name = "Pill Baby", Id = 114453371616620},
     {name = "Rose Gift    ( not only rose )", Id = 107990372400562},
     {name = "Good Boy", Id = 96672468030543},
-    {name = "Michael Myers bounce", Id = 129357062468183}
+    {name = "Michael Myers bounce", Id = 129357062468183},
+    {name = "Dies and Fall", Id = 136565014109768}
 }
