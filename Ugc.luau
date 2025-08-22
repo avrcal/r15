@@ -420,5 +420,6 @@ _G.tools = {
     {name = "Sonic and Tails Dance Meme", Id = 81767423993408},
     {name = "Spamton's Laugh (DELTARUNE)", Id = 138985974444821},
     {name = "Spamton NEO - DELTARUNE 💛🩷", Id = 123691096574324},
-    {name = "Mr \"ant\" Tenna's Kick - Deltarune", Id = 138408477594658}
+    {name = "Mr \"ant\" Tenna's Kick - Deltarune", Id = 138408477594658},
+    {name = "Jevil Dance - DELTARUNE", Id = 115235486965985}
 }
