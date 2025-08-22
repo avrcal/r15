@@ -442,5 +442,6 @@ _G.tools = {
     {name = "Invincible Dance (Lonely) 💃", Id = 82859575920829},
     {name = "Invincible Dance (Lonely)", Id = 78992998701942},
     {name = "Baddie Iconic Dance", Id = 131295510841442},
-    {name = "Shake That", Id = 138296642082362}
+    {name = "Shake That", Id = 138296642082362},
+    {name = "Vogue slay dance", Id = 130545124957010}
 }
