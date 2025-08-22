@@ -423,5 +423,6 @@ _G.tools = {
     {name = "Mr \"ant\" Tenna's Kick - Deltarune", Id = 138408477594658},
     {name = "Jevil Dance - DELTARUNE", Id = 115235486965985},
     {name = "Cloning Yourself", Id = 93009687042296},
-    {name = "Pill Baby", Id = 114453371616620}
+    {name = "Pill Baby", Id = 114453371616620},
+    {name = "Rose Gift    ( not only rose )", Id = 107990372400562}
 }
