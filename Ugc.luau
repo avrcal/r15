@@ -406,5 +406,6 @@ _G.tools = {
     {name = "Spread", Id = 98379434657133},
     {name = "Invisible Car", Id = 140215712191311},
     {name = "puppy begging", Id = 93675483172728},
-    {name = "Begging", Id = 116519048471565}
+    {name = "Begging", Id = 116519048471565},
+    {name = "Big Hand Stop", Id = 106930634237455}
 }
