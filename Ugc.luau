@@ -419,5 +419,6 @@ _G.tools = {
     {name = "Fling Emote (WORKS 2025)", Id = 119089986129204},
     {name = "Sonic and Tails Dance Meme", Id = 81767423993408},
     {name = "Spamton's Laugh (DELTARUNE)", Id = 138985974444821},
-    {name = "Spamton NEO - DELTARUNE 💛🩷", Id = 123691096574324}
+    {name = "Spamton NEO - DELTARUNE 💛🩷", Id = 123691096574324},
+    {name = "Mr \"ant\" Tenna's Kick - Deltarune", Id = 138408477594658}
 }
