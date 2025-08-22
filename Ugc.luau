@@ -425,5 +425,6 @@ _G.tools = {
     {name = "Cloning Yourself", Id = 93009687042296},
     {name = "Pill Baby", Id = 114453371616620},
     {name = "Rose Gift    ( not only rose )", Id = 107990372400562},
-    {name = "Good Boy", Id = 96672468030543}
+    {name = "Good Boy", Id = 96672468030543},
+    {name = "Michael Myers bounce", Id = 129357062468183}
 }
