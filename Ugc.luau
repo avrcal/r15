@@ -417,5 +417,6 @@ _G.tools = {
     {name = "Flying Superhero", Id = 122698959016442},
     {name = "Dante Hakari Lonely Lonely Dance", Id = 72074113792421},
     {name = "Fling Emote (WORKS 2025)", Id = 119089986129204},
-    {name = "Sonic and Tails Dance Meme", Id = 81767423993408}
+    {name = "Sonic and Tails Dance Meme", Id = 81767423993408},
+    {name = "Spamton's Laugh (DELTARUNE)", Id = 138985974444821}
 }
