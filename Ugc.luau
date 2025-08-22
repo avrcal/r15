@@ -429,5 +429,6 @@ _G.tools = {
     {name = "Michael Myers bounce", Id = 129357062468183},
     {name = "Dies and Fall", Id = 136565014109768},
     {name = "Dougie Meme Dance", Id = 87574738912971},
-    {name = "Nyan Nyan!", Id = 77334407845616}
+    {name = "Nyan Nyan!", Id = 77334407845616},
+    {name = "Tyla Dance", Id = 111754856931573}
 }
