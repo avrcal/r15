@@ -434,5 +434,6 @@ _G.tools = {
     {name = "Building Back Up", Id = 95235457468275},
     {name = "Worm", Id = 139405123211195},
     {name = "Did That Just Happen?", Id = 78228273630552},
-    {name = "Ian Freestyle Dance", Id = 97673039193829}
+    {name = "Ian Freestyle Dance", Id = 97673039193829},
+    {name = "♡ cute kawaii scratching arms emote", Id = 78753379510352}
 }
