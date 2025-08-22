@@ -410,5 +410,6 @@ _G.tools = {
     {name = "Big Hand Stop", Id = 106930634237455},
     {name = "˚ ๑ Cutesy tired leg kick", Id = 139267081685489},
     {name = "Hand Gun", Id = 113512371801561},
-    {name = "Chill Aura Farming 🔥", Id = 92234677136253}
+    {name = "Chill Aura Farming 🔥", Id = 92234677136253},
+    {name = "Iconic It-Girl sit pose", Id = 107157439301353}
 }
