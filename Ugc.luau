@@ -439,5 +439,6 @@ _G.tools = {
     {name = "Koto Nai Meme Dance", Id = 96355916263786},
     {name = "Happy Sit", Id = 133597663639529},
     {name = "Crucified Cross", Id = 82158457562073},
-    {name = "Invincible Dance (Lonely) 💃", Id = 82859575920829}
+    {name = "Invincible Dance (Lonely) 💃", Id = 82859575920829},
+    {name = "Invincible Dance (Lonely)", Id = 78992998701942}
 }
