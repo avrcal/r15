@@ -436,5 +436,6 @@ _G.tools = {
     {name = "Did That Just Happen?", Id = 78228273630552},
     {name = "Ian Freestyle Dance", Id = 97673039193829},
     {name = "♡ cute kawaii scratching arms emote", Id = 78753379510352},
-    {name = "Koto Nai Meme Dance", Id = 96355916263786}
+    {name = "Koto Nai Meme Dance", Id = 96355916263786},
+    {name = "Happy Sit", Id = 133597663639529}
 }
