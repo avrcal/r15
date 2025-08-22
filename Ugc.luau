@@ -415,5 +415,6 @@ _G.tools = {
     {name = "FLYING BUG", Id = 71836981213967},
     {name = "Flying Phonk Edit", Id = 129533830788044},
     {name = "Flying Superhero", Id = 122698959016442},
-    {name = "Dante Hakari Lonely Lonely Dance", Id = 72074113792421}
+    {name = "Dante Hakari Lonely Lonely Dance", Id = 72074113792421},
+    {name = "Fling Emote (WORKS 2025)", Id = 119089986129204}
 }
