@@ -408,5 +408,6 @@ _G.tools = {
     {name = "puppy begging", Id = 93675483172728},
     {name = "Begging", Id = 116519048471565},
     {name = "Big Hand Stop", Id = 106930634237455},
-    {name = "˚ ๑ Cutesy tired leg kick", Id = 139267081685489}
+    {name = "˚ ๑ Cutesy tired leg kick", Id = 139267081685489},
+    {name = "Hand Gun", Id = 113512371801561}
 }
