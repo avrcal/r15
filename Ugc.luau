@@ -454,5 +454,6 @@ _G.tools = {
     {name = "Cute standing model roblox profil pose", Id = 115655045433093},
     {name = "model pose", Id = 118789900467595},
     {name = "Hand on Hip Model Pose", Id = 95223145607985},
-    {name = "Boogie Down", Id = 99662142344622}
+    {name = "Boogie Down", Id = 99662142344622},
+    {name = "Bhangra Dance", Id = 78416657618448}
 }
