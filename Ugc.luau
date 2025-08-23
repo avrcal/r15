@@ -450,5 +450,6 @@ _G.tools = {
     {name = "Sit ups", Id = 80091554871875},
     {name = "Angry Bot Transformation", Id = 107822345289154},
     {name = "Fierce Model Pose", Id = 127141077930802},
-    {name = "it-girl model idle - my legs were too long", Id = 79619349881095}
+    {name = "it-girl model idle - my legs were too long", Id = 79619349881095},
+    {name = "Cute standing model roblox profil pose", Id = 115655045433093}
 }
