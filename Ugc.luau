@@ -464,5 +464,6 @@ _G.tools = {
     {name = "Horror Slow Turn", Id = 138302459593965},
     {name = "Did you see that? [HORROR EMOTE]", Id = 112598544838590},
     {name = "Among Us Impostor", Id = 74927572934777},
-    {name = "Among Us Transformation", Id = 131612129541666}
+    {name = "Among Us Transformation", Id = 131612129541666},
+    {name = "Among us", Id = 128608780788731}
 }
