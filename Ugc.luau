@@ -471,5 +471,6 @@ _G.tools = {
     {name = "Fashion Catwalk [BEST]", Id = 124804250276495},
     {name = "Chic Main Character Pose", Id = 106246327798265},
     {name = "Wall Lean Pose", Id = 113694692828125},
-    {name = "Cute Fashionable Socialite Model Pose", Id = 110439900388239}
+    {name = "Cute Fashionable Socialite Model Pose", Id = 110439900388239},
+    {name = "Fashion Model Strut", Id = 126820186215782}
 }
