@@ -475,5 +475,6 @@ _G.tools = {
     {name = "Fashion Model Strut", Id = 126820186215782},
     {name = "Cute Hips Profile Pose", Id = 117181705578424},
     {name = "Serving!", Id = 124560832880143},
-    {name = "Draw me pose", Id = 130317846682410}
+    {name = "Draw me pose", Id = 130317846682410},
+    {name = "8 Legged Spider", Id = 92589779095965}
 }
