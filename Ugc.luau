@@ -457,5 +457,6 @@ _G.tools = {
     {name = "Boogie Down", Id = 99662142344622},
     {name = "Bhangra Dance", Id = 78416657618448},
     {name = "Bhangra Boogie", Id = 71219671516096},
-    {name = "Fantasy Feet", Id = 82595025931541}
+    {name = "Fantasy Feet", Id = 82595025931541},
+    {name = "Shimmer Dance", Id = 114368887387926}
 }
