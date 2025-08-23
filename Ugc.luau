@@ -477,5 +477,6 @@ _G.tools = {
     {name = "Serving!", Id = 124560832880143},
     {name = "Draw me pose", Id = 130317846682410},
     {name = "8 Legged Spider", Id = 92589779095965},
-    {name = "Rewrite Idle", Id = 132262897491916}
+    {name = "Rewrite Idle", Id = 132262897491916},
+    {name = "Become a Sigma Scorpion", Id = 97816659227500}
 }
