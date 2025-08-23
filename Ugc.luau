@@ -460,5 +460,6 @@ _G.tools = {
     {name = "Fantasy Feet", Id = 82595025931541},
     {name = "Shimmer Dance", Id = 114368887387926},
     {name = "GRIMES - Oblivion", Id = 117081427175655},
-    {name = "Horror Animatronic (🤖)", Id = 87182616587543}
+    {name = "Horror Animatronic (🤖)", Id = 87182616587543},
+    {name = "Horror Slow Turn", Id = 138302459593965}
 }
