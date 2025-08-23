@@ -466,5 +466,6 @@ _G.tools = {
     {name = "Among Us Impostor", Id = 74927572934777},
     {name = "Among Us Transformation", Id = 131612129541666},
     {name = "Among us", Id = 128608780788731},
-    {name = "Shucks Cutscene - Jeffy's Infinite Irida", Id = 117049210758411}
+    {name = "Shucks Cutscene - Jeffy's Infinite Irida", Id = 117049210758411},
+    {name = "Supermodel Fashion Pose [POSE ONLY]", Id = 114997417093861}
 }
