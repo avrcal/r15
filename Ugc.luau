@@ -447,5 +447,6 @@ _G.tools = {
     {name = "California Girls", Id = 111281033685433},
     {name = "Rambunctious", Id = 73076792562374},
     {name = "Louisiana Jiggin", Id = 121856481052373},
-    {name = "Sit ups", Id = 80091554871875}
+    {name = "Sit ups", Id = 80091554871875},
+    {name = "Angry Bot Transformation", Id = 107822345289154}
 }
