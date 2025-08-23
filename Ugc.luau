@@ -468,5 +468,6 @@ _G.tools = {
     {name = "Among us", Id = 128608780788731},
     {name = "Shucks Cutscene - Jeffy's Infinite Irida", Id = 117049210758411},
     {name = "Supermodel Fashion Pose [POSE ONLY]", Id = 114997417093861},
-    {name = "Fashion Catwalk [BEST]", Id = 124804250276495}
+    {name = "Fashion Catwalk [BEST]", Id = 124804250276495},
+    {name = "Chic Main Character Pose", Id = 106246327798265}
 }
