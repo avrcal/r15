@@ -462,5 +462,6 @@ _G.tools = {
     {name = "GRIMES - Oblivion", Id = 117081427175655},
     {name = "Horror Animatronic (🤖)", Id = 87182616587543},
     {name = "Horror Slow Turn", Id = 138302459593965},
-    {name = "Did you see that? [HORROR EMOTE]", Id = 112598544838590}
+    {name = "Did you see that? [HORROR EMOTE]", Id = 112598544838590},
+    {name = "Among Us Impostor", Id = 74927572934777}
 }
