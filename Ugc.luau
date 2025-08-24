@@ -485,5 +485,6 @@ _G.tools = {
     {name = "Shedletsky Chicken Dance", Id = 97886579105184},
     {name = "Shark Transform Morph", Id = 100758118369323},
     {name = "Be a Duck! [Duck Transformation]", Id = 116188028995055},
-    {name = "Snake", Id = 87173235683810}
+    {name = "Snake", Id = 87173235683810},
+    {name = "[RAPID FIRE] 🔫 Gun Morph", Id = 107728954756412}
 }
