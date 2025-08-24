@@ -482,5 +482,6 @@ _G.tools = {
     {name = "Miss The Quiet (idle)", Id = 83613946513780},
     {name = "Miss The Quiet [BEST]", Id = 76444905405605},
     {name = "Chicken Transformation", Id = 110949952640699},
-    {name = "Shedletsky Chicken Dance", Id = 97886579105184}
+    {name = "Shedletsky Chicken Dance", Id = 97886579105184},
+    {name = "Shark Transform Morph", Id = 100758118369323}
 }
