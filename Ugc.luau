@@ -481,5 +481,6 @@ _G.tools = {
     {name = "Become a Sigma Scorpion", Id = 97816659227500},
     {name = "Miss The Quiet (idle)", Id = 83613946513780},
     {name = "Miss The Quiet [BEST]", Id = 76444905405605},
-    {name = "Chicken Transformation", Id = 110949952640699}
+    {name = "Chicken Transformation", Id = 110949952640699},
+    {name = "Shedletsky Chicken Dance", Id = 97886579105184}
 }
