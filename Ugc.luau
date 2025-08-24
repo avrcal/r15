@@ -484,5 +484,6 @@ _G.tools = {
     {name = "Chicken Transformation", Id = 110949952640699},
     {name = "Shedletsky Chicken Dance", Id = 97886579105184},
     {name = "Shark Transform Morph", Id = 100758118369323},
-    {name = "Be a Duck! [Duck Transformation]", Id = 116188028995055}
+    {name = "Be a Duck! [Duck Transformation]", Id = 116188028995055},
+    {name = "Snake", Id = 87173235683810}
 }
