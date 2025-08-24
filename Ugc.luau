@@ -487,5 +487,6 @@ _G.tools = {
     {name = "Be a Duck! [Duck Transformation]", Id = 116188028995055},
     {name = "Snake", Id = 87173235683810},
     {name = "[RAPID FIRE] 🔫 Gun Morph", Id = 107728954756412},
-    {name = "🐈 Maxwell Cat Loaf Dance / Meme Emote", Id = 72355446429894}
+    {name = "🐈 Maxwell Cat Loaf Dance / Meme Emote", Id = 72355446429894},
+    {name = "Dancing Flower", Id = 117305811805946}
 }
