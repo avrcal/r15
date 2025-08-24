@@ -488,5 +488,6 @@ _G.tools = {
     {name = "Snake", Id = 87173235683810},
     {name = "[RAPID FIRE] 🔫 Gun Morph", Id = 107728954756412},
     {name = "🐈 Maxwell Cat Loaf Dance / Meme Emote", Id = 72355446429894},
-    {name = "Dancing Flower", Id = 117305811805946}
+    {name = "Dancing Flower", Id = 117305811805946},
+    {name = "[BEST] Soda Pop", Id = 139110277540140}
 }
