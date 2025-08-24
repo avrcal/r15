@@ -498,5 +498,6 @@ _G.tools = {
     {name = "BOW BOW2", Id = 86614271373316},
     {name = "BOW BOW", Id = 120897740631858},
     {name = "TRIPPIN", Id = 92882064867812},
-    {name = "The Pogo Stick", Id = 88251474896553}
+    {name = "The Pogo Stick", Id = 88251474896553},
+    {name = "Go Left!", Id = 121770143218588}
 }
