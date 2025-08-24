@@ -504,5 +504,6 @@ _G.tools = {
     {name = "Alibi", Id = 129457968487307},
     {name = "Im Talm Bout Innit", Id = 73034550328053},
     {name = "Nola Bounce", Id = 91615244811441},
-    {name = "Unemployment Unemployed Dance [BEST]", Id = 84077545487461}
+    {name = "Unemployment Unemployed Dance [BEST]", Id = 84077545487461},
+    {name = "Wally's Pose", Id = 106169111259587}
 }
