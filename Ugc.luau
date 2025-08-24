@@ -496,5 +496,6 @@ _G.tools = {
     {name = "Trip Out", Id = 135562069901689},
     {name = "Eenie Meenie Chicago Dance", Id = 133345675760100},
     {name = "BOW BOW2", Id = 86614271373316},
-    {name = "BOW BOW", Id = 120897740631858}
+    {name = "BOW BOW", Id = 120897740631858},
+    {name = "TRIPPIN", Id = 92882064867812}
 }
