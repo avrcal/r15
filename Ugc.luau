@@ -492,5 +492,6 @@ _G.tools = {
     {name = "[BEST] Soda Pop", Id = 139110277540140},
     {name = "Golden Demon Hunters KPOP Dance", Id = 81892183611467},
     {name = "Unspoken rizz 2", Id = 80499191946675},
-    {name = "Kicking Feet", Id = 116713094131427}
+    {name = "Kicking Feet", Id = 116713094131427},
+    {name = "Trip Out", Id = 135562069901689}
 }
