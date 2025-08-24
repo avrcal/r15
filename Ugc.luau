@@ -493,5 +493,6 @@ _G.tools = {
     {name = "Golden Demon Hunters KPOP Dance", Id = 81892183611467},
     {name = "Unspoken rizz 2", Id = 80499191946675},
     {name = "Kicking Feet", Id = 116713094131427},
-    {name = "Trip Out", Id = 135562069901689}
+    {name = "Trip Out", Id = 135562069901689},
+    {name = "Eenie Meenie Chicago Dance", Id = 133345675760100}
 }
