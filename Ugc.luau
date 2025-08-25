@@ -513,5 +513,6 @@ _G.tools = {
     {name = "♡ : trying to balance pose", Id = 108880441370604},
     {name = "Polygonal Balance", Id = 138059065792090},
     {name = "Balance", Id = 138873458140629},
-    {name = "Popular - Emote", Id = 86129126182531}
+    {name = "Popular - Emote", Id = 86129126182531},
+    {name = "/e invisible (works in every game)", Id = 75248601225213}
 }
