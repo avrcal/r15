@@ -519,5 +519,6 @@ _G.tools = {
     {name = "DVD Screensaver", Id = 110256084399011},
     {name = "Scenario - LOVE SCENARIO", Id = 103710256055561},
     {name = "Block Fall", Id = 135641387319794},
-    {name = "Love Sign", Id = 134478460891375}
+    {name = "Love Sign", Id = 134478460891375},
+    {name = "Sway Sway", Id = 94487045794016}
 }
