@@ -525,5 +525,6 @@ _G.tools = {
     {name = "Reverse Flash Mirage [Emote]", Id = 128202703545256},
     {name = "Milwaukee Certified Trapper Dance", Id = 139740978365111},
     {name = "Milwaukee Footwork", Id = 116722140985295},
-    {name = "90s Supermodel Pose", Id = 116786302817093}
+    {name = "90s Supermodel Pose", Id = 116786302817093},
+    {name = "Supermodel Catwalk Diva", Id = 100772937047394}
 }
