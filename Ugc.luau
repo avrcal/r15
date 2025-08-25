@@ -522,5 +522,6 @@ _G.tools = {
     {name = "Love Sign", Id = 134478460891375},
     {name = "Sway Sway", Id = 94487045794016},
     {name = "Undertale Sans idle v2", Id = 123627677663418},
-    {name = "Reverse Flash Mirage [Emote]", Id = 128202703545256}
+    {name = "Reverse Flash Mirage [Emote]", Id = 128202703545256},
+    {name = "Milwaukee Certified Trapper Dance", Id = 139740978365111}
 }
