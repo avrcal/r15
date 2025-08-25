@@ -518,5 +518,6 @@ _G.tools = {
     {name = "Summon A Friend", Id = 118979452794479},
     {name = "DVD Screensaver", Id = 110256084399011},
     {name = "Scenario - LOVE SCENARIO", Id = 103710256055561},
-    {name = "Block Fall", Id = 135641387319794}
+    {name = "Block Fall", Id = 135641387319794},
+    {name = "Love Sign", Id = 134478460891375}
 }
