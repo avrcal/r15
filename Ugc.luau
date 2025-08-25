@@ -511,5 +511,6 @@ _G.tools = {
     {name = "Cute Sit", Id = 131836270858895},
     {name = "Cute swaying girly crouch sit", Id = 126025646410749},
     {name = "♡ : trying to balance pose", Id = 108880441370604},
-    {name = "Polygonal Balance", Id = 138059065792090}
+    {name = "Polygonal Balance", Id = 138059065792090},
+    {name = "Balance", Id = 138873458140629}
 }
