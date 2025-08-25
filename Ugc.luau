@@ -516,5 +516,6 @@ _G.tools = {
     {name = "Popular - Emote", Id = 86129126182531},
     {name = "/e invisible (works in every game)", Id = 75248601225213},
     {name = "Summon A Friend", Id = 118979452794479},
-    {name = "DVD Screensaver", Id = 110256084399011}
+    {name = "DVD Screensaver", Id = 110256084399011},
+    {name = "Scenario - LOVE SCENARIO", Id = 103710256055561}
 }
