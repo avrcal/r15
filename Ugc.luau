@@ -514,5 +514,6 @@ _G.tools = {
     {name = "Polygonal Balance", Id = 138059065792090},
     {name = "Balance", Id = 138873458140629},
     {name = "Popular - Emote", Id = 86129126182531},
-    {name = "/e invisible (works in every game)", Id = 75248601225213}
+    {name = "/e invisible (works in every game)", Id = 75248601225213},
+    {name = "Summon A Friend", Id = 118979452794479}
 }
