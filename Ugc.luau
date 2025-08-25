@@ -509,5 +509,6 @@ _G.tools = {
     {name = "Wally Speedster Run", Id = 121350640829746},
     {name = "Wally West", Id = 88740719567065},
     {name = "Cute Sit", Id = 131836270858895},
-    {name = "Cute swaying girly crouch sit", Id = 126025646410749}
+    {name = "Cute swaying girly crouch sit", Id = 126025646410749},
+    {name = "♡ : trying to balance pose", Id = 108880441370604}
 }
