@@ -523,5 +523,6 @@ _G.tools = {
     {name = "Sway Sway", Id = 94487045794016},
     {name = "Undertale Sans idle v2", Id = 123627677663418},
     {name = "Reverse Flash Mirage [Emote]", Id = 128202703545256},
-    {name = "Milwaukee Certified Trapper Dance", Id = 139740978365111}
+    {name = "Milwaukee Certified Trapper Dance", Id = 139740978365111},
+    {name = "Milwaukee Footwork", Id = 116722140985295}
 }
