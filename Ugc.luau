@@ -526,5 +526,6 @@ _G.tools = {
     {name = "Milwaukee Certified Trapper Dance", Id = 139740978365111},
     {name = "Milwaukee Footwork", Id = 116722140985295},
     {name = "90s Supermodel Pose", Id = 116786302817093},
-    {name = "Supermodel Catwalk Diva", Id = 100772937047394}
+    {name = "Supermodel Catwalk Diva", Id = 100772937047394},
+    {name = "Kita's Doodle Dance", Id = 77342250755530}
 }
