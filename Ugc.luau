@@ -530,5 +530,6 @@ _G.tools = {
     {name = "Kita's Doodle Dance", Id = 77342250755530},
     {name = "PoPiPo", Id = 92396304780436},
     {name = "Static Hatsune Miku", Id = 95919946072009},
-    {name = "[Profile Pose] Pose Model", Id = 108513748907628}
+    {name = "[Profile Pose] Pose Model", Id = 108513748907628},
+    {name = "pose it!", Id = 72848426598065}
 }
