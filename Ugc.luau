@@ -532,5 +532,6 @@ _G.tools = {
     {name = "Static Hatsune Miku", Id = 95919946072009},
     {name = "[Profile Pose] Pose Model", Id = 108513748907628},
     {name = "pose it!", Id = 72848426598065},
-    {name = "Cute sitting model profile pose", Id = 73970675774907}
+    {name = "Cute sitting model profile pose", Id = 73970675774907},
+    {name = "Sitting Profile Pose", Id = 104756984290801}
 }
