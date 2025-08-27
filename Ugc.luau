@@ -541,5 +541,6 @@ _G.tools = {
     {name = "Gon Rage [Aura Farming] IDLE", Id = 136678571910037},
     {name = "[BEST] It's Gangnam Style!", Id = 129764254213842},
     {name = "See Tình", Id = 110006137392825},
-    {name = "Caramelldansen", Id = 113932048991526}
+    {name = "Caramelldansen", Id = 113932048991526},
+    {name = "Dynamic Shuffle", Id = 108424836734073}
 }
