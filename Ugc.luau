@@ -537,5 +537,6 @@ _G.tools = {
     {name = "Cute anime girl sitting pose ♡", Id = 74686098026177},
     {name = "Michael Myers", Id = 135678117799650},
     {name = "Speed Mirage", Id = 115334992181298},
-    {name = "Effortless Aura Pose", Id = 133418516499878}
+    {name = "Effortless Aura Pose", Id = 133418516499878},
+    {name = "Gon Rage [Aura Farming] IDLE", Id = 136678571910037}
 }
