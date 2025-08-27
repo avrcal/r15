@@ -547,5 +547,6 @@ _G.tools = {
     {name = "Philly Top Rock V2", Id = 77726773110669},
     {name = "hip sway", Id = 138316142522795},
     {name = "Singing With Your Imaginary Microphone", Id = 113842081651602},
-    {name = "Invincible Mark Flying Animation", Id = 114722309053999}
+    {name = "Invincible Mark Flying Animation", Id = 114722309053999},
+    {name = "Invincible Variant Edit Flight Idle", Id = 99663556975184}
 }
