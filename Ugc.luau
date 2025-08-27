@@ -535,5 +535,6 @@ _G.tools = {
     {name = "Cute sitting model profile pose", Id = 73970675774907},
     {name = "Sitting Profile Pose", Id = 104756984290801},
     {name = "Cute anime girl sitting pose ♡", Id = 74686098026177},
-    {name = "Michael Myers", Id = 135678117799650}
+    {name = "Michael Myers", Id = 135678117799650},
+    {name = "Speed Mirage", Id = 115334992181298}
 }
