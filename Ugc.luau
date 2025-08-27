@@ -544,5 +544,6 @@ _G.tools = {
     {name = "Caramelldansen", Id = 113932048991526},
     {name = "Dynamic Shuffle", Id = 108424836734073},
     {name = "Funny Fart", Id = 117660257254699},
-    {name = "Philly Top Rock V2", Id = 77726773110669}
+    {name = "Philly Top Rock V2", Id = 77726773110669},
+    {name = "hip sway", Id = 138316142522795}
 }
