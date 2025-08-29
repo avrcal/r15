@@ -560,5 +560,6 @@ _G.tools = {
     {name = "Brazil Event Dance [Steal a Brainrot]", Id = 102931042554706},
     {name = "Disco Zombie - Hypnodancer Emote", Id = 90907772359114},
     {name = "🍝 Officer Earl Run", Id = 104646820775114},
-    {name = "Fake Run Lag", Id = 92822444871071}
+    {name = "Fake Run Lag", Id = 92822444871071},
+    {name = "Deltarune - Tenna Dance", Id = 115605836623904}
 }
