@@ -557,5 +557,6 @@ _G.tools = {
     {name = "Best Survivor (Forsaken Headlock)", Id = 110524831717206},
     {name = "V1 ultrakill floating", Id = 126089616698248},
     {name = "Sad sit", Id = 135038170733436},
-    {name = "Brazil Event Dance [Steal a Brainrot]", Id = 102931042554706}
+    {name = "Brazil Event Dance [Steal a Brainrot]", Id = 102931042554706},
+    {name = "Disco Zombie - Hypnodancer Emote", Id = 90907772359114}
 }
