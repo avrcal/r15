@@ -561,5 +561,6 @@ _G.tools = {
     {name = "Disco Zombie - Hypnodancer Emote", Id = 90907772359114},
     {name = "🍝 Officer Earl Run", Id = 104646820775114},
     {name = "Fake Run Lag", Id = 92822444871071},
-    {name = "Deltarune - Tenna Dance", Id = 115605836623904}
+    {name = "Deltarune - Tenna Dance", Id = 115605836623904},
+    {name = "Tenna Battle Idle [DELTARUNE]", Id = 95890491454626}
 }
