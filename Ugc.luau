@@ -555,5 +555,6 @@ _G.tools = {
     {name = "Confess Dance", Id = 109585388574936},
     {name = "Pray", Id = 81284540778909},
     {name = "Best Survivor (Forsaken Headlock)", Id = 110524831717206},
-    {name = "V1 ultrakill floating", Id = 126089616698248}
+    {name = "V1 ultrakill floating", Id = 126089616698248},
+    {name = "Sad sit", Id = 135038170733436}
 }
