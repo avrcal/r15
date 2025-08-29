@@ -551,5 +551,6 @@ _G.tools = {
     {name = "Invincible Variant Edit Flight Idle", Id = 99663556975184},
     {name = "Real Slim Shady", Id = 118364163216787},
     {name = "SEIZURE", Id = 98719422024341},
-    {name = "Carson Dance", Id = 77630489756523}
+    {name = "Carson Dance", Id = 77630489756523},
+    {name = "Confess Dance", Id = 109585388574936}
 }
