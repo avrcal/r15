@@ -567,5 +567,6 @@ _G.tools = {
     {name = "Sukuna Domain Expansion", Id = 72933881631978},
     {name = "Sukuna Aura Idle", Id = 98352002677627},
     {name = "Sliced", Id = 101359105365571},
-    {name = "Truck Transformation", Id = 83698649510107}
+    {name = "Truck Transformation", Id = 83698649510107},
+    {name = "Little Obbyist", Id = 115569573258316}
 }
