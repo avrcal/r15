@@ -571,5 +571,6 @@ _G.tools = {
     {name = "Little Obbyist", Id = 115569573258316},
     {name = "CaseOh Cube (1x1 Brick)", Id = 117376406721617},
     {name = "[BEST⏳]  GRIDDY EMOTE - FORTNITE", Id = 139972223573427},
-    {name = "Lost in Paradise", Id = 79664884985828}
+    {name = "Lost in Paradise", Id = 79664884985828},
+    {name = "Koto Nai Meme Dance", Id = 83650099589962}
 }
