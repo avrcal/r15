@@ -565,5 +565,6 @@ _G.tools = {
     {name = "Tenna Battle Idle [DELTARUNE]", Id = 95890491454626},
     {name = "Mr. Ant Tennas Battle - DELTARUNE", Id = 117592484737555},
     {name = "Sukuna Domain Expansion", Id = 72933881631978},
-    {name = "Sukuna Aura Idle", Id = 98352002677627}
+    {name = "Sukuna Aura Idle", Id = 98352002677627},
+    {name = "Sliced", Id = 101359105365571}
 }
