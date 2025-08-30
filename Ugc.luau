@@ -568,5 +568,6 @@ _G.tools = {
     {name = "Sukuna Aura Idle", Id = 98352002677627},
     {name = "Sliced", Id = 101359105365571},
     {name = "Truck Transformation", Id = 83698649510107},
-    {name = "Little Obbyist", Id = 115569573258316}
+    {name = "Little Obbyist", Id = 115569573258316},
+    {name = "CaseOh Cube (1x1 Brick)", Id = 117376406721617}
 }
