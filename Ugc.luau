@@ -569,5 +569,6 @@ _G.tools = {
     {name = "Sliced", Id = 101359105365571},
     {name = "Truck Transformation", Id = 83698649510107},
     {name = "Little Obbyist", Id = 115569573258316},
-    {name = "CaseOh Cube (1x1 Brick)", Id = 117376406721617}
+    {name = "CaseOh Cube (1x1 Brick)", Id = 117376406721617},
+    {name = "[BEST⏳]  GRIDDY EMOTE - FORTNITE", Id = 139972223573427}
 }
