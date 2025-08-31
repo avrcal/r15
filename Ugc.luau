@@ -594,5 +594,6 @@ _G.tools = {
     {name = "The Ye Float", Id = 73773115594235},
     {name = "cozy kicking feet", Id = 102152042663794},
     {name = "♡ cute bouncy anime dance", Id = 138118251473453},
-    {name = "Nippon Egao Hyakkei Dance", Id = 100203387030078}
+    {name = "Nippon Egao Hyakkei Dance", Id = 100203387030078},
+    {name = "Nippon Egao Hyakkei Dance", Id = 118421793623800}
 }
