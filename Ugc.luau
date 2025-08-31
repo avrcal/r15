@@ -605,5 +605,6 @@ _G.tools = {
     {name = "Zahide Won This Trend (phonk)", Id = 132569145798603},
     {name = "Assumptions", Id = 79911455746320},
     {name = "Hip Roll", Id = 88593312682192},
-    {name = "Roll N' Rock", Id = 114255948538925}
+    {name = "Roll N' Rock", Id = 114255948538925},
+    {name = "POOP YOUR FEET [TROLL]", Id = 90484325987461}
 }
