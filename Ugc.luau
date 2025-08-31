@@ -589,5 +589,6 @@ _G.tools = {
     {name = "Baddie Hips", Id = 73517007972710},
     {name = "actually crazy hip dance 🥀", Id = 125196131087705},
     {name = "Iconic Chika Anime Dance", Id = 98318173295300},
-    {name = "[Aura Farm] Wall Lean Idle", Id = 136687532783709}
+    {name = "[Aura Farm] Wall Lean Idle", Id = 136687532783709},
+    {name = "Garry's Dance", Id = 124896171012585}
 }
