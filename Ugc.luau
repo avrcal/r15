@@ -576,5 +576,6 @@ _G.tools = {
     {name = "Swim", Id = 124886181269001},
     {name = "Swim", Id = 88044201919146},
     {name = "KATSEYE - OMG THAT NEW BEAT GNARLY", Id = 74128627257806},
-    {name = "Swaying Levitation", Id = 78118743095463}
+    {name = "Swaying Levitation", Id = 78118743095463},
+    {name = "Levitation Pose", Id = 126635495807442}
 }
