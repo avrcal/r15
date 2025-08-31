@@ -585,5 +585,6 @@ _G.tools = {
     {name = "Scene Roblox Profile Pose", Id = 85759464214287},
     {name = "BLACKPINK Pink Venom - Get Em [CHEAP]", Id = 104168431700812},
     {name = "♡ Cute n shy Idle Emote Profile Pose", Id = 80222624644964},
-    {name = "Chika Anime Dance", Id = 115426977193380}
+    {name = "Chika Anime Dance", Id = 115426977193380},
+    {name = "Baddie Hips", Id = 73517007972710}
 }
