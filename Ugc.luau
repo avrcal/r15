@@ -591,5 +591,6 @@ _G.tools = {
     {name = "Iconic Chika Anime Dance", Id = 98318173295300},
     {name = "[Aura Farm] Wall Lean Idle", Id = 136687532783709},
     {name = "Garry's Dance", Id = 124896171012585},
-    {name = "The Ye Float", Id = 73773115594235}
+    {name = "The Ye Float", Id = 73773115594235},
+    {name = "cozy kicking feet", Id = 102152042663794}
 }
