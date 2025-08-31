@@ -599,5 +599,6 @@ _G.tools = {
     {name = "Chinese Dance", Id = 102506310964383},
     {name = "Confess ur <3 Trend Dance", Id = 79367962248097},
     {name = "Ghetto Party Dance", Id = 140075888323547},
-    {name = "Thinker Sit", Id = 135783418851022}
+    {name = "Thinker Sit", Id = 135783418851022},
+    {name = "Shake it [THE ORIGINAL]", Id = 115318724645140}
 }
