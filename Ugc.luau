@@ -596,5 +596,6 @@ _G.tools = {
     {name = "♡ cute bouncy anime dance", Id = 138118251473453},
     {name = "Nippon Egao Hyakkei Dance", Id = 100203387030078},
     {name = "Nippon Egao Hyakkei Dance", Id = 118421793623800},
-    {name = "Chinese Dance", Id = 102506310964383}
+    {name = "Chinese Dance", Id = 102506310964383},
+    {name = "Confess ur <3 Trend Dance", Id = 79367962248097}
 }
