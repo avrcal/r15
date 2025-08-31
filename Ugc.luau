@@ -603,5 +603,6 @@ _G.tools = {
     {name = "Shake it [THE ORIGINAL]", Id = 115318724645140},
     {name = "Otsuka summer dance Trend", Id = 125561237847304},
     {name = "Zahide Won This Trend (phonk)", Id = 132569145798603},
-    {name = "Assumptions", Id = 79911455746320}
+    {name = "Assumptions", Id = 79911455746320},
+    {name = "Hip Roll", Id = 88593312682192}
 }
