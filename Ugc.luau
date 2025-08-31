@@ -581,5 +581,6 @@ _G.tools = {
     {name = "cute duo hug emote (1) ꒰ᐢ⸝⸝⸝⸝ᐢ꒱ ♡", Id = 135666457483077},
     {name = "Duo Carrying Emote (HELD)", Id = 80708702133579},
     {name = "Griddy Meme Dance", Id = 109877985376733},
-    {name = "Cute Kawaii Posing >-<", Id = 129100070542534}
+    {name = "Cute Kawaii Posing >-<", Id = 129100070542534},
+    {name = "Scene Roblox Profile Pose", Id = 85759464214287}
 }
