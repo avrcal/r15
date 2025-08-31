@@ -606,5 +606,6 @@ _G.tools = {
     {name = "Assumptions", Id = 79911455746320},
     {name = "Hip Roll", Id = 88593312682192},
     {name = "Roll N' Rock", Id = 114255948538925},
-    {name = "POOP YOUR FEET [TROLL]", Id = 90484325987461}
+    {name = "POOP YOUR FEET [TROLL]", Id = 90484325987461},
+    {name = "Dancing with your eyes closed", Id = 117991470645633}
 }
