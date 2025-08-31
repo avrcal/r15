@@ -587,5 +587,6 @@ _G.tools = {
     {name = "♡ Cute n shy Idle Emote Profile Pose", Id = 80222624644964},
     {name = "Chika Anime Dance", Id = 115426977193380},
     {name = "Baddie Hips", Id = 73517007972710},
-    {name = "actually crazy hip dance 🥀", Id = 125196131087705}
+    {name = "actually crazy hip dance 🥀", Id = 125196131087705},
+    {name = "Iconic Chika Anime Dance", Id = 98318173295300}
 }
