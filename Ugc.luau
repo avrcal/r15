@@ -582,5 +582,6 @@ _G.tools = {
     {name = "Duo Carrying Emote (HELD)", Id = 80708702133579},
     {name = "Griddy Meme Dance", Id = 109877985376733},
     {name = "Cute Kawaii Posing >-<", Id = 129100070542534},
-    {name = "Scene Roblox Profile Pose", Id = 85759464214287}
+    {name = "Scene Roblox Profile Pose", Id = 85759464214287},
+    {name = "BLACKPINK Pink Venom - Get Em [CHEAP]", Id = 104168431700812}
 }
