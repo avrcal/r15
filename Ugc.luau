@@ -580,5 +580,6 @@ _G.tools = {
     {name = "Levitation Pose", Id = 126635495807442},
     {name = "cute duo hug emote (1) ꒰ᐢ⸝⸝⸝⸝ᐢ꒱ ♡", Id = 135666457483077},
     {name = "Duo Carrying Emote (HELD)", Id = 80708702133579},
-    {name = "Griddy Meme Dance", Id = 109877985376733}
+    {name = "Griddy Meme Dance", Id = 109877985376733},
+    {name = "Cute Kawaii Posing >-<", Id = 129100070542534}
 }
