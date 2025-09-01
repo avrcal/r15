@@ -611,5 +611,6 @@ _G.tools = {
     {name = "Vai, Toma (Mente Ma) Dance", Id = 132671797643713},
     {name = "LE SSERAFIM - ANTIFRAGILE (르세라핌)", Id = 84561978111673},
     {name = "Judas", Id = 133396625544176},
-    {name = "Lady Gaga - Just Dance Emote", Id = 71863979278556}
+    {name = "Lady Gaga - Just Dance Emote", Id = 71863979278556},
+    {name = "Acelerada", Id = 83150532955066}
 }
