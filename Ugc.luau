@@ -613,5 +613,6 @@ _G.tools = {
     {name = "Judas", Id = 133396625544176},
     {name = "Lady Gaga - Just Dance Emote", Id = 71863979278556},
     {name = "Acelerada", Id = 83150532955066},
-    {name = "Noli Forsaken ( R6 Floating Hand )", Id = 139360856809483}
+    {name = "Noli Forsaken ( R6 Floating Hand )", Id = 139360856809483},
+    {name = "FORSAKEN 1x1x1x1 Pose", Id = 76780522821306}
 }
