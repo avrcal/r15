@@ -618,5 +618,6 @@ _G.tools = {
     {name = "Forsaken Injured Idle Animation Troll", Id = 73905365652295},
     {name = "Hot Backflip", Id = 131205329995035},
     {name = "POOKIE LEAN!", Id = 134064078951403},
-    {name = "Swag Dance", Id = 86144524701146}
+    {name = "Swag Dance", Id = 86144524701146},
+    {name = "Teach me How to Dougie", Id = 138581940594284}
 }
