@@ -619,5 +619,6 @@ _G.tools = {
     {name = "Hot Backflip", Id = 131205329995035},
     {name = "POOKIE LEAN!", Id = 134064078951403},
     {name = "Swag Dance", Id = 86144524701146},
-    {name = "Teach me How to Dougie", Id = 138581940594284}
+    {name = "Teach me How to Dougie", Id = 138581940594284},
+    {name = "I Love", Id = 109468140205249}
 }
