@@ -621,5 +621,6 @@ _G.tools = {
     {name = "Swag Dance", Id = 86144524701146},
     {name = "Teach me How to Dougie", Id = 138581940594284},
     {name = "I Love", Id = 109468140205249},
-    {name = "Absolute Cinema", Id = 105194798604651}
+    {name = "Absolute Cinema", Id = 105194798604651},
+    {name = "💕Warm Hug Somebody Love Cuddle Emote🤗", Id = 121786151795755}
 }
