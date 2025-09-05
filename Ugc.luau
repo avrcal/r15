@@ -627,5 +627,6 @@ _G.tools = {
     {name = "Driving", Id = 125126277256547},
     {name = "Rap Monster - Eminem", Id = 83770626685097},
     {name = "[Sad Gojo] sit", Id = 75507230702036},
-    {name = "♡ Matching Duo Lay down 1 (matching/solo)", Id = 94171557430567}
+    {name = "♡ Matching Duo Lay down 1 (matching/solo)", Id = 94171557430567},
+    {name = "Extreme Workout!", Id = 76734714744001}
 }
