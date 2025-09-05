@@ -632,5 +632,6 @@ _G.tools = {
     {name = "[BEST] Boneless Dance", Id = 131016290284405},
     {name = "Metro Man arm swings", Id = 71043409187026},
     {name = "Anime Punches (SUPER FAST)", Id = 103676484213316},
-    {name = "Tuff", Id = 99195149999804}
+    {name = "Tuff", Id = 99195149999804},
+    {name = "Big Baddie Moves (SHAKE)", Id = 129124518153810}
 }
