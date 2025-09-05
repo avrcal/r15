@@ -629,5 +629,6 @@ _G.tools = {
     {name = "[Sad Gojo] sit", Id = 75507230702036},
     {name = "♡ Matching Duo Lay down 1 (matching/solo)", Id = 94171557430567},
     {name = "Extreme Workout!", Id = 76734714744001},
-    {name = "[BEST] Boneless Dance", Id = 131016290284405}
+    {name = "[BEST] Boneless Dance", Id = 131016290284405},
+    {name = "Metro Man arm swings", Id = 71043409187026}
 }
