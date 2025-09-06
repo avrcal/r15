@@ -638,5 +638,6 @@ _G.tools = {
     {name = "Miku Live", Id = 103112800578947},
     {name = "Holding Out A Gun", Id = 85280045192208},
     {name = "Front Walkover", Id = 110033677841515},
-    {name = "Cartwheel", Id = 117719341313263}
+    {name = "Cartwheel", Id = 117719341313263},
+    {name = "Gymnastics Cartwheel", Id = 74447647133199}
 }
