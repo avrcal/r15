@@ -645,5 +645,6 @@ _G.tools = {
     {name = "Shuffling", Id = 118468821959324},
     {name = "Speedster Run Mirage", Id = 91648079587853},
     {name = "[FASTEST] The Flash - Speed Mirage", Id = 111521029605365},
-    {name = "Charging Race Flash Aura", Id = 89111716130280}
+    {name = "Charging Race Flash Aura", Id = 89111716130280},
+    {name = "/e dance2", Id = 116571017721759}
 }
