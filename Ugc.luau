@@ -643,5 +643,6 @@ _G.tools = {
     {name = "[MILITARY] At Ease", Id = 106071428813938},
     {name = "Knife Inspect", Id = 94518042497743},
     {name = "Shuffling", Id = 118468821959324},
-    {name = "Speedster Run Mirage", Id = 91648079587853}
+    {name = "Speedster Run Mirage", Id = 91648079587853},
+    {name = "[FASTEST] The Flash - Speed Mirage", Id = 111521029605365}
 }
