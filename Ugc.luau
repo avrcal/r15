@@ -639,5 +639,6 @@ _G.tools = {
     {name = "Holding Out A Gun", Id = 85280045192208},
     {name = "Front Walkover", Id = 110033677841515},
     {name = "Cartwheel", Id = 117719341313263},
-    {name = "Gymnastics Cartwheel", Id = 74447647133199}
+    {name = "Gymnastics Cartwheel", Id = 74447647133199},
+    {name = "[MILITARY] At Ease", Id = 106071428813938}
 }
