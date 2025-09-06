@@ -635,5 +635,6 @@ _G.tools = {
     {name = "Tuff", Id = 99195149999804},
     {name = "Big Baddie Moves (SHAKE)", Id = 129124518153810},
     {name = "Jumpstyle Dance", Id = 138647889956297},
-    {name = "Miku Live", Id = 103112800578947}
+    {name = "Miku Live", Id = 103112800578947},
+    {name = "Holding Out A Gun", Id = 85280045192208}
 }
