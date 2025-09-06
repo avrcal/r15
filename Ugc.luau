@@ -641,5 +641,6 @@ _G.tools = {
     {name = "Cartwheel", Id = 117719341313263},
     {name = "Gymnastics Cartwheel", Id = 74447647133199},
     {name = "[MILITARY] At Ease", Id = 106071428813938},
-    {name = "Knife Inspect", Id = 94518042497743}
+    {name = "Knife Inspect", Id = 94518042497743},
+    {name = "Shuffling", Id = 118468821959324}
 }
