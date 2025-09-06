@@ -634,5 +634,6 @@ _G.tools = {
     {name = "Anime Punches (SUPER FAST)", Id = 103676484213316},
     {name = "Tuff", Id = 99195149999804},
     {name = "Big Baddie Moves (SHAKE)", Id = 129124518153810},
-    {name = "Jumpstyle Dance", Id = 138647889956297}
+    {name = "Jumpstyle Dance", Id = 138647889956297},
+    {name = "Miku Live", Id = 103112800578947}
 }
