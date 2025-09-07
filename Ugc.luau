@@ -650,5 +650,6 @@ _G.tools = {
     {name = "Backing Up [noclip n speedglitch]", Id = 133467820432458},
     {name = "Snoop Dance", Id = 107759404982778},
     {name = "Onion Dance [Best Version]", Id = 110774853399332},
-    {name = "Hanging Upside Down", Id = 77421373405892}
+    {name = "Hanging Upside Down", Id = 77421373405892},
+    {name = "Hanging Around", Id = 123536798611164}
 }
