@@ -648,5 +648,6 @@ _G.tools = {
     {name = "Charging Race Flash Aura", Id = 89111716130280},
     {name = "/e dance2", Id = 116571017721759},
     {name = "Backing Up [noclip n speedglitch]", Id = 133467820432458},
-    {name = "Snoop Dance", Id = 107759404982778}
+    {name = "Snoop Dance", Id = 107759404982778},
+    {name = "Onion Dance [Best Version]", Id = 110774853399332}
 }
