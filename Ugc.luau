@@ -660,5 +660,6 @@ _G.tools = {
     {name = "Zombie Crawl", Id = 109318260839099},
     {name = "Crawling 🐍", Id = 80725842226493},
     {name = "Spiderman Web Swinging", Id = 115615920299613},
-    {name = "Fly up emote", Id = 90768527043970}
+    {name = "Fly up emote", Id = 90768527043970},
+    {name = "Hero Fly Loop - Superhero Flying", Id = 132105268936736}
 }
