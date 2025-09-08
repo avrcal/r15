@@ -652,5 +652,6 @@ _G.tools = {
     {name = "Onion Dance [Best Version]", Id = 110774853399332},
     {name = "Hanging Upside Down", Id = 77421373405892},
     {name = "Hanging Around", Id = 123536798611164},
-    {name = "She Was A Fairy Dance", Id = 118976144287372}
+    {name = "She Was A Fairy Dance", Id = 118976144287372},
+    {name = "Bobbin'", Id = 96905206586917}
 }
