@@ -658,5 +658,6 @@ _G.tools = {
     {name = "Paranoid / Tweaking", Id = 93973405941572},
     {name = "Kneel Tweaking Crazy", Id = 89015746741361},
     {name = "Zombie Crawl", Id = 109318260839099},
-    {name = "Crawling 🐍", Id = 80725842226493}
+    {name = "Crawling 🐍", Id = 80725842226493},
+    {name = "Spiderman Web Swinging", Id = 115615920299613}
 }
