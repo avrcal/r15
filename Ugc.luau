@@ -654,5 +654,6 @@ _G.tools = {
     {name = "Hanging Around", Id = 123536798611164},
     {name = "She Was A Fairy Dance", Id = 118976144287372},
     {name = "Bobbin'", Id = 96905206586917},
-    {name = "Robotic Head Twitch", Id = 93229572963873}
+    {name = "Robotic Head Twitch", Id = 93229572963873},
+    {name = "Paranoid / Tweaking", Id = 93973405941572}
 }
