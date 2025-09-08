@@ -666,5 +666,6 @@ _G.tools = {
     {name = "Flying Celestial Dunhuang Feitian Apsara Immortal", Id = 109964124738715},
     {name = "Stylish Floating", Id = 112089880074848},
     {name = "Slow-Mo Backflip | IShowSpeed Flip [NEW]", Id = 83263981931146},
-    {name = "Silly Billy", Id = 84952357175685}
+    {name = "Silly Billy", Id = 84952357175685},
+    {name = "(Die of Death/Forsaken) Pursuer-Raging Pace-Stalk", Id = 125374341359130}
 }
