@@ -656,5 +656,6 @@ _G.tools = {
     {name = "Bobbin'", Id = 96905206586917},
     {name = "Robotic Head Twitch", Id = 93229572963873},
     {name = "Paranoid / Tweaking", Id = 93973405941572},
-    {name = "Kneel Tweaking Crazy", Id = 89015746741361}
+    {name = "Kneel Tweaking Crazy", Id = 89015746741361},
+    {name = "Zombie Crawl", Id = 109318260839099}
 }
