@@ -664,5 +664,6 @@ _G.tools = {
     {name = "Hero Fly Loop - Superhero Flying", Id = 132105268936736},
     {name = "Fairy Flying Free", Id = 99298021935069},
     {name = "Flying Celestial Dunhuang Feitian Apsara Immortal", Id = 109964124738715},
-    {name = "Stylish Floating", Id = 112089880074848}
+    {name = "Stylish Floating", Id = 112089880074848},
+    {name = "Slow-Mo Backflip | IShowSpeed Flip [NEW]", Id = 83263981931146}
 }
