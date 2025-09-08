@@ -672,5 +672,6 @@ _G.tools = {
     {name = "Falling", Id = 137467835190894},
     {name = "kawaii fairy float profile pose", Id = 136280235646918},
     {name = "Skydiving Fall Emote (Fortnite)", Id = 125379786496551},
-    {name = "Mafioso emote", Id = 73460255237197}
+    {name = "Mafioso emote", Id = 73460255237197},
+    {name = "PARROT PARTY DANCE", Id = 101810746304426}
 }
