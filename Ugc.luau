@@ -667,5 +667,6 @@ _G.tools = {
     {name = "Stylish Floating", Id = 112089880074848},
     {name = "Slow-Mo Backflip | IShowSpeed Flip [NEW]", Id = 83263981931146},
     {name = "Silly Billy", Id = 84952357175685},
-    {name = "(Die of Death/Forsaken) Pursuer-Raging Pace-Stalk", Id = 125374341359130}
+    {name = "(Die of Death/Forsaken) Pursuer-Raging Pace-Stalk", Id = 125374341359130},
+    {name = "♥ fairy float", Id = 86767222955628}
 }
