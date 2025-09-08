@@ -670,5 +670,6 @@ _G.tools = {
     {name = "(Die of Death/Forsaken) Pursuer-Raging Pace-Stalk", Id = 125374341359130},
     {name = "♥ fairy float", Id = 86767222955628},
     {name = "Falling", Id = 137467835190894},
-    {name = "kawaii fairy float profile pose", Id = 136280235646918}
+    {name = "kawaii fairy float profile pose", Id = 136280235646918},
+    {name = "Skydiving Fall Emote (Fortnite)", Id = 125379786496551}
 }
