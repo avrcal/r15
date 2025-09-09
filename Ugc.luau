@@ -675,5 +675,6 @@ _G.tools = {
     {name = "Mafioso emote", Id = 73460255237197},
     {name = "PARROT PARTY DANCE", Id = 101810746304426},
     {name = "Garry's Dance (GMOD)", Id = 84658481455741},
-    {name = "Seizure", Id = 133144011580589}
+    {name = "Seizure", Id = 133144011580589},
+    {name = "Gojo Aura Floating", Id = 120346473061647}
 }
