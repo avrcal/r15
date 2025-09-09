@@ -677,5 +677,6 @@ _G.tools = {
     {name = "Garry's Dance (GMOD)", Id = 84658481455741},
     {name = "Seizure", Id = 133144011580589},
     {name = "Gojo Aura Floating", Id = 120346473061647},
-    {name = "Crab Walk", Id = 117103720939003}
+    {name = "Crab Walk", Id = 117103720939003},
+    {name = "Crab Rave [Fortnite]", Id = 91585141801807}
 }
