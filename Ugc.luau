@@ -685,5 +685,6 @@ _G.tools = {
     {name = "/e dance1", Id = 89676212115777},
     {name = "/e clone [FASTEST WORKING AURA]", Id = 86697993501772},
     {name = "Clone", Id = 73381973028978},
-    {name = "Fast Clapping", Id = 126617073341247}
+    {name = "Fast Clapping", Id = 126617073341247},
+    {name = "Elliot Pizza throw", Id = 135931094841392}
 }
