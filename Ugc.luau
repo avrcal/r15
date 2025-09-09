@@ -678,5 +678,6 @@ _G.tools = {
     {name = "Seizure", Id = 133144011580589},
     {name = "Gojo Aura Floating", Id = 120346473061647},
     {name = "Crab Walk", Id = 117103720939003},
-    {name = "Crab Rave [Fortnite]", Id = 91585141801807}
+    {name = "Crab Rave [Fortnite]", Id = 91585141801807},
+    {name = "Crab Rave Dance Admin Abuse Time", Id = 109633451131741}
 }
