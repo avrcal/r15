@@ -680,5 +680,6 @@ _G.tools = {
     {name = "Crab Walk", Id = 117103720939003},
     {name = "Crab Rave [Fortnite]", Id = 91585141801807},
     {name = "Crab Rave Dance Admin Abuse Time", Id = 109633451131741},
-    {name = "Crab Rave", Id = 77527874177418}
+    {name = "Crab Rave", Id = 77527874177418},
+    {name = "🕷 SPIDERMAN POSE", Id = 123888267685221}
 }
