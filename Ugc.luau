@@ -687,5 +687,6 @@ _G.tools = {
     {name = "Clone", Id = 73381973028978},
     {name = "Fast Clapping", Id = 126617073341247},
     {name = "Elliot Pizza throw", Id = 135931094841392},
-    {name = "Scared Fetal", Id = 90147182052582}
+    {name = "Scared Fetal", Id = 90147182052582},
+    {name = "Hiding & Crying", Id = 119601626210532}
 }
