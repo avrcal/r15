@@ -682,5 +682,6 @@ _G.tools = {
     {name = "Crab Rave Dance Admin Abuse Time", Id = 109633451131741},
     {name = "Crab Rave", Id = 77527874177418},
     {name = "🕷 SPIDERMAN POSE", Id = 123888267685221},
-    {name = "/e dance1", Id = 89676212115777}
+    {name = "/e dance1", Id = 89676212115777},
+    {name = "/e clone [FASTEST WORKING AURA]", Id = 86697993501772}
 }
