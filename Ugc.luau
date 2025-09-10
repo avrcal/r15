@@ -693,5 +693,6 @@ _G.tools = {
     {name = "Homeless Man Kung fu", Id = 133864899504878},
     {name = "Revolving Door - Tate Mcrae", Id = 114439649610416},
     {name = "Revolving Door Dance - Tate McRae", Id = 140162821224755},
-    {name = "Perfect Standing Split", Id = 127935496272883}
+    {name = "Perfect Standing Split", Id = 127935496272883},
+    {name = "Wednesday Emote", Id = 137345799388199}
 }
