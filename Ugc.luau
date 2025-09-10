@@ -691,5 +691,6 @@ _G.tools = {
     {name = "Hiding & Crying", Id = 119601626210532},
     {name = "Scared Sit", Id = 138160053020260},
     {name = "Homeless Man Kung fu", Id = 133864899504878},
-    {name = "Revolving Door - Tate Mcrae", Id = 114439649610416}
+    {name = "Revolving Door - Tate Mcrae", Id = 114439649610416},
+    {name = "Revolving Door Dance - Tate McRae", Id = 140162821224755}
 }
