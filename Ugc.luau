@@ -695,5 +695,6 @@ _G.tools = {
     {name = "Revolving Door Dance - Tate McRae", Id = 140162821224755},
     {name = "Perfect Standing Split", Id = 127935496272883},
     {name = "Wednesday Emote", Id = 137345799388199},
-    {name = "Lady Gaga - THE DEAD DANCE (Wednesday)", Id = 112360935418893}
+    {name = "Lady Gaga - THE DEAD DANCE (Wednesday)", Id = 112360935418893},
+    {name = "Sword flourish", Id = 70501364701056}
 }
