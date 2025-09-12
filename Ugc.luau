@@ -702,5 +702,6 @@ _G.tools = {
     {name = "[CHEAPER] ⭐🥤Soda Pop - Saja boys", Id = 121372022557256},
     {name = "Goku Ultra Instinct", Id = 115224081675227},
     {name = "Flash Flying Mirage [AURA]", Id = 140029540689849},
-    {name = "Stylish Model Idle Pose Y2K", Id = 105164096625313}
+    {name = "Stylish Model Idle Pose Y2K", Id = 105164096625313},
+    {name = "High Kick Model Pose", Id = 130796319552991}
 }
