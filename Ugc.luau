@@ -699,5 +699,6 @@ _G.tools = {
     {name = "Sword flourish", Id = 70501364701056},
     {name = "Planet", Id = 138359671448049},
     {name = "Spin Around with a Friend Matching", Id = 80879471830819},
-    {name = "[CHEAPER] ⭐🥤Soda Pop - Saja boys", Id = 121372022557256}
+    {name = "[CHEAPER] ⭐🥤Soda Pop - Saja boys", Id = 121372022557256},
+    {name = "Goku Ultra Instinct", Id = 115224081675227}
 }
