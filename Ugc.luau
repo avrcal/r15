@@ -705,5 +705,6 @@ _G.tools = {
     {name = "Stylish Model Idle Pose Y2K", Id = 105164096625313},
     {name = "High Kick Model Pose", Id = 130796319552991},
     {name = "Die of Death: Artful Idle [Profile Pose]", Id = 71004565196656},
-    {name = "Sitting on clouds", Id = 99512076856112}
+    {name = "Sitting on clouds", Id = 99512076856112},
+    {name = "Cloud Sit", Id = 125039476384532}
 }
