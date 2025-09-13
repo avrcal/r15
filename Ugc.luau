@@ -709,5 +709,6 @@ _G.tools = {
     {name = "Cloud Sit", Id = 125039476384532},
     {name = "Thanos Snap", Id = 76762798142019},
     {name = "Girly Run", Id = 128578785610052},
-    {name = "Animal Run", Id = 87721497492370}
+    {name = "Animal Run", Id = 87721497492370},
+    {name = "🧹 Floating Witches' Broom / Halloween Idle", Id = 130516334121771}
 }
