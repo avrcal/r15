@@ -711,5 +711,6 @@ _G.tools = {
     {name = "Girly Run", Id = 128578785610052},
     {name = "Animal Run", Id = 87721497492370},
     {name = "🧹 Floating Witches' Broom / Halloween Idle", Id = 130516334121771},
-    {name = "Possessed", Id = 85353889132704}
+    {name = "Possessed", Id = 85353889132704},
+    {name = "Point Forward", Id = 88764142128140}
 }
