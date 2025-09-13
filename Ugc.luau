@@ -707,5 +707,6 @@ _G.tools = {
     {name = "Die of Death: Artful Idle [Profile Pose]", Id = 71004565196656},
     {name = "Sitting on clouds", Id = 99512076856112},
     {name = "Cloud Sit", Id = 125039476384532},
-    {name = "Thanos Snap", Id = 76762798142019}
+    {name = "Thanos Snap", Id = 76762798142019},
+    {name = "Girly Run", Id = 128578785610052}
 }
