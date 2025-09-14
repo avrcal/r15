@@ -722,5 +722,6 @@ _G.tools = {
     {name = "MODEL OFF DUTY", Id = 134246485191585},
     {name = "Model sitting roblox profile pose", Id = 136037264888983},
     {name = "Floating zen yoga", Id = 128292591994092},
-    {name = "zen yoga meditation", Id = 74921877078024}
+    {name = "zen yoga meditation", Id = 74921877078024},
+    {name = "Alo Yoga Pose - Warrior II", Id = 12507083048}
 }
