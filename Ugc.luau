@@ -1,5 +1,3 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/Tools.luau",true))()
-
 _G.tools = {
     {name = "spin", Id = 87093097413514},
     {name = "johncena", Id = 132069223994128},
@@ -731,3 +729,15 @@ _G.tools = {
     {name = "ballerina spin", Id = 116694742257990},
     {name = "Swan Lake Ballet Dance", Id = 91278080172886}
 }
+
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/Tools.luau",true))()
+
+spawn(function()
+    wait(1) 
+    if _G.initializeEmotePlayer then
+        _G.initializeEmotePlayer()
+    else
+        warn("Failed to initialize emote player")
+    end
+end)
