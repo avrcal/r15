@@ -728,7 +728,8 @@ _G.tools = {
     {name = "Ballerina Idle", Id = 132484017577385},
     {name = "ballerina spin", Id = 116694742257990},
     {name = "Swan Lake Ballet Dance", Id = 91278080172886},
-    {name = "The Whistle Occurence [The Dwellers]", Id = 91000306838260}
+    {name = "The Whistle Occurence [The Dwellers]", Id = 91000306838260},
+    {name = "The Scary Evil Glitch", Id = 85141122321737}
 }
 
 
