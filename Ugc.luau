@@ -731,8 +731,3 @@ _G.tools = {
     {name = "ballerina spin", Id = 116694742257990},
     {name = "Swan Lake Ballet Dance", Id = 91278080172886}
 }
-return true
-
-if _G.tools then
-    createEmoteButtons()
-end
