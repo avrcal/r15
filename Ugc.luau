@@ -727,6 +727,7 @@ _G.tools = {
     {name = "Floating zen yoga", Id = 128292591994092},
     {name = "zen yoga meditation", Id = 74921877078024},
     {name = "Alo Yoga Pose - Warrior II", Id = 12507083048},
-    {name = "Kawaii Cute Yoga Pose Kitty", Id = 90696131349427}
+    {name = "Kawaii Cute Yoga Pose Kitty", Id = 90696131349427},
+    {name = "Ballerina Pirouette", Id = 99879598939320}
 }
 return true
