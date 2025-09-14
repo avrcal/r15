@@ -721,5 +721,6 @@ _G.tools = {
     {name = "Vecna Stranger Things Fly Animation Emote Bone", Id = 70692992882447},
     {name = "MODEL OFF DUTY", Id = 134246485191585},
     {name = "Model sitting roblox profile pose", Id = 136037264888983},
-    {name = "Floating zen yoga", Id = 128292591994092}
+    {name = "Floating zen yoga", Id = 128292591994092},
+    {name = "zen yoga meditation", Id = 74921877078024}
 }
