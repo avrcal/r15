@@ -718,5 +718,6 @@ _G.tools = {
     {name = "praying", Id = 104042392002801},
     {name = "Da Hood - Praying", Id = 122468432557213},
     {name = "Death by Vecna", Id = 76210974738943},
-    {name = "Vecna Stranger Things Fly Animation Emote Bone", Id = 70692992882447}
+    {name = "Vecna Stranger Things Fly Animation Emote Bone", Id = 70692992882447},
+    {name = "MODEL OFF DUTY", Id = 134246485191585}
 }
