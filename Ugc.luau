@@ -1,7 +1,5 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/Tools.luau",true))()
 
-createEmoteButtons()
-
 _G.tools = {
     {name = "spin", Id = 87093097413514},
     {name = "johncena", Id = 132069223994128},
@@ -728,3 +726,5 @@ _G.tools = {
     {name = "Alo Yoga Pose - Warrior II", Id = 12507083048},
     {name = "Kawaii Cute Yoga Pose Kitty", Id = 90696131349427}
 }
+
+createEmoteButtons()
