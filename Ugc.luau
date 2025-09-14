@@ -731,6 +731,7 @@ _G.tools = {
     {name = "Ballerina Pirouette", Id = 99879598939320},
     {name = "Ballerina Spin", Id = 111699562828312},
     {name = "Ballerina Idle", Id = 132484017577385},
-    {name = "ballerina spin", Id = 116694742257990}
+    {name = "ballerina spin", Id = 116694742257990},
+    {name = "Swan Lake Ballet Dance", Id = 91278080172886}
 }
 return true
