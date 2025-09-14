@@ -737,7 +737,5 @@ spawn(function()
     wait(1) 
     if _G.initializeEmotePlayer then
         _G.initializeEmotePlayer()
-    else
-        warn("Failed to initialize emote player")
     end
 end)
