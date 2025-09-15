@@ -732,7 +732,8 @@ _G.tools = {
     {name = "The Scary Evil Glitch", Id = 85141122321737},
     {name = "Scary Entity", Id = 73093555127023},
     {name = "The Crazy Evil Glitch (Scary)", Id = 93087898023268},
-    {name = "Sleeping Sideways", Id = 100118897356565}
+    {name = "Sleeping Sideways", Id = 100118897356565},
+    {name = "kawai shy sit idle pose", Id = 85961795938515}
 }
 
 
