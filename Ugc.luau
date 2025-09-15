@@ -731,7 +731,8 @@ _G.tools = {
     {name = "The Whistle Occurence [The Dwellers]", Id = 91000306838260},
     {name = "The Scary Evil Glitch", Id = 85141122321737},
     {name = "Scary Entity", Id = 73093555127023},
-    {name = "The Crazy Evil Glitch (Scary)", Id = 93087898023268}
+    {name = "The Crazy Evil Glitch (Scary)", Id = 93087898023268},
+    {name = "Sleeping Sideways", Id = 100118897356565}
 }
 
 
