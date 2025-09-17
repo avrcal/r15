@@ -743,7 +743,8 @@ _G.tools = {
     {name = "Relaxing Float - hvnsnt", Id = 97588728781571},
     {name = "Floating On Dreams", Id = 107844714927992},
     {name = "Minecraft Happy Crouch Communication", Id = 115262232732736},
-    {name = "cute leg up profile pose", Id = 120396687157242}
+    {name = "cute leg up profile pose", Id = 120396687157242},
+    {name = "Sassy Diva Pose", Id = 102502703996123}
 }
 
 
