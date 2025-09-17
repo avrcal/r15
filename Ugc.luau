@@ -753,7 +753,8 @@ _G.tools = {
     {name = "Stylish Sit", Id = 94505880782162},
     {name = "Model Doll Emote", Id = 99212094367070},
     {name = "Elegant Classy Profile Model Pose", Id = 70759688823138},
-    {name = "Charming Secret Angels Pose", Id = 74389605454434}
+    {name = "Charming Secret Angels Pose", Id = 74389605454434},
+    {name = "Model Hair Flip", Id = 84585644839497}
 }
 
 
