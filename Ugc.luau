@@ -735,7 +735,8 @@ _G.tools = {
     {name = "Sleeping Sideways", Id = 100118897356565},
     {name = "kawai shy sit idle pose", Id = 85961795938515},
     {name = "Teto Dance", Id = 131751661872100},
-    {name = "Aura Float", Id = 93246285502882}
+    {name = "Aura Float", Id = 93246285502882},
+    {name = "Cuco - Levitate", Id = 15698404340}
 }
 
 
