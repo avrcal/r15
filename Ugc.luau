@@ -750,7 +750,8 @@ _G.tools = {
     {name = "Minecraft's Sign of Peace", Id = 102987898148762},
     {name = "♡ Cute Model Idle/Pose", Id = 98739374128375},
     {name = "Impatient Diva Posing Idle", Id = 102439655497210},
-    {name = "Stylish Sit", Id = 94505880782162}
+    {name = "Stylish Sit", Id = 94505880782162},
+    {name = "Model Doll Emote", Id = 99212094367070}
 }
 
 
