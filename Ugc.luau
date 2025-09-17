@@ -745,7 +745,8 @@ _G.tools = {
     {name = "Minecraft Happy Crouch Communication", Id = 115262232732736},
     {name = "cute leg up profile pose", Id = 120396687157242},
     {name = "Sassy Diva Pose", Id = 102502703996123},
-    {name = "Supermodel Posing Dior F/W 2003", Id = 121047787300036}
+    {name = "Supermodel Posing Dior F/W 2003", Id = 121047787300036},
+    {name = "Money Walk", Id = 131582474288402}
 }
 
 
