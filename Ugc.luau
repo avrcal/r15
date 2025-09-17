@@ -748,7 +748,8 @@ _G.tools = {
     {name = "Supermodel Posing Dior F/W 2003", Id = 121047787300036},
     {name = "Money Walk", Id = 131582474288402},
     {name = "Minecraft's Sign of Peace", Id = 102987898148762},
-    {name = "♡ Cute Model Idle/Pose", Id = 98739374128375}
+    {name = "♡ Cute Model Idle/Pose", Id = 98739374128375},
+    {name = "Impatient Diva Posing Idle", Id = 102439655497210}
 }
 
 
