@@ -737,7 +737,8 @@ _G.tools = {
     {name = "Teto Dance", Id = 131751661872100},
     {name = "Aura Float", Id = 93246285502882},
     {name = "Cuco - Levitate", Id = 15698404340},
-    {name = "Floating", Id = 73980801925168}
+    {name = "Floating", Id = 73980801925168},
+    {name = "Floating Sitting", Id = 84179650680787}
 }
 
 
