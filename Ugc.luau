@@ -740,7 +740,8 @@ _G.tools = {
     {name = "Floating", Id = 73980801925168},
     {name = "Floating Sitting", Id = 84179650680787},
     {name = "Floating In Space", Id = 96694088279578},
-    {name = "Relaxing Float - hvnsnt", Id = 97588728781571}
+    {name = "Relaxing Float - hvnsnt", Id = 97588728781571},
+    {name = "Floating On Dreams", Id = 107844714927992}
 }
 
 
