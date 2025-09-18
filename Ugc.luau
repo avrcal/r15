@@ -756,7 +756,8 @@ _G.tools = {
     {name = "Charming Secret Angels Pose", Id = 74389605454434},
     {name = "Model Hair Flip", Id = 84585644839497},
     {name = "Sleep", Id = 10714360343},
-    {name = "Louisiana Jigg", Id = 126597745883758}
+    {name = "Louisiana Jigg", Id = 126597745883758},
+    {name = "Default Dance | OG", Id = 101011728520473}
 }
 
 
