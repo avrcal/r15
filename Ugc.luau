@@ -760,7 +760,8 @@ _G.tools = {
     {name = "Default Dance | OG", Id = 101011728520473},
     {name = "Jason Vorhees Emote", Id = 126786971779567},
     {name = "Jason Vorhees Emote + Jump Meme", Id = 132748130295692},
-    {name = "Flowey The Flower - Undertale", Id = 82904235859503}
+    {name = "Flowey The Flower - Undertale", Id = 82904235859503},
+    {name = "Kazotsky Kick", Id = 135849406333587}
 }
 
 
