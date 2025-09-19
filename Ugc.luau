@@ -767,7 +767,8 @@ _G.tools = {
     {name = "MetroMan Dance [FULL]", Id = 120686345381920},
     {name = "Metro", Id = 117091076592246},
     {name = "viral muse - model it-girl idle pose", Id = 89439480855309},
-    {name = "bibi muse - model it-girl idle pose", Id = 137194159305083}
+    {name = "bibi muse - model it-girl idle pose", Id = 137194159305083},
+    {name = "Runway Heel Kick Model Pose", Id = 72589815741838}
 }
 
 
