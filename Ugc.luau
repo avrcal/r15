@@ -762,7 +762,8 @@ _G.tools = {
     {name = "Jason Vorhees Emote + Jump Meme", Id = 132748130295692},
     {name = "Flowey The Flower - Undertale", Id = 82904235859503},
     {name = "Kazotsky Kick", Id = 135849406333587},
-    {name = "🎀 Supermodel Red Carpet Feminine Pose", Id = 75810364031837}
+    {name = "🎀 Supermodel Red Carpet Feminine Pose", Id = 75810364031837},
+    {name = "Smug aura fly [ Metro Man ]", Id = 112816775283756}
 }
 
 
