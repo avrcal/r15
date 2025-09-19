@@ -765,7 +765,8 @@ _G.tools = {
     {name = "🎀 Supermodel Red Carpet Feminine Pose", Id = 75810364031837},
     {name = "Smug aura fly [ Metro Man ]", Id = 112816775283756},
     {name = "MetroMan Dance [FULL]", Id = 120686345381920},
-    {name = "Metro", Id = 117091076592246}
+    {name = "Metro", Id = 117091076592246},
+    {name = "viral muse - model it-girl idle pose", Id = 89439480855309}
 }
 
 
