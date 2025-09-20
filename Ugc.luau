@@ -773,7 +773,8 @@ _G.tools = {
     {name = "Iconic Supermodel Posing", Id = 116188884496373},
     {name = "At Ease Military Idle Pose Stance", Id = 117536405275968},
     {name = "Ralsei Dance (DELTARUNE)", Id = 74784853553665},
-    {name = "Ralsei - pose", Id = 72632606545943}
+    {name = "Ralsei - pose", Id = 72632606545943},
+    {name = "Deltarune ralsei splat", Id = 124139028711849}
 }
 
 
