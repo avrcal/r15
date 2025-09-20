@@ -1,3 +1,6 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/Tools.luau",true))()
+
+
 _G.tools = {
     {name = "spin", Id = 87093097413514},
     {name = "johncena", Id = 132069223994128},
@@ -778,11 +781,3 @@ _G.tools = {
 }
 
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/Tools.luau",true))()
-
-spawn(function()
-    wait(1) 
-    if _G.initializeEmotePlayer then
-        _G.initializeEmotePlayer()
-    end
-end)
