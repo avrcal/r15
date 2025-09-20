@@ -769,7 +769,8 @@ _G.tools = {
     {name = "viral muse - model it-girl idle pose", Id = 89439480855309},
     {name = "bibi muse - model it-girl idle pose", Id = 137194159305083},
     {name = "Runway Heel Kick Model Pose", Id = 72589815741838},
-    {name = "(NEW) Iconic Fashion Doll Pose", Id = 116182427356996}
+    {name = "(NEW) Iconic Fashion Doll Pose", Id = 116182427356996},
+    {name = "Iconic Supermodel Posing", Id = 116188884496373}
 }
 
 
