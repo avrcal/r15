@@ -781,7 +781,8 @@ _G.tools = {
     {name = "Police Radio Pose", Id = 112837485853055},
     {name = "🎉Dancing man viggle meme🎉", Id = 98907428872455},
     {name = "Ballerina pose", Id = 97981508183234},
-    {name = "Celebratory Applause Clap", Id = 135086331906098}
+    {name = "Celebratory Applause Clap", Id = 135086331906098},
+    {name = "FORSAKEN c00lkid Pose", Id = 95203125292023}
 }
 
 
