@@ -785,7 +785,8 @@ _G.tools = {
     {name = "FORSAKEN c00lkid Pose", Id = 95203125292023},
     {name = "Russian Soldier Push Ups", Id = 133192177496594},
     {name = "Sad Depressed Crying Sit / Sitting", Id = 131737004503275},
-    {name = "申请加入弗兰克家族", Id = 90590987254171}
+    {name = "申请加入弗兰克家族", Id = 90590987254171},
+    {name = "one arm push-up", Id = 122492583882451}
 }
 
 
