@@ -792,7 +792,8 @@ _G.tools = {
     {name = "Push Ups", Id = 112360054209797},
     {name = "Metroman Dance", Id = 87739852367150},
     {name = "Vogue Model Pose", Id = 109853601860742},
-    {name = "Rampage (Lonely Lonely)", Id = 114499509000839}
+    {name = "Rampage (Lonely Lonely)", Id = 114499509000839},
+    {name = "Phase", Id = 90584560149153}
 }
 
 
