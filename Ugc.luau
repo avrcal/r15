@@ -794,7 +794,8 @@ _G.tools = {
     {name = "Vogue Model Pose", Id = 109853601860742},
     {name = "Rampage (Lonely Lonely)", Id = 114499509000839},
     {name = "Phase", Id = 90584560149153},
-    {name = "noclip/speed glitch FASTEST😉", Id = 131521108084603}
+    {name = "noclip/speed glitch FASTEST😉", Id = 131521108084603},
+    {name = "What You Want (Prince of egypt)", Id = 125080663978632}
 }
 
 
