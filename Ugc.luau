@@ -798,7 +798,8 @@ _G.tools = {
     {name = "What You Want (Prince of egypt)", Id = 125080663978632},
     {name = "Monster Mash (Forsaken)", Id = 105247160123775},
     {name = "Guest 1337 Block Ability [Forsaken]", Id = 105310177683245},
-    {name = "normal salute", Id = 130417009180168}
+    {name = "normal salute", Id = 130417009180168},
+    {name = "Salute", Id = 104389541909424}
 }
 
 
