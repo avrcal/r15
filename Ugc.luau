@@ -796,7 +796,8 @@ _G.tools = {
     {name = "Phase", Id = 90584560149153},
     {name = "noclip/speed glitch FASTEST😉", Id = 131521108084603},
     {name = "What You Want (Prince of egypt)", Id = 125080663978632},
-    {name = "Monster Mash (Forsaken)", Id = 105247160123775}
+    {name = "Monster Mash (Forsaken)", Id = 105247160123775},
+    {name = "Guest 1337 Block Ability [Forsaken]", Id = 105310177683245}
 }
 
 
