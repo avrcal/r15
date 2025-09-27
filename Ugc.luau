@@ -797,7 +797,8 @@ _G.tools = {
     {name = "noclip/speed glitch FASTEST😉", Id = 131521108084603},
     {name = "What You Want (Prince of egypt)", Id = 125080663978632},
     {name = "Monster Mash (Forsaken)", Id = 105247160123775},
-    {name = "Guest 1337 Block Ability [Forsaken]", Id = 105310177683245}
+    {name = "Guest 1337 Block Ability [Forsaken]", Id = 105310177683245},
+    {name = "normal salute", Id = 130417009180168}
 }
 
 
