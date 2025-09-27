@@ -795,7 +795,8 @@ _G.tools = {
     {name = "Rampage (Lonely Lonely)", Id = 114499509000839},
     {name = "Phase", Id = 90584560149153},
     {name = "noclip/speed glitch FASTEST😉", Id = 131521108084603},
-    {name = "What You Want (Prince of egypt)", Id = 125080663978632}
+    {name = "What You Want (Prince of egypt)", Id = 125080663978632},
+    {name = "Monster Mash (Forsaken)", Id = 105247160123775}
 }
 
 
