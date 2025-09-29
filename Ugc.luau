@@ -800,7 +800,8 @@ _G.tools = {
     {name = "Guest 1337 Block Ability [Forsaken]", Id = 105310177683245},
     {name = "normal salute", Id = 130417009180168},
     {name = "Salute", Id = 104389541909424},
-    {name = "Ceremonial Salute", Id = 79125889867958}
+    {name = "Ceremonial Salute", Id = 79125889867958},
+    {name = "Apple Store Girl Dance", Id = 88529442006132}
 }
 
 
