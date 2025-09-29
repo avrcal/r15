@@ -804,7 +804,8 @@ _G.tools = {
     {name = "Apple Store Girl Dance", Id = 88529442006132},
     {name = "Saucy Santana Meme", Id = 119318822465542},
     {name = "Yanagi walking", Id = 81088957780074},
-    {name = "Happy sway", Id = 131510920544621}
+    {name = "Happy sway", Id = 131510920544621},
+    {name = "It's ok I'm ok - Tate McRae", Id = 82627583535440}
 }
 
 
