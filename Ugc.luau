@@ -805,7 +805,8 @@ _G.tools = {
     {name = "Saucy Santana Meme", Id = 119318822465542},
     {name = "Yanagi walking", Id = 81088957780074},
     {name = "Happy sway", Id = 131510920544621},
-    {name = "It's ok I'm ok - Tate McRae", Id = 82627583535440}
+    {name = "It's ok I'm ok - Tate McRae", Id = 82627583535440},
+    {name = "Sweet Sit Pose V1 [SIT ANYWHERE]", Id = 75141049180386}
 }
 
 
