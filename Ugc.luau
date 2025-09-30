@@ -808,7 +808,8 @@ _G.tools = {
     {name = "It's ok I'm ok - Tate McRae", Id = 82627583535440},
     {name = "Sweet Sit Pose V1 [SIT ANYWHERE]", Id = 75141049180386},
     {name = "Chance Coin Flip", Id = 125469112376756},
-    {name = "Metro Man Arm Swing (Best)", Id = 78363615133716}
+    {name = "Metro Man Arm Swing (Best)", Id = 78363615133716},
+    {name = "Kick Back Chainsaw Man Dance", Id = 100376086636913}
 }
 
 
