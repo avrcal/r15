@@ -812,7 +812,8 @@ _G.tools = {
     {name = "Kick Back Chainsaw Man Dance", Id = 100376086636913},
     {name = "Michael Myers Bounce ENHANCED", Id = 89272258562217},
     {name = "00s Supermodel Catwalk Pose", Id = 102330856336140},
-    {name = "Courtly bow", Id = 117913449580238}
+    {name = "Courtly bow", Id = 117913449580238},
+    {name = "Michael Myers Bounce ENHANCED", Id = 114465214709109}
 }
 
 
