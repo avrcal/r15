@@ -815,7 +815,8 @@ _G.tools = {
     {name = "Courtly bow", Id = 117913449580238},
     {name = "Michael Myers Bounce ENHANCED", Id = 114465214709109},
     {name = "What you want", Id = 101115118300861},
-    {name = "Needy Balance", Id = 120534863495628}
+    {name = "Needy Balance", Id = 120534863495628},
+    {name = "Hip Shake Groove (ShakeYa)", Id = 139006878190245}
 }
 
 
