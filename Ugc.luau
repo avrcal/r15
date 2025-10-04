@@ -817,7 +817,8 @@ _G.tools = {
     {name = "What you want", Id = 101115118300861},
     {name = "Needy Balance", Id = 120534863495628},
     {name = "Hip Shake Groove (ShakeYa)", Id = 139006878190245},
-    {name = "⏳[LIMITED] Soda Pop", Id = 91567877788694}
+    {name = "⏳[LIMITED] Soda Pop", Id = 91567877788694},
+    {name = "Metro Man Dance [ Metro man arm swing ]", Id = 115529104638585}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
