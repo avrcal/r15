@@ -823,7 +823,8 @@ _G.tools = {
     {name = "Shake It Circle", Id = 100181025394535},
     {name = "Tidy", Id = 85890811891337},
     {name = "Sprinkler", Id = 127389452215565},
-    {name = "[BEST] Company Jig - Fortnite", Id = 116490772631796}
+    {name = "[BEST] Company Jig - Fortnite", Id = 116490772631796},
+    {name = "Become Tall", Id = 111946345092187}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
