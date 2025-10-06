@@ -821,7 +821,8 @@ _G.tools = {
     {name = "Metro Man Dance [ Metro man arm swing ]", Id = 115529104638585},
     {name = "Rock Out", Id = 122719596509695},
     {name = "Shake It Circle", Id = 100181025394535},
-    {name = "Tidy", Id = 85890811891337}
+    {name = "Tidy", Id = 85890811891337},
+    {name = "Sprinkler", Id = 127389452215565}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
