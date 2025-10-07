@@ -826,7 +826,8 @@ _G.tools = {
     {name = "[BEST] Company Jig - Fortnite", Id = 116490772631796},
     {name = "Become Tall", Id = 111946345092187},
     {name = "hands down hip sway", Id = 91767510752557},
-    {name = "Locked (Forsaken)", Id = 95231997014918}
+    {name = "Locked (Forsaken)", Id = 95231997014918},
+    {name = "Snejana Model Walk", Id = 71714422728827}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
