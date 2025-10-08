@@ -829,7 +829,8 @@ _G.tools = {
     {name = "Locked (Forsaken)", Id = 95231997014918},
     {name = "Snejana Model Walk", Id = 71714422728827},
     {name = "Windy Balance", Id = 74499136141567},
-    {name = "Yungblud Happier Jump", Id = 15609995579}
+    {name = "Yungblud Happier Jump", Id = 15609995579},
+    {name = "Aura Magical Float Idle Emote Animation", Id = 86575435619828}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
