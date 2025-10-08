@@ -833,7 +833,8 @@ _G.tools = {
     {name = "Aura Magical Float Idle Emote Animation", Id = 86575435619828},
     {name = "Goku Rage", Id = 73459140332897},
     {name = "GEAR 5 Luffy Transformation", Id = 120599668535370},
-    {name = "Super Power Up", Id = 132936908352435}
+    {name = "Super Power Up", Id = 132936908352435},
+    {name = "KJS Awakening", Id = 129225170899725}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
