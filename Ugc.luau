@@ -835,7 +835,8 @@ _G.tools = {
     {name = "GEAR 5 Luffy Transformation", Id = 120599668535370},
     {name = "Super Power Up", Id = 132936908352435},
     {name = "KJS Awakening", Id = 129225170899725},
-    {name = "Flip Flap CSGO BHOP", Id = 120051666454351}
+    {name = "Flip Flap CSGO BHOP", Id = 120051666454351},
+    {name = "Emperor Of The Auraverse [[Aura]]", Id = 119810104205917}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
