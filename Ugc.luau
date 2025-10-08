@@ -832,7 +832,8 @@ _G.tools = {
     {name = "Yungblud Happier Jump", Id = 15609995579},
     {name = "Aura Magical Float Idle Emote Animation", Id = 86575435619828},
     {name = "Goku Rage", Id = 73459140332897},
-    {name = "GEAR 5 Luffy Transformation", Id = 120599668535370}
+    {name = "GEAR 5 Luffy Transformation", Id = 120599668535370},
+    {name = "Super Power Up", Id = 132936908352435}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
