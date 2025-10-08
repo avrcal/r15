@@ -837,7 +837,8 @@ _G.tools = {
     {name = "KJS Awakening", Id = 129225170899725},
     {name = "Flip Flap CSGO BHOP", Id = 120051666454351},
     {name = "Emperor Of The Auraverse [[Aura]]", Id = 119810104205917},
-    {name = "Aura Idle", Id = 122746752555782}
+    {name = "Aura Idle", Id = 122746752555782},
+    {name = "Slow Run", Id = 102622695004986}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
