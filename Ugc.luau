@@ -834,7 +834,8 @@ _G.tools = {
     {name = "Goku Rage", Id = 73459140332897},
     {name = "GEAR 5 Luffy Transformation", Id = 120599668535370},
     {name = "Super Power Up", Id = 132936908352435},
-    {name = "KJS Awakening", Id = 129225170899725}
+    {name = "KJS Awakening", Id = 129225170899725},
+    {name = "Flip Flap CSGO BHOP", Id = 120051666454351}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
