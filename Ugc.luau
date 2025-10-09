@@ -852,7 +852,8 @@ _G.tools = {
     {name = "Gerakan sholat - prayer movement", Id = 93009184159377},
     {name = "Jason Vorhees Emote (ORIGINAL)", Id = 87282442358351},
     {name = "POOP YOUR FEET", Id = 78203064514043},
-    {name = "Needy Balance [🌟] V2", Id = 111960596500333}
+    {name = "Needy Balance [🌟] V2", Id = 111960596500333},
+    {name = "Needy Balance ⭐️", Id = 117310284311307}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
