@@ -839,7 +839,8 @@ _G.tools = {
     {name = "Emperor Of The Auraverse [[Aura]]", Id = 119810104205917},
     {name = "Aura Idle", Id = 122746752555782},
     {name = "Slow Run", Id = 102622695004986},
-    {name = "Forsaken - Injured Idle", Id = 134644521288556}
+    {name = "Forsaken - Injured Idle", Id = 134644521288556},
+    {name = "Charging Ki Power", Id = 113133047449611}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
