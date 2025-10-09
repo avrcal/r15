@@ -840,7 +840,8 @@ _G.tools = {
     {name = "Aura Idle", Id = 122746752555782},
     {name = "Slow Run", Id = 102622695004986},
     {name = "Forsaken - Injured Idle", Id = 134644521288556},
-    {name = "Charging Ki Power", Id = 113133047449611}
+    {name = "Charging Ki Power", Id = 113133047449611},
+    {name = "Gojo Floating The Honored One", Id = 80973128121657}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
