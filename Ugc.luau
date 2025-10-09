@@ -850,7 +850,8 @@ _G.tools = {
     {name = "Circle!", Id = 72061067972980},
     {name = "Windy Shake and Sway Bounce", Id = 122519975965215},
     {name = "Gerakan sholat - prayer movement", Id = 93009184159377},
-    {name = "Jason Vorhees Emote (ORIGINAL)", Id = 87282442358351}
+    {name = "Jason Vorhees Emote (ORIGINAL)", Id = 87282442358351},
+    {name = "POOP YOUR FEET", Id = 78203064514043}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
