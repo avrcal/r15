@@ -847,7 +847,8 @@ _G.tools = {
     {name = "Serious Punch", Id = 113281566861349},
     {name = "Goku Teleport", Id = 133631846764964},
     {name = "Farm Windmill", Id = 114998458543842},
-    {name = "Circle!", Id = 72061067972980}
+    {name = "Circle!", Id = 72061067972980},
+    {name = "Windy Shake and Sway Bounce", Id = 122519975965215}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
