@@ -843,7 +843,8 @@ _G.tools = {
     {name = "Charging Ki Power", Id = 113133047449611},
     {name = "Gojo Floating The Honored One", Id = 80973128121657},
     {name = "Variant mark flying [INVINCIBLE, FAST AURA]", Id = 92365791487740},
-    {name = "Superhero Flight", Id = 120303626369803}
+    {name = "Superhero Flight", Id = 120303626369803},
+    {name = "Serious Punch", Id = 113281566861349}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
