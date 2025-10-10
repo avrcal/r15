@@ -854,7 +854,8 @@ _G.tools = {
     {name = "POOP YOUR FEET", Id = 78203064514043},
     {name = "Needy Balance [🌟] V2", Id = 111960596500333},
     {name = "Needy Balance ⭐️", Id = 117310284311307},
-    {name = "🔊 Head Glitch 🤯", Id = 74725273075045}
+    {name = "🔊 Head Glitch 🤯", Id = 74725273075045},
+    {name = "Insane", Id = 112488881929977}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
