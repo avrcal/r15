@@ -861,7 +861,8 @@ _G.tools = {
     {name = "Gojo Crazy", Id = 87679574888451},
     {name = "Honored Gojo Idle", Id = 136479330379442},
     {name = "Demon Slayer Douma Sit", Id = 127626736897320},
-    {name = "Needy Balance", Id = 75816005613320}
+    {name = "Needy Balance", Id = 75816005613320},
+    {name = "Shake it - In a circle!", Id = 133534450343938}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
