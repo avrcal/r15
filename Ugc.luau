@@ -858,7 +858,8 @@ _G.tools = {
     {name = "Insane", Id = 112488881929977},
     {name = "Sonic You're Too Slow (Animated Face)", Id = 76931637880681},
     {name = "halloween", Id = 130916388086314},
-    {name = "Gojo Crazy", Id = 87679574888451}
+    {name = "Gojo Crazy", Id = 87679574888451},
+    {name = "Honored Gojo Idle", Id = 136479330379442}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
