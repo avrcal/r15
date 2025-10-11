@@ -856,7 +856,8 @@ _G.tools = {
     {name = "Needy Balance ⭐️", Id = 117310284311307},
     {name = "🔊 Head Glitch 🤯", Id = 74725273075045},
     {name = "Insane", Id = 112488881929977},
-    {name = "Sonic You're Too Slow (Animated Face)", Id = 76931637880681}
+    {name = "Sonic You're Too Slow (Animated Face)", Id = 76931637880681},
+    {name = "halloween", Id = 130916388086314}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
