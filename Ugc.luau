@@ -863,7 +863,8 @@ _G.tools = {
     {name = "Demon Slayer Douma Sit", Id = 127626736897320},
     {name = "Needy Balance", Id = 75816005613320},
     {name = "Shake it - In a circle!", Id = 133534450343938},
-    {name = "Bed Chem - Sabrina Carpenter", Id = 80527463982679}
+    {name = "Bed Chem - Sabrina Carpenter", Id = 80527463982679},
+    {name = "Tears Dance Break - Sabrina Carpenter", Id = 107917661801774}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
