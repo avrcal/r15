@@ -867,7 +867,8 @@ _G.tools = {
     {name = "Tears Dance Break - Sabrina Carpenter", Id = 107917661801774},
     {name = "Slow Motion Punch", Id = 110979677723900},
     {name = "hide in the sky fly (work in every game)", Id = 86614758562996},
-    {name = "Relax Coin Flip", Id = 137214776063706}
+    {name = "Relax Coin Flip", Id = 137214776063706},
+    {name = "sharp's out of control", Id = 130911781298572}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
