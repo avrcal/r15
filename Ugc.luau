@@ -870,7 +870,8 @@ _G.tools = {
     {name = "Relax Coin Flip", Id = 137214776063706},
     {name = "sharp's out of control", Id = 130911781298572},
     {name = "M3GAN's Dance", Id = 99649534578309},
-    {name = "Rolling on the Floor", Id = 94249491457997}
+    {name = "Rolling on the Floor", Id = 94249491457997},
+    {name = "Lady Gaga - Bad Romance", Id = 109367770639860}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
