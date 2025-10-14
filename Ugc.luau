@@ -873,7 +873,8 @@ _G.tools = {
     {name = "Rolling on the Floor", Id = 94249491457997},
     {name = "Lady Gaga - Bad Romance", Id = 109367770639860},
     {name = "The Dead Dance", Id = 108890126058891},
-    {name = "Dead Dance", Id = 109240185646657}
+    {name = "Dead Dance", Id = 109240185646657},
+    {name = "Slow Death", Id = 123955426642883}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
