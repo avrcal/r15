@@ -877,7 +877,8 @@ _G.tools = {
     {name = "Slow Death", Id = 123955426642883},
     {name = "Death Pose [Troll]", Id = 77855691082488},
     {name = "The Look", Id = 132921312059404},
-    {name = "[HOLDABLE DRINK] Drinking Animation", Id = 85688041753037}
+    {name = "[HOLDABLE DRINK] Drinking Animation", Id = 85688041753037},
+    {name = "Taking a drink", Id = 76529594385922}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
