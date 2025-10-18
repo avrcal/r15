@@ -881,7 +881,8 @@ _G.tools = {
     {name = "Taking a drink", Id = 76529594385922},
     {name = "The LEAN", Id = 110439492111756},
     {name = "Fake Hold Animation", Id = 85708740111289},
-    {name = "zesty sturdy", Id = 132104757386824}
+    {name = "zesty sturdy", Id = 132104757386824},
+    {name = "Punch", Id = 80057445812313}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
