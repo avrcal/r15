@@ -885,7 +885,8 @@ _G.tools = {
     {name = "Punch", Id = 80057445812313},
     {name = "Head Banger", Id = 75117155576035},
     {name = "Tall Transformation", Id = 128727582052143},
-    {name = "Become Tall!", Id = 100296272663282}
+    {name = "Become Tall!", Id = 100296272663282},
+    {name = "sweet walking dead zombie profile pose", Id = 137821702829463}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
