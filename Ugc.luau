@@ -889,7 +889,8 @@ _G.tools = {
     {name = "sweet walking dead zombie profile pose", Id = 137821702829463},
     {name = "🐛 Wigglepillar.exe", Id = 91114883954161},
     {name = "⏳   Tired (Best) 💤", Id = 134198658128833},
-    {name = "tired exhausted emote", Id = 127160704636136}
+    {name = "tired exhausted emote", Id = 127160704636136},
+    {name = "SHAKE THAT THANG", Id = 88285541926517}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
