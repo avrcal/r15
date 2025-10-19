@@ -887,7 +887,8 @@ _G.tools = {
     {name = "Tall Transformation", Id = 128727582052143},
     {name = "Become Tall!", Id = 100296272663282},
     {name = "sweet walking dead zombie profile pose", Id = 137821702829463},
-    {name = "🐛 Wigglepillar.exe", Id = 91114883954161}
+    {name = "🐛 Wigglepillar.exe", Id = 91114883954161},
+    {name = "⏳   Tired (Best) 💤", Id = 134198658128833}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
