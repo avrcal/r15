@@ -893,7 +893,8 @@ _G.tools = {
     {name = "SHAKE THAT THANG", Id = 88285541926517},
     {name = "Backflipping", Id = 112210489414817},
     {name = "Metroman Guitar Aura", Id = 129373064455405},
-    {name = "c00lkidd Idle (Forsaken)", Id = 78388131635850}
+    {name = "c00lkidd Idle (Forsaken)", Id = 78388131635850},
+    {name = "Genos", Id = 117008478667516}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
