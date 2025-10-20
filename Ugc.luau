@@ -895,7 +895,8 @@ _G.tools = {
     {name = "Metroman Guitar Aura", Id = 129373064455405},
     {name = "c00lkidd Idle (Forsaken)", Id = 78388131635850},
     {name = "Genos", Id = 117008478667516},
-    {name = "Jason Vorhees Emote (Shake it)", Id = 86501318752546}
+    {name = "Jason Vorhees Emote (Shake it)", Id = 86501318752546},
+    {name = "Car Transforming", Id = 73092707834226}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
