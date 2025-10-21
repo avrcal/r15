@@ -898,7 +898,8 @@ _G.tools = {
     {name = "Jason Vorhees Emote (Shake it)", Id = 86501318752546},
     {name = "Car Transforming", Id = 73092707834226},
     {name = "T-Pose", Id = 121655148084031},
-    {name = "Slenderman", Id = 118235512746687}
+    {name = "Slenderman", Id = 118235512746687},
+    {name = "Needy Dance", Id = 78086740525202}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
