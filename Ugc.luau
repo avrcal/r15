@@ -900,7 +900,8 @@ _G.tools = {
     {name = "T-Pose", Id = 121655148084031},
     {name = "Slenderman", Id = 118235512746687},
     {name = "Needy Dance", Id = 78086740525202},
-    {name = "[⌛] apple store girl (do you want me)", Id = 121532931823284}
+    {name = "[⌛] apple store girl (do you want me)", Id = 121532931823284},
+    {name = "Floor Rock Freeze - Tommy Hilfiger", Id = 10214314957}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
