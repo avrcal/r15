@@ -904,7 +904,8 @@ _G.tools = {
     {name = "Floor Rock Freeze - Tommy Hilfiger", Id = 10214314957},
     {name = "Tommy - Archer", Id = 13823324057},
     {name = "V Pose - Tommy Hilfiger", Id = 10214319518},
-    {name = "Flowing Breeze", Id = 10714342957}
+    {name = "Flowing Breeze", Id = 10714342957},
+    {name = "Static Outmanic!", Id = 98323299713352}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
