@@ -907,7 +907,8 @@ _G.tools = {
     {name = "Flowing Breeze", Id = 10714342957},
     {name = "Static Outmanic!", Id = 98323299713352},
     {name = "Jugglehead [HEADLESS]", Id = 130158622704929},
-    {name = "Head Juggling (PoF)", Id = 127034365069293}
+    {name = "Head Juggling (PoF)", Id = 127034365069293},
+    {name = "Trip Out", Id = 126780665379004}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
