@@ -915,7 +915,8 @@ _G.tools = {
     {name = "Baby Queen - Face Frame", Id = 14352340648},
     {name = "Astro Slide", Id = 140394282634510},
     {name = "BLACKPINK - Get em Get em Get em", Id = 103578366275864},
-    {name = "Billy Bounce", Id = 133394554631338}
+    {name = "Billy Bounce", Id = 133394554631338},
+    {name = "FORSAKEN Slasher Pose", Id = 140051337061095}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
