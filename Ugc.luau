@@ -909,7 +909,8 @@ _G.tools = {
     {name = "Jugglehead [HEADLESS]", Id = 130158622704929},
     {name = "Head Juggling (PoF)", Id = 127034365069293},
     {name = "Trip Out", Id = 126780665379004},
-    {name = "Party Rock Anthem", Id = 113074782746670}
+    {name = "Party Rock Anthem", Id = 113074782746670},
+    {name = "Sponge Dance", Id = 72248021897603}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
