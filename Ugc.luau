@@ -911,7 +911,8 @@ _G.tools = {
     {name = "Trip Out", Id = 126780665379004},
     {name = "Party Rock Anthem", Id = 113074782746670},
     {name = "Sponge Dance", Id = 72248021897603},
-    {name = "My arms are crossed. Be aware of it. (MEME)", Id = 72081313822408}
+    {name = "My arms are crossed. Be aware of it. (MEME)", Id = 72081313822408},
+    {name = "Baby Queen - Face Frame", Id = 14352340648}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
