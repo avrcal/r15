@@ -910,7 +910,8 @@ _G.tools = {
     {name = "Head Juggling (PoF)", Id = 127034365069293},
     {name = "Trip Out", Id = 126780665379004},
     {name = "Party Rock Anthem", Id = 113074782746670},
-    {name = "Sponge Dance", Id = 72248021897603}
+    {name = "Sponge Dance", Id = 72248021897603},
+    {name = "My arms are crossed. Be aware of it. (MEME)", Id = 72081313822408}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
