@@ -916,7 +916,8 @@ _G.tools = {
     {name = "Astro Slide", Id = 140394282634510},
     {name = "BLACKPINK - Get em Get em Get em", Id = 103578366275864},
     {name = "Billy Bounce", Id = 133394554631338},
-    {name = "FORSAKEN Slasher Pose", Id = 140051337061095}
+    {name = "FORSAKEN Slasher Pose", Id = 140051337061095},
+    {name = "Forsaken Survival Idle", Id = 106005604050931}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
