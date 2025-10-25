@@ -921,7 +921,8 @@ _G.tools = {
     {name = "Forsaken Noli (Normal Version)", Id = 95775127626218},
     {name = "Heeseung Walk", Id = 135725174873846},
     {name = "Gravity Shard", Id = 78127333758745},
-    {name = "Become Tall V2 Improved", Id = 90613618252787}
+    {name = "Become Tall V2 Improved", Id = 90613618252787},
+    {name = "SHAKE THAT THANG", Id = 77045616324578}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
