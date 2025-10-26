@@ -936,7 +936,8 @@ _G.tools = {
     {name = "Super Sonic Hover", Id = 74386389774165},
     {name = "Cursed Sorcerer Walk — [Matching!]", Id = 135751675908137},
     {name = "[MATCHING] Geto Walk", Id = 89251806503217},
-    {name = "Sans Emote [Idle]", Id = 113203077347750}
+    {name = "Sans Emote [Idle]", Id = 113203077347750},
+    {name = "Crawling SCP Walk — Creepy Crawl", Id = 88508412373927}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
