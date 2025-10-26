@@ -927,7 +927,8 @@ _G.tools = {
     {name = "♡ Cute Model Crouch Emote Profile Pose", Id = 93306402931197},
     {name = "[Profile Pose] Modelling Posing", Id = 109451033653600},
     {name = "🌸 Cutesy Kawaii Model Energy Doll Pose", Id = 139838477275170},
-    {name = "Be Tall Skinwalker Dog", Id = 113771589189795}
+    {name = "Be Tall Skinwalker Dog", Id = 113771589189795},
+    {name = "Possessed Glitcher", Id = 80103653497738}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
