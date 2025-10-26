@@ -932,7 +932,8 @@ _G.tools = {
     {name = "Vilan Idle", Id = 121480327509940},
     {name = "Run🏃‍♂️", Id = 70636286183373},
     {name = "Miss Me", Id = 100047148644539},
-    {name = "DCEU Flash Run [Aura Farm]", Id = 107994680200921}
+    {name = "DCEU Flash Run [Aura Farm]", Id = 107994680200921},
+    {name = "Super Sonic Hover", Id = 74386389774165}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
