@@ -925,7 +925,8 @@ _G.tools = {
     {name = "SHAKE THAT THANG", Id = 77045616324578},
     {name = "Akaza Fighting Pose", Id = 129190908364371},
     {name = "♡ Cute Model Crouch Emote Profile Pose", Id = 93306402931197},
-    {name = "[Profile Pose] Modelling Posing", Id = 109451033653600}
+    {name = "[Profile Pose] Modelling Posing", Id = 109451033653600},
+    {name = "🌸 Cutesy Kawaii Model Energy Doll Pose", Id = 139838477275170}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
