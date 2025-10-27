@@ -939,7 +939,8 @@ _G.tools = {
     {name = "Sans Emote [Idle]", Id = 113203077347750},
     {name = "Crawling SCP Walk — Creepy Crawl", Id = 88508412373927},
     {name = "Floating Crawled Up Sit [NEW!]", Id = 127989917643868},
-    {name = "Sleep Floating idle animation", Id = 126430242602872}
+    {name = "Sleep Floating idle animation", Id = 126430242602872},
+    {name = "Space Float 1", Id = 117623101840084}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
