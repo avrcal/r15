@@ -940,7 +940,8 @@ _G.tools = {
     {name = "Crawling SCP Walk — Creepy Crawl", Id = 88508412373927},
     {name = "Floating Crawled Up Sit [NEW!]", Id = 127989917643868},
     {name = "Sleep Floating idle animation", Id = 126430242602872},
-    {name = "Space Float 1", Id = 117623101840084}
+    {name = "Space Float 1", Id = 117623101840084},
+    {name = "Floating BBQ", Id = 108921263052079}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
