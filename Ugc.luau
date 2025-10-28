@@ -945,7 +945,8 @@ _G.tools = {
     {name = "Ghost Floating Halloween", Id = 112082806790047},
     {name = "Creepy Crawler Emote (stickbug) 🦗🦗", Id = 74583851935792},
     {name = "CPR | First Responders Pack", Id = 99312262519117},
-    {name = "Hands Up", Id = 135078793551909}
+    {name = "Hands Up", Id = 135078793551909},
+    {name = "Two-Time's Ritual", Id = 112757618232626}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
