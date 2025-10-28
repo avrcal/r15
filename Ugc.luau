@@ -948,7 +948,8 @@ _G.tools = {
     {name = "Hands Up", Id = 135078793551909},
     {name = "Two-Time's Ritual", Id = 112757618232626},
     {name = "Dog", Id = 114731495347458},
-    {name = "Snoop's Walk", Id = 110204898807330}
+    {name = "Snoop's Walk", Id = 110204898807330},
+    {name = "Saiyan Saga Goku’s Fighting Stance", Id = 90460269306619}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
