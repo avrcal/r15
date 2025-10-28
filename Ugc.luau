@@ -947,7 +947,8 @@ _G.tools = {
     {name = "CPR | First Responders Pack", Id = 99312262519117},
     {name = "Hands Up", Id = 135078793551909},
     {name = "Two-Time's Ritual", Id = 112757618232626},
-    {name = "Dog", Id = 114731495347458}
+    {name = "Dog", Id = 114731495347458},
+    {name = "Snoop's Walk", Id = 110204898807330}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
