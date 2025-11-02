@@ -953,7 +953,8 @@ _G.tools = {
     {name = "Goku - Super Saiyan 3 Victory", Id = 136087809701317},
     {name = "Ice Spice Jersey Bounce", Id = 129346993972313},
     {name = "Uncanny Creature", Id = 120873587634730},
-    {name = "Miku Jumpstyle [☢️]", Id = 137205932883902}
+    {name = "Miku Jumpstyle [☢️]", Id = 137205932883902},
+    {name = "Distraction Dance Stickman", Id = 129844594633957}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
