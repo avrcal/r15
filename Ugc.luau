@@ -962,7 +962,8 @@ _G.tools = {
     {name = "hide in the wall (Right)", Id = 120896961472578},
     {name = "Floating Aura", Id = 92587731065850},
     {name = "IShowSpeed Bounce Dance", Id = 111272262660539},
-    {name = "Hakari Dance", Id = 72935992500498}
+    {name = "Hakari Dance", Id = 72935992500498},
+    {name = "Sukuna Aura Sit [Manga]", Id = 118120056380796}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
