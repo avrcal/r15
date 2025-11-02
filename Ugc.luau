@@ -960,7 +960,8 @@ _G.tools = {
     {name = "Be tall creature", Id = 91348372558295},
     {name = "Flying Hide", Id = 91797087058917},
     {name = "hide in the wall (Right)", Id = 120896961472578},
-    {name = "Floating Aura", Id = 92587731065850}
+    {name = "Floating Aura", Id = 92587731065850},
+    {name = "IShowSpeed Bounce Dance", Id = 111272262660539}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
