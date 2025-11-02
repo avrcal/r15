@@ -958,7 +958,8 @@ _G.tools = {
     {name = "Jumpstyle", Id = 108048854247037},
     {name = "Cool Backflip", Id = 117373674181293},
     {name = "Be tall creature", Id = 91348372558295},
-    {name = "Flying Hide", Id = 91797087058917}
+    {name = "Flying Hide", Id = 91797087058917},
+    {name = "hide in the wall (Right)", Id = 120896961472578}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
