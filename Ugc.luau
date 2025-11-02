@@ -957,7 +957,8 @@ _G.tools = {
     {name = "Distraction Dance Stickman", Id = 129844594633957},
     {name = "Jumpstyle", Id = 108048854247037},
     {name = "Cool Backflip", Id = 117373674181293},
-    {name = "Be tall creature", Id = 91348372558295}
+    {name = "Be tall creature", Id = 91348372558295},
+    {name = "Flying Hide", Id = 91797087058917}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
