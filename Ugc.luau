@@ -964,7 +964,8 @@ _G.tools = {
     {name = "IShowSpeed Bounce Dance", Id = 111272262660539},
     {name = "Hakari Dance", Id = 72935992500498},
     {name = "Sukuna Aura Sit [Manga]", Id = 118120056380796},
-    {name = "R6 Unemployment/Druski Dance (Forsaken)", Id = 87033513223989}
+    {name = "R6 Unemployment/Druski Dance (Forsaken)", Id = 87033513223989},
+    {name = "Speed shake dance", Id = 103913447080306}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
