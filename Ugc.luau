@@ -968,7 +968,8 @@ _G.tools = {
     {name = "Speed shake dance", Id = 103913447080306},
     {name = "silly jumping spider dance", Id = 139310328821985},
     {name = "Brutal Headbang", Id = 135826688733551},
-    {name = "Brutal Headbanger V1", Id = 111196847433339}
+    {name = "Brutal Headbanger V1", Id = 111196847433339},
+    {name = "Fast Headbang", Id = 87650359912635}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
