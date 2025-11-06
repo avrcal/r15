@@ -970,7 +970,8 @@ _G.tools = {
     {name = "Brutal Headbang", Id = 135826688733551},
     {name = "Brutal Headbanger V1", Id = 111196847433339},
     {name = "Fast Headbang", Id = 87650359912635},
-    {name = "(Die of Death) Pursuer-Howl-Ability", Id = 100344457457146}
+    {name = "(Die of Death) Pursuer-Howl-Ability", Id = 100344457457146},
+    {name = "Zesty Sturdy 🌟ORIGINAL🌟", Id = 130535869680553}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
