@@ -975,7 +975,8 @@ _G.tools = {
     {name = "Mesmerizer", Id = 119261836151086},
     {name = "Rabbit Hole - Miku", Id = 117394346715743},
     {name = "Otsukare Summer", Id = 77511113280145},
-    {name = "Omni-Mark Fly [Invincible]", Id = 101291673584393}
+    {name = "Omni-Mark Fly [Invincible]", Id = 101291673584393},
+    {name = "floating angel", Id = 88152008013837}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
