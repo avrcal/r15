@@ -977,7 +977,8 @@ _G.tools = {
     {name = "Otsukare Summer", Id = 77511113280145},
     {name = "Omni-Mark Fly [Invincible]", Id = 101291673584393},
     {name = "floating angel", Id = 88152008013837},
-    {name = "Angelic Idle", Id = 137768794429758}
+    {name = "Angelic Idle", Id = 137768794429758},
+    {name = "Meditation Aura Farming 🔥", Id = 77360312751381}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
