@@ -985,7 +985,8 @@ _G.tools = {
     {name = "Spin Item! [IDLE]", Id = 106474571689299},
     {name = "Die of Death Pursuer Idle Pose", Id = 138298584365781},
     {name = "Birdbrain", Id = 123471454475978},
-    {name = "[R6] Otsukare Summer", Id = 102662583709770}
+    {name = "[R6] Otsukare Summer", Id = 102662583709770},
+    {name = "Fashionable", Id = 10714091938}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
