@@ -989,7 +989,8 @@ _G.tools = {
     {name = "Fashionable", Id = 10714091938},
     {name = "O Emote - Squid Game", Id = 72874692566655},
     {name = "Bendy Class Dance", Id = 95800320809419},
-    {name = "Tail wag [Loop]", Id = 72379586208471}
+    {name = "Tail wag [Loop]", Id = 72379586208471},
+    {name = "Tail wag idle", Id = 109931853277053}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
