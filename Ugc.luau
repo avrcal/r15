@@ -991,7 +991,8 @@ _G.tools = {
     {name = "Bendy Class Dance", Id = 95800320809419},
     {name = "Tail wag [Loop]", Id = 72379586208471},
     {name = "Tail wag idle", Id = 109931853277053},
-    {name = "withered animatronic glitching", Id = 124118979741881}
+    {name = "withered animatronic glitching", Id = 124118979741881},
+    {name = "Disassamble", Id = 86683240260168}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
