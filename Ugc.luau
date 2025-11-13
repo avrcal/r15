@@ -988,7 +988,8 @@ _G.tools = {
     {name = "[R6] Otsukare Summer", Id = 102662583709770},
     {name = "Fashionable", Id = 10714091938},
     {name = "O Emote - Squid Game", Id = 72874692566655},
-    {name = "Bendy Class Dance", Id = 95800320809419}
+    {name = "Bendy Class Dance", Id = 95800320809419},
+    {name = "Tail wag [Loop]", Id = 72379586208471}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
