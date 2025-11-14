@@ -995,7 +995,8 @@ _G.tools = {
     {name = "Disassamble", Id = 86683240260168},
     {name = "Fragmented", Id = 109976550167775},
     {name = "Hand Drill", Id = 115220179841536},
-    {name = "Gun Hand Finger Emote", Id = 136067415498039}
+    {name = "Gun Hand Finger Emote", Id = 136067415498039},
+    {name = "Finger swearing", Id = 87225274574233}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
