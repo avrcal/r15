@@ -1015,7 +1015,8 @@ _G.tools = {
     {name = "Nagi Seishiro's Celebration", Id = 71802397225596},
     {name = "Nagi Seishiro", Id = 98205398270519},
     {name = "Blue Lock Lavinho Celebration Pose", Id = 92045987196732},
-    {name = "Sae Itoshi", Id = 92116031773879}
+    {name = "Sae Itoshi", Id = 92116031773879},
+    {name = "Chinese Dance", Id = 137581268977122}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
