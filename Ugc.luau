@@ -1011,7 +1011,8 @@ _G.tools = {
     {name = "F1 Car - Emote", Id = 89256675888646},
     {name = "💀Monster Deformation🩸( Helloween)", Id = 125760485188173},
     {name = "[CONTENT DELETED]", Id = 76961953465171},
-    {name = "Float Upside Down Shinji", Id = 107286309995173}
+    {name = "Float Upside Down Shinji", Id = 107286309995173},
+    {name = "Nagi Seishiro's Celebration", Id = 71802397225596}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
