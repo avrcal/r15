@@ -998,7 +998,8 @@ _G.tools = {
     {name = "Gun Hand Finger Emote", Id = 136067415498039},
     {name = "Finger swearing", Id = 87225274574233},
     {name = "Snake Morph", Id = 140548836664819},
-    {name = "Flappy Bird", Id = 80194647011378}
+    {name = "Flappy Bird", Id = 80194647011378},
+    {name = "💩 MEGA POOPING 💩 [AURA]", Id = 121561448415799}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
