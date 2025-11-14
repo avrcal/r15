@@ -1001,7 +1001,8 @@ _G.tools = {
     {name = "Flappy Bird", Id = 80194647011378},
     {name = "💩 MEGA POOPING 💩 [AURA]", Id = 121561448415799},
     {name = "Become a car: Convertible", Id = 116772752010894},
-    {name = "Butterfly Friend", Id = 85678077191856}
+    {name = "Butterfly Friend", Id = 85678077191856},
+    {name = "Swimmy Fish", Id = 120631990449452}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
