@@ -1005,7 +1005,8 @@ _G.tools = {
     {name = "Swimmy Fish", Id = 120631990449452},
     {name = "Fish Swimming", Id = 104683597324716},
     {name = "Fish Swim", Id = 102957953130055},
-    {name = "Wiggling Funny Tongue", Id = 101272360055330}
+    {name = "Wiggling Funny Tongue", Id = 101272360055330},
+    {name = "Machine Gun (For Blocky)", Id = 82724514717551}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
