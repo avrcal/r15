@@ -1007,7 +1007,8 @@ _G.tools = {
     {name = "Fish Swim", Id = 102957953130055},
     {name = "Wiggling Funny Tongue", Id = 101272360055330},
     {name = "Machine Gun (For Blocky)", Id = 82724514717551},
-    {name = "Jester Box", Id = 127086075404855}
+    {name = "Jester Box", Id = 127086075404855},
+    {name = "F1 Car - Emote", Id = 89256675888646}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
