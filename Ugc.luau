@@ -1012,7 +1012,8 @@ _G.tools = {
     {name = "💀Monster Deformation🩸( Helloween)", Id = 125760485188173},
     {name = "[CONTENT DELETED]", Id = 76961953465171},
     {name = "Float Upside Down Shinji", Id = 107286309995173},
-    {name = "Nagi Seishiro's Celebration", Id = 71802397225596}
+    {name = "Nagi Seishiro's Celebration", Id = 71802397225596},
+    {name = "Nagi Seishiro", Id = 98205398270519}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
