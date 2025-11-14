@@ -993,7 +993,8 @@ _G.tools = {
     {name = "Tail wag idle", Id = 109931853277053},
     {name = "withered animatronic glitching", Id = 124118979741881},
     {name = "Disassamble", Id = 86683240260168},
-    {name = "Fragmented", Id = 109976550167775}
+    {name = "Fragmented", Id = 109976550167775},
+    {name = "Hand Drill", Id = 115220179841536}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
