@@ -996,7 +996,8 @@ _G.tools = {
     {name = "Fragmented", Id = 109976550167775},
     {name = "Hand Drill", Id = 115220179841536},
     {name = "Gun Hand Finger Emote", Id = 136067415498039},
-    {name = "Finger swearing", Id = 87225274574233}
+    {name = "Finger swearing", Id = 87225274574233},
+    {name = "Snake Morph", Id = 140548836664819}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
