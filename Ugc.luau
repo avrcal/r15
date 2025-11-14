@@ -994,7 +994,8 @@ _G.tools = {
     {name = "withered animatronic glitching", Id = 124118979741881},
     {name = "Disassamble", Id = 86683240260168},
     {name = "Fragmented", Id = 109976550167775},
-    {name = "Hand Drill", Id = 115220179841536}
+    {name = "Hand Drill", Id = 115220179841536},
+    {name = "Gun Hand Finger Emote", Id = 136067415498039}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
