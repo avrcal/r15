@@ -1042,7 +1042,8 @@ _G.tools = {
     {name = "Pickle Rick Dance", Id = 71911684622445},
     {name = "⏳[LIMITED] California Girls", Id = 96463900850916},
     {name = "Khaby Lame Mechanism 😐", Id = 90902400122749},
-    {name = "I Want Money", Id = 104248876465825}
+    {name = "I Want Money", Id = 104248876465825},
+    {name = "Blue Shirt Guy Dance", Id = 113210894659020}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
