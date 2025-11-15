@@ -1021,7 +1021,8 @@ _G.tools = {
     {name = "Become Among Us (Amogus)", Id = 93025479508764},
     {name = "minecraft emote", Id = 102560740957800},
     {name = "MINECRAFT", Id = 100360522114079},
-    {name = "Teamup Crouch Minecraft", Id = 130268489859880}
+    {name = "Teamup Crouch Minecraft", Id = 130268489859880},
+    {name = "Car Pose: Tokyo Lean", Id = 132760747409859}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
