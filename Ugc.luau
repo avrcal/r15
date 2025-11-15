@@ -1017,7 +1017,8 @@ _G.tools = {
     {name = "Blue Lock Lavinho Celebration Pose", Id = 92045987196732},
     {name = "Sae Itoshi", Id = 92116031773879},
     {name = "Chinese Dance", Id = 137581268977122},
-    {name = "Basketball Head", Id = 138243322520289}
+    {name = "Basketball Head", Id = 138243322520289},
+    {name = "Become Among Us (Amogus)", Id = 93025479508764}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
