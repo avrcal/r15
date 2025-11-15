@@ -1040,7 +1040,8 @@ _G.tools = {
     {name = "Throne Sofa Transformatoin", Id = 85891139596572},
     {name = "Ping Pong Table", Id = 130882981550324},
     {name = "Pickle Rick Dance", Id = 71911684622445},
-    {name = "⏳[LIMITED] California Girls", Id = 96463900850916}
+    {name = "⏳[LIMITED] California Girls", Id = 96463900850916},
+    {name = "Khaby Lame Mechanism 😐", Id = 90902400122749}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
