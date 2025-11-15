@@ -1023,7 +1023,8 @@ _G.tools = {
     {name = "MINECRAFT", Id = 100360522114079},
     {name = "Teamup Crouch Minecraft", Id = 130268489859880},
     {name = "Car Pose: Tokyo Lean", Id = 132760747409859},
-    {name = "Become a car: Dragster", Id = 81388785824317}
+    {name = "Become a car: Dragster", Id = 81388785824317},
+    {name = "Planet", Id = 119293883716589}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
