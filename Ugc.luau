@@ -1028,7 +1028,8 @@ _G.tools = {
     {name = "Noggin boogie", Id = 102414724686360},
     {name = "Flying Man V1.2", Id = 97314019787131},
     {name = "Letter F Emote", Id = 135227259060683},
-    {name = "Letter U Emote", Id = 135824595429758}
+    {name = "Letter U Emote", Id = 135824595429758},
+    {name = "Letter C Emote", Id = 102706636381416}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
