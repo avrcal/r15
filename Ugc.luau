@@ -1034,7 +1034,8 @@ _G.tools = {
     {name = "Be a Dog 2.0", Id = 97464417789472},
     {name = "Sofa with cushions", Id = 89521079832393},
     {name = "Be a table", Id = 74273688598434},
-    {name = "chair", Id = 99618261055849}
+    {name = "chair", Id = 99618261055849},
+    {name = "[⏳] Floating TV", Id = 102280055415164}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
