@@ -1033,7 +1033,8 @@ _G.tools = {
     {name = "Letter K Emote", Id = 120953677535193},
     {name = "Be a Dog 2.0", Id = 97464417789472},
     {name = "Sofa with cushions", Id = 89521079832393},
-    {name = "Be a table", Id = 74273688598434}
+    {name = "Be a table", Id = 74273688598434},
+    {name = "chair", Id = 99618261055849}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
