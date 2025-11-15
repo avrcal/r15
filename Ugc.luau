@@ -1025,7 +1025,8 @@ _G.tools = {
     {name = "Car Pose: Tokyo Lean", Id = 132760747409859},
     {name = "Become a car: Dragster", Id = 81388785824317},
     {name = "Planet", Id = 119293883716589},
-    {name = "Noggin boogie", Id = 102414724686360}
+    {name = "Noggin boogie", Id = 102414724686360},
+    {name = "Flying Man V1.2", Id = 97314019787131}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
