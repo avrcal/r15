@@ -1019,7 +1019,8 @@ _G.tools = {
     {name = "Chinese Dance", Id = 137581268977122},
     {name = "Basketball Head", Id = 138243322520289},
     {name = "Become Among Us (Amogus)", Id = 93025479508764},
-    {name = "minecraft emote", Id = 102560740957800}
+    {name = "minecraft emote", Id = 102560740957800},
+    {name = "MINECRAFT", Id = 100360522114079}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
