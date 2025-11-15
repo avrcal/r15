@@ -1035,7 +1035,8 @@ _G.tools = {
     {name = "Sofa with cushions", Id = 89521079832393},
     {name = "Be a table", Id = 74273688598434},
     {name = "chair", Id = 99618261055849},
-    {name = "[⏳] Floating TV", Id = 102280055415164}
+    {name = "[⏳] Floating TV", Id = 102280055415164},
+    {name = "Chair", Id = 114140630538674}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
