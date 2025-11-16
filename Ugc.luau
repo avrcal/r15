@@ -1055,7 +1055,8 @@ _G.tools = {
     {name = "Blue Shirt Guy Dance", Id = 98080501860873},
     {name = "67", Id = 94843595155964},
     {name = "Right Front Splits [3.0]", Id = 124273860505243},
-    {name = "Backbend Left Front Splits [3.0]", Id = 128675694509179}
+    {name = "Backbend Left Front Splits [3.0]", Id = 128675694509179},
+    {name = "Split Jump", Id = 95913051955954}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
