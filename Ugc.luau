@@ -1051,7 +1051,8 @@ _G.tools = {
     {name = "🎢Little Rollercoaster Rider", Id = 93876945858075},
     {name = "Little Slide", Id = 120483178741047},
     {name = "Levitating Reader [FLOATING BOOK]", Id = 93888852612546},
-    {name = "Iconic Vlada Model Walk", Id = 114356477612180}
+    {name = "Iconic Vlada Model Walk", Id = 114356477612180},
+    {name = "Blue Shirt Guy Dance", Id = 98080501860873}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
