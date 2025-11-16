@@ -1053,7 +1053,8 @@ _G.tools = {
     {name = "Levitating Reader [FLOATING BOOK]", Id = 93888852612546},
     {name = "Iconic Vlada Model Walk", Id = 114356477612180},
     {name = "Blue Shirt Guy Dance", Id = 98080501860873},
-    {name = "67", Id = 94843595155964}
+    {name = "67", Id = 94843595155964},
+    {name = "Right Front Splits [3.0]", Id = 124273860505243}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
