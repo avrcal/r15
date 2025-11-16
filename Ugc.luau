@@ -1045,7 +1045,8 @@ _G.tools = {
     {name = "I Want Money", Id = 104248876465825},
     {name = "Blue Shirt Guy Dance", Id = 113210894659020},
     {name = "Arms Crossed Arms Emote", Id = 130432219266930},
-    {name = "Yapping Hand Gesture", Id = 81563764794164}
+    {name = "Yapping Hand Gesture", Id = 81563764794164},
+    {name = "Giant Hand Head Rub", Id = 101118547220849}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
