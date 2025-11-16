@@ -1048,7 +1048,8 @@ _G.tools = {
     {name = "Yapping Hand Gesture", Id = 81563764794164},
     {name = "Giant Hand Head Rub", Id = 101118547220849},
     {name = "Little Slider", Id = 117208552833070},
-    {name = "🎢Little Rollercoaster Rider", Id = 93876945858075}
+    {name = "🎢Little Rollercoaster Rider", Id = 93876945858075},
+    {name = "Little Slide", Id = 120483178741047}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
