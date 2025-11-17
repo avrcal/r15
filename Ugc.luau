@@ -1061,7 +1061,8 @@ _G.tools = {
     {name = "Transformation. Boat to Bot", Id = 90104059726422},
     {name = "Boat Idle", Id = 112584749008148},
     {name = "Scooter Transformation", Id = 133504083530654},
-    {name = "Crazy Neck Animation", Id = 101653730051145}
+    {name = "Crazy Neck Animation", Id = 101653730051145},
+    {name = "Motorcycle", Id = 91127325280565}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
