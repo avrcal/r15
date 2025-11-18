@@ -1069,7 +1069,8 @@ _G.tools = {
     {name = "Packaged", Id = 100466914056069},
     {name = "Seal/Dolphin swim", Id = 118016588766846},
     {name = "Roblox Award", Id = 75951011845584},
-    {name = "Coin Flipper!", Id = 118405846300584}
+    {name = "Coin Flipper!", Id = 118405846300584},
+    {name = "Building Blocks", Id = 99125987103156}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
