@@ -1067,7 +1067,8 @@ _G.tools = {
     {name = "Bang Head on Wall", Id = 89060597619453},
     {name = "Sponge Bounce", Id = 87272067762119},
     {name = "Packaged", Id = 100466914056069},
-    {name = "Seal/Dolphin swim", Id = 118016588766846}
+    {name = "Seal/Dolphin swim", Id = 118016588766846},
+    {name = "Roblox Award", Id = 75951011845584}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
