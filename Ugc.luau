@@ -1064,7 +1064,8 @@ _G.tools = {
     {name = "Crazy Neck Animation", Id = 101653730051145},
     {name = "Motorcycle", Id = 91127325280565},
     {name = "Motorcycle", Id = 104810105184118},
-    {name = "Bang Head on Wall", Id = 89060597619453}
+    {name = "Bang Head on Wall", Id = 89060597619453},
+    {name = "Sponge Bounce", Id = 87272067762119}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
