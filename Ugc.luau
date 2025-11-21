@@ -1073,7 +1073,8 @@ _G.tools = {
     {name = "Building Blocks", Id = 99125987103156},
     {name = "[BEST] Rakai Emote", Id = 71494363833326},
     {name = "[AURA FARM] YN Wall Lean", Id = 114388371896974},
-    {name = "feelin myself sway", Id = 77780134372141}
+    {name = "feelin myself sway", Id = 77780134372141},
+    {name = "Meow Meow", Id = 82054392937883}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
