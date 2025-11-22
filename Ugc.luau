@@ -1081,7 +1081,8 @@ _G.tools = {
     {name = "Police Stop - Hand Gesture (Politie Stopteken)", Id = 77526668890365},
     {name = "Head scratches / Head pats", Id = 114313599861536},
     {name = "♡ ꒰ Cute Bent Pose", Id = 122937877015539},
-    {name = "Hype Boy - NewJeans", Id = 103116941108936}
+    {name = "Hype Boy - NewJeans", Id = 103116941108936},
+    {name = "Halloween Headless Effortless Aura", Id = 121812124134821}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
