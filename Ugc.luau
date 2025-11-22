@@ -1076,7 +1076,8 @@ _G.tools = {
     {name = "feelin myself sway", Id = 77780134372141},
     {name = "Meow Meow", Id = 82054392937883},
     {name = "Police Traffic Controll [Car stop]", Id = 97607444811646},
-    {name = "Police Traffic Controll [Car go left]", Id = 92904088010952}
+    {name = "Police Traffic Controll [Car go left]", Id = 92904088010952},
+    {name = "Police Traffic Controll [Car go right]", Id = 124450389233157}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
