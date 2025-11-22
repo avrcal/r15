@@ -1086,7 +1086,8 @@ _G.tools = {
     {name = "sharp's hairbrush dazzle", Id = 140244623342227},
     {name = "Shy hip sway", Id = 74880230485118},
     {name = "Peacemaker Bounce", Id = 112508052945449},
-    {name = "💘 Sweet Fluffy Bunny Dance", Id = 134507147196805}
+    {name = "💘 Sweet Fluffy Bunny Dance", Id = 134507147196805},
+    {name = "Zombie Run Lag", Id = 79045891420947}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
