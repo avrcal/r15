@@ -1074,7 +1074,8 @@ _G.tools = {
     {name = "[BEST] Rakai Emote", Id = 71494363833326},
     {name = "[AURA FARM] YN Wall Lean", Id = 114388371896974},
     {name = "feelin myself sway", Id = 77780134372141},
-    {name = "Meow Meow", Id = 82054392937883}
+    {name = "Meow Meow", Id = 82054392937883},
+    {name = "Police Traffic Controll [Car stop]", Id = 97607444811646}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
