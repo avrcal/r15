@@ -1085,7 +1085,8 @@ _G.tools = {
     {name = "Halloween Headless Effortless Aura", Id = 121812124134821},
     {name = "sharp's hairbrush dazzle", Id = 140244623342227},
     {name = "Shy hip sway", Id = 74880230485118},
-    {name = "Peacemaker Bounce", Id = 112508052945449}
+    {name = "Peacemaker Bounce", Id = 112508052945449},
+    {name = "💘 Sweet Fluffy Bunny Dance", Id = 134507147196805}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
