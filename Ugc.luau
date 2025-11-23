@@ -1088,7 +1088,8 @@ _G.tools = {
     {name = "Peacemaker Bounce", Id = 112508052945449},
     {name = "💘 Sweet Fluffy Bunny Dance", Id = 134507147196805},
     {name = "Zombie Run Lag", Id = 79045891420947},
-    {name = "R6 Sit Classic", Id = 89786372331582}
+    {name = "R6 Sit Classic", Id = 89786372331582},
+    {name = "Cute Sit", Id = 116842377221614}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
