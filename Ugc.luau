@@ -1090,7 +1090,8 @@ _G.tools = {
     {name = "Zombie Run Lag", Id = 79045891420947},
     {name = "R6 Sit Classic", Id = 89786372331582},
     {name = "Cute Sit", Id = 116842377221614},
-    {name = "Cute Sit", Id = 92270419093034}
+    {name = "Cute Sit", Id = 92270419093034},
+    {name = "Nagi Seishiro Celebration (Blue Lock)", Id = 126876116788270}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
