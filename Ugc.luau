@@ -1105,7 +1105,8 @@ _G.tools = {
     {name = "Minigun Type-9000 (Gun)", Id = 129863972412706},
     {name = "GUN (FIRE)", Id = 101064428613405},
     {name = "Gun (IDLE)", Id = 74087614545350},
-    {name = "Gun (RELOAD)", Id = 81045332600457}
+    {name = "Gun (RELOAD)", Id = 81045332600457},
+    {name = "Aura Sit", Id = 77139456213922}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
