@@ -1094,7 +1094,8 @@ _G.tools = {
     {name = "Nagi Seishiro Celebration (Blue Lock)", Id = 126876116788270},
     {name = "Trampoline Jumpy Head", Id = 98039209341823},
     {name = "The Box", Id = 80663811715650},
-    {name = "Spinning Fan", Id = 136133810019853}
+    {name = "Spinning Fan", Id = 136133810019853},
+    {name = "Emote Loading. Please Wait... | spinning Robloxian", Id = 111251252458517}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
