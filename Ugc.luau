@@ -1109,7 +1109,8 @@ _G.tools = {
     {name = "Aura Sit", Id = 77139456213922},
     {name = "Boxing Practice", Id = 121234846883654},
     {name = "/e death", Id = 140145855251193},
-    {name = "Garou sit pose", Id = 79907509663903}
+    {name = "Garou sit pose", Id = 79907509663903},
+    {name = "🚫 NO! Morph", Id = 111666664060365}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
