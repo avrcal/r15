@@ -1092,7 +1092,8 @@ _G.tools = {
     {name = "Cute Sit", Id = 116842377221614},
     {name = "Cute Sit", Id = 92270419093034},
     {name = "Nagi Seishiro Celebration (Blue Lock)", Id = 126876116788270},
-    {name = "Trampoline Jumpy Head", Id = 98039209341823}
+    {name = "Trampoline Jumpy Head", Id = 98039209341823},
+    {name = "The Box", Id = 80663811715650}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
