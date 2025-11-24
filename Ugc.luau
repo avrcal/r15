@@ -1100,7 +1100,8 @@ _G.tools = {
     {name = "🌈 little noob [❗️BLOCK AVATAR❗️]", Id = 94007589429208},
     {name = "Boat", Id = 123345347361356},
     {name = "🌪️ Tornado 🌪️", Id = 135627891861045},
-    {name = "Tank", Id = 82015342883653}
+    {name = "Tank", Id = 82015342883653},
+    {name = "Turret / Sentry Gun", Id = 94761465515829}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
