@@ -1102,7 +1102,8 @@ _G.tools = {
     {name = "🌪️ Tornado 🌪️", Id = 135627891861045},
     {name = "Tank", Id = 82015342883653},
     {name = "Turret / Sentry Gun", Id = 94761465515829},
-    {name = "Minigun Type-9000 (Gun)", Id = 129863972412706}
+    {name = "Minigun Type-9000 (Gun)", Id = 129863972412706},
+    {name = "GUN (FIRE)", Id = 101064428613405}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
