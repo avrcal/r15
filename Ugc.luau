@@ -1095,7 +1095,8 @@ _G.tools = {
     {name = "Trampoline Jumpy Head", Id = 98039209341823},
     {name = "The Box", Id = 80663811715650},
     {name = "Spinning Fan", Id = 136133810019853},
-    {name = "Emote Loading. Please Wait... | spinning Robloxian", Id = 111251252458517}
+    {name = "Emote Loading. Please Wait... | spinning Robloxian", Id = 111251252458517},
+    {name = "Fan Morph", Id = 130864341071646}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
