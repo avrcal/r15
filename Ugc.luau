@@ -1098,7 +1098,8 @@ _G.tools = {
     {name = "Emote Loading. Please Wait... | spinning Robloxian", Id = 111251252458517},
     {name = "Fan Morph", Id = 130864341071646},
     {name = "🌈 little noob [❗️BLOCK AVATAR❗️]", Id = 94007589429208},
-    {name = "Boat", Id = 123345347361356}
+    {name = "Boat", Id = 123345347361356},
+    {name = "🌪️ Tornado 🌪️", Id = 135627891861045}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
