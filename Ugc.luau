@@ -1110,7 +1110,8 @@ _G.tools = {
     {name = "Boxing Practice", Id = 121234846883654},
     {name = "/e death", Id = 140145855251193},
     {name = "Garou sit pose", Id = 79907509663903},
-    {name = "🚫 NO! Morph", Id = 111666664060365}
+    {name = "🚫 NO! Morph", Id = 111666664060365},
+    {name = "Shucks Idle - Jeffy's Infinite Irida", Id = 127559534052876}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
