@@ -1117,7 +1117,8 @@ _G.tools = {
     {name = "🚕MOM, CALL TAXI !!!!", Id = 74778955192756},
     {name = "Mean Sway", Id = 108771267044771},
     {name = "disco spin 🎀", Id = 77958057125796},
-    {name = "Big G Bounce ⭐️ FIXED", Id = 114409240398579}
+    {name = "Big G Bounce ⭐️ FIXED", Id = 114409240398579},
+    {name = "ULTRA POOP", Id = 110823391306128}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
