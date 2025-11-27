@@ -1111,7 +1111,8 @@ _G.tools = {
     {name = "/e death", Id = 140145855251193},
     {name = "Garou sit pose", Id = 79907509663903},
     {name = "🚫 NO! Morph", Id = 111666664060365},
-    {name = "Shucks Idle - Jeffy's Infinite Irida", Id = 127559534052876}
+    {name = "Shucks Idle - Jeffy's Infinite Irida", Id = 127559534052876},
+    {name = "Cut Water Summer Dance!", Id = 71742037362291}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
