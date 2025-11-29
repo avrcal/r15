@@ -1119,7 +1119,8 @@ _G.tools = {
     {name = "disco spin 🎀", Id = 77958057125796},
     {name = "Big G Bounce ⭐️ FIXED", Id = 114409240398579},
     {name = "ULTRA POOP", Id = 110823391306128},
-    {name = "Jason Vorhees Dance Goofy", Id = 111902689439006}
+    {name = "Jason Vorhees Dance Goofy", Id = 111902689439006},
+    {name = "Big G Rilla Step", Id = 87037657067463}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
