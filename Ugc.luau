@@ -1127,7 +1127,8 @@ _G.tools = {
     {name = "Relaxed Sit", Id = 104595291484684},
     {name = "💅 Baddie Belly Dance", Id = 88714339609944},
     {name = "Shy Idle", Id = 123358425539087},
-    {name = "Freak me", Id = 95840612396423}
+    {name = "Freak me", Id = 95840612396423},
+    {name = "Laughing It Up Emote", Id = 98974619620224}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
