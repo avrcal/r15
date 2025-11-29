@@ -1125,7 +1125,8 @@ _G.tools = {
     {name = "Trendy Nicki Leg Pose", Id = 140708130041039},
     {name = "Angry Idle", Id = 75750638564696},
     {name = "Relaxed Sit", Id = 104595291484684},
-    {name = "💅 Baddie Belly Dance", Id = 88714339609944}
+    {name = "💅 Baddie Belly Dance", Id = 88714339609944},
+    {name = "Shy Idle", Id = 123358425539087}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
