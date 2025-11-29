@@ -1122,7 +1122,8 @@ _G.tools = {
     {name = "Jason Vorhees Dance Goofy", Id = 111902689439006},
     {name = "Big G Rilla Step", Id = 87037657067463},
     {name = "It Smells Fishy", Id = 102539028513519},
-    {name = "Trendy Nicki Leg Pose", Id = 140708130041039}
+    {name = "Trendy Nicki Leg Pose", Id = 140708130041039},
+    {name = "Angry Idle", Id = 75750638564696}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
