@@ -1131,7 +1131,8 @@ _G.tools = {
     {name = "Laughing It Up Emote", Id = 98974619620224},
     {name = "Liddy square up", Id = 116898548957105},
     {name = "Badd Dolly square up (Baddies Midwest)", Id = 124230199302569},
-    {name = "Scotty kick (Baddies Africa)", Id = 108271233077035}
+    {name = "Scotty kick (Baddies Africa)", Id = 108271233077035},
+    {name = "Superman is real....", Id = 79955608535916}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
