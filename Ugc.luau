@@ -1129,7 +1129,8 @@ _G.tools = {
     {name = "Shy Idle", Id = 123358425539087},
     {name = "Freak me", Id = 95840612396423},
     {name = "Laughing It Up Emote", Id = 98974619620224},
-    {name = "Liddy square up", Id = 116898548957105}
+    {name = "Liddy square up", Id = 116898548957105},
+    {name = "Badd Dolly square up (Baddies Midwest)", Id = 124230199302569}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
