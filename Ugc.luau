@@ -1133,7 +1133,8 @@ _G.tools = {
     {name = "Badd Dolly square up (Baddies Midwest)", Id = 124230199302569},
     {name = "Scotty kick (Baddies Africa)", Id = 108271233077035},
     {name = "Superman is real....", Id = 79955608535916},
-    {name = "Superman", Id = 107718813439136}
+    {name = "Superman", Id = 107718813439136},
+    {name = "Hula Bounce", Id = 95137887416550}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
