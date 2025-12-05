@@ -1136,7 +1136,8 @@ _G.tools = {
     {name = "Superman", Id = 107718813439136},
     {name = "Hula Bounce", Id = 95137887416550},
     {name = "Robot Looking Around", Id = 99103791640310},
-    {name = "Robotic Wave", Id = 96078757056646}
+    {name = "Robotic Wave", Id = 96078757056646},
+    {name = "Robot Repair (Gaian)", Id = 107950553080467}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
