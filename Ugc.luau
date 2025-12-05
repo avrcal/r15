@@ -1138,7 +1138,8 @@ _G.tools = {
     {name = "Robot Looking Around", Id = 99103791640310},
     {name = "Robotic Wave", Id = 96078757056646},
     {name = "Robot Repair (Gaian)", Id = 107950553080467},
-    {name = "Tycoon Dropper / Spawner", Id = 105566231421218}
+    {name = "Tycoon Dropper / Spawner", Id = 105566231421218},
+    {name = "Little Wave", Id = 104405075690440}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
