@@ -1141,7 +1141,8 @@ _G.tools = {
     {name = "Tycoon Dropper / Spawner", Id = 105566231421218},
     {name = "Little Wave", Id = 104405075690440},
     {name = "✅ F1 Car - Emote", Id = 99086760650449},
-    {name = "racing car 🏎️", Id = 85370451474568}
+    {name = "racing car 🏎️", Id = 85370451474568},
+    {name = "Dance If You're The Best - Dia Delicia Dance 😁", Id = 108759656834820}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
