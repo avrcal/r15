@@ -1148,7 +1148,8 @@ _G.tools = {
     {name = "Body Phone", Id = 114041592677837},
     {name = "Out-Cold", Id = 103554682501673},
     {name = "Pancake Stretch", Id = 85233258054867},
-    {name = "♡ ꒰ Cute Kneeling Down Pose", Id = 87452671760125}
+    {name = "♡ ꒰ Cute Kneeling Down Pose", Id = 87452671760125},
+    {name = "Fierce Model Walk", Id = 139749404804910}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
