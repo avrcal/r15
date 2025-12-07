@@ -1151,7 +1151,8 @@ _G.tools = {
     {name = "♡ ꒰ Cute Kneeling Down Pose", Id = 87452671760125},
     {name = "Fierce Model Walk", Id = 139749404804910},
     {name = "The Honored One Silly Run", Id = 82260970223217},
-    {name = "Hip Sway", Id = 125366049247330}
+    {name = "Hip Sway", Id = 125366049247330},
+    {name = "Rolling on the floor", Id = 78770298434489}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
