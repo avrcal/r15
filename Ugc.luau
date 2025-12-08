@@ -1152,7 +1152,8 @@ _G.tools = {
     {name = "Fierce Model Walk", Id = 139749404804910},
     {name = "The Honored One Silly Run", Id = 82260970223217},
     {name = "Hip Sway", Id = 125366049247330},
-    {name = "Rolling on the floor", Id = 78770298434489}
+    {name = "Rolling on the floor", Id = 78770298434489},
+    {name = "Pursuer Stalk Idle", Id = 132445272966466}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
