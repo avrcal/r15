@@ -1154,7 +1154,8 @@ _G.tools = {
     {name = "Hip Sway", Id = 125366049247330},
     {name = "Rolling on the floor", Id = 78770298434489},
     {name = "Pursuer Stalk Idle", Id = 132445272966466},
-    {name = "Springtrapped (Face Animated)", Id = 102336549954106}
+    {name = "Springtrapped (Face Animated)", Id = 102336549954106},
+    {name = "Poop", Id = 104146517681516}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
