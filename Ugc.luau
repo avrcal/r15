@@ -1156,7 +1156,8 @@ _G.tools = {
     {name = "Pursuer Stalk Idle", Id = 132445272966466},
     {name = "Springtrapped (Face Animated)", Id = 102336549954106},
     {name = "Poop", Id = 104146517681516},
-    {name = "meow kitty cat pose :3", Id = 94067170508495}
+    {name = "meow kitty cat pose :3", Id = 94067170508495},
+    {name = "Hula Circle Shaker", Id = 74604607016809}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
