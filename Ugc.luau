@@ -1158,7 +1158,8 @@ _G.tools = {
     {name = "Poop", Id = 104146517681516},
     {name = "meow kitty cat pose :3", Id = 94067170508495},
     {name = "Hula Circle Shaker", Id = 74604607016809},
-    {name = "Body Phone", Id = 94162093658027}
+    {name = "Body Phone", Id = 94162093658027},
+    {name = "✨Red Carpet Walk✨", Id = 79786759005429}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
