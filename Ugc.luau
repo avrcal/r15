@@ -1165,7 +1165,8 @@ _G.tools = {
     {name = "Gnarly", Id = 140524490084302},
     {name = "R6 Peanut Butter Jelly (Die Of Death)", Id = 130487907331587},
     {name = "(Outcome Memories) 2011x-Hype-Dance", Id = 126263509843739},
-    {name = "(Outcome Memories) Sonic-Tick Tock-Dance", Id = 95991069466514}
+    {name = "(Outcome Memories) Sonic-Tick Tock-Dance", Id = 95991069466514},
+    {name = "Just be competent", Id = 129245317392856}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
