@@ -1163,7 +1163,8 @@ _G.tools = {
     {name = "Kawaii Cat Pose 😻", Id = 85853253228909},
     {name = "Drop It Like Its Hot!", Id = 120492078411015},
     {name = "Gnarly", Id = 140524490084302},
-    {name = "R6 Peanut Butter Jelly (Die Of Death)", Id = 130487907331587}
+    {name = "R6 Peanut Butter Jelly (Die Of Death)", Id = 130487907331587},
+    {name = "(Outcome Memories) 2011x-Hype-Dance", Id = 126263509843739}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
