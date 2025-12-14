@@ -1168,7 +1168,8 @@ _G.tools = {
     {name = "(Outcome Memories) Sonic-Tick Tock-Dance", Id = 95991069466514},
     {name = "Just be competent", Id = 129245317392856},
     {name = "Minigame Springlock Fail", Id = 77805769356227},
-    {name = "Springlock Animatronic", Id = 97972306637297}
+    {name = "Springlock Animatronic", Id = 97972306637297},
+    {name = "FredBear Springlock", Id = 115288290973222}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
