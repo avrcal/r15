@@ -1170,7 +1170,8 @@ _G.tools = {
     {name = "Minigame Springlock Fail", Id = 77805769356227},
     {name = "Springlock Animatronic", Id = 97972306637297},
     {name = "FredBear Springlock", Id = 115288290973222},
-    {name = "Fast Punches Rage", Id = 133887204969176}
+    {name = "Fast Punches Rage", Id = 133887204969176},
+    {name = "Thank You!", Id = 111057054738672}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
