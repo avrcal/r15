@@ -1172,7 +1172,8 @@ _G.tools = {
     {name = "FredBear Springlock", Id = 115288290973222},
     {name = "Fast Punches Rage", Id = 133887204969176},
     {name = "Thank You!", Id = 111057054738672},
-    {name = "[ORIGINAL] I Want Money / What You Want - EMOVA", Id = 115781688996859}
+    {name = "[ORIGINAL] I Want Money / What You Want - EMOVA", Id = 115781688996859},
+    {name = "sm64 sleep idle", Id = 94551406368336}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
