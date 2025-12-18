@@ -1176,7 +1176,8 @@ _G.tools = {
     {name = "sm64 sleep idle", Id = 94551406368336},
     {name = "Chibi Walk — Adorable Stroll", Id = 85887415033585},
     {name = "Shake That Thing R6", Id = 131720136455849},
-    {name = "Levitating Head Pose", Id = 129453036635884}
+    {name = "Levitating Head Pose", Id = 129453036635884},
+    {name = "Forsaken_c00lkidd_Walk", Id = 93206157668596}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
