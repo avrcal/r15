@@ -1177,7 +1177,8 @@ _G.tools = {
     {name = "Chibi Walk — Adorable Stroll", Id = 85887415033585},
     {name = "Shake That Thing R6", Id = 131720136455849},
     {name = "Levitating Head Pose", Id = 129453036635884},
-    {name = "Forsaken_c00lkidd_Walk", Id = 93206157668596}
+    {name = "Forsaken_c00lkidd_Walk", Id = 93206157668596},
+    {name = "Needy Stretch", Id = 93358488237387}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
