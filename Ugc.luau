@@ -1184,7 +1184,8 @@ _G.tools = {
     {name = "Forsaken_c00lkidd_Idle", Id = 92946600983329},
     {name = "Peanut Butter Jelly Time (R15)", Id = 129537633250603},
     {name = "Animatronic agony - FNAF", Id = 73062309642674},
-    {name = "Freddy Fazbear's Stage Preformance (FNAF Trailer)", Id = 73676038561640}
+    {name = "Freddy Fazbear's Stage Preformance (FNAF Trailer)", Id = 73676038561640},
+    {name = "Street Glide", Id = 82378883639086}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
