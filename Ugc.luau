@@ -1178,7 +1178,8 @@ _G.tools = {
     {name = "Shake That Thing R6", Id = 131720136455849},
     {name = "Levitating Head Pose", Id = 129453036635884},
     {name = "Forsaken_c00lkidd_Walk", Id = 93206157668596},
-    {name = "Needy Stretch", Id = 93358488237387}
+    {name = "Needy Stretch", Id = 93358488237387},
+    {name = "♡ ꒰ Laying Down Splits Pose", Id = 100179668392253}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
