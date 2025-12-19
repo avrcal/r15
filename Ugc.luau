@@ -1181,7 +1181,8 @@ _G.tools = {
     {name = "Needy Stretch", Id = 93358488237387},
     {name = "♡ ꒰ Laying Down Splits Pose", Id = 100179668392253},
     {name = "Forsaken_c00lkidd_UnStun", Id = 130937379987866},
-    {name = "Forsaken_c00lkidd_Idle", Id = 92946600983329}
+    {name = "Forsaken_c00lkidd_Idle", Id = 92946600983329},
+    {name = "Peanut Butter Jelly Time (R15)", Id = 129537633250603}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
