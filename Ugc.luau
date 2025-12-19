@@ -1185,7 +1185,8 @@ _G.tools = {
     {name = "Peanut Butter Jelly Time (R15)", Id = 129537633250603},
     {name = "Animatronic agony - FNAF", Id = 73062309642674},
     {name = "Freddy Fazbear's Stage Preformance (FNAF Trailer)", Id = 73676038561640},
-    {name = "Street Glide", Id = 82378883639086}
+    {name = "Street Glide", Id = 82378883639086},
+    {name = "TYLA - CHANEL (TIKTOK DANCE)", Id = 129951913430136}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
