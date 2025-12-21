@@ -1188,7 +1188,8 @@ _G.tools = {
     {name = "Street Glide", Id = 82378883639086},
     {name = "TYLA - CHANEL (TIKTOK DANCE)", Id = 129951913430136},
     {name = "wobbily wiggly", Id = 92647246456583},
-    {name = "Tall creature walk", Id = 134010853417610}
+    {name = "Tall creature walk", Id = 134010853417610},
+    {name = "Scary tall creature transformation", Id = 129469072457859}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
