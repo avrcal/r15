@@ -1191,7 +1191,8 @@ _G.tools = {
     {name = "Tall creature walk", Id = 134010853417610},
     {name = "Scary tall creature transformation", Id = 129469072457859},
     {name = "🎃 Creepy Tall Halloween Zombie 🎃", Id = 137877690249762},
-    {name = "🎃 Scary Tall Halloween Chase", Id = 134411626334329}
+    {name = "🎃 Scary Tall Halloween Chase", Id = 134411626334329},
+    {name = "Raiden Punching Armstrong - LOOP", Id = 78558658989043}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
