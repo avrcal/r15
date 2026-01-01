@@ -1198,7 +1198,8 @@ _G.tools = {
     {name = "RUNNING FREDBEAR", Id = 133284420439423},
     {name = "I'm Not Cute Anymore Run - ILLIT", Id = 101293881003047},
     {name = "Arms Crossed Idle Pose", Id = 132861892011980},
-    {name = "🎃Pumpkin King👑", Id = 98413544617717}
+    {name = "🎃Pumpkin King👑", Id = 98413544617717},
+    {name = "Slow Jason Vorhees Dance Goofy!", Id = 76112314476202}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
