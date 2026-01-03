@@ -1202,7 +1202,8 @@ _G.tools = {
     {name = "Slow Jason Vorhees Dance Goofy!", Id = 76112314476202},
     {name = "Throw it in a Circle", Id = 139395178419877},
     {name = "HAND PULL SHAKE THAT THANG [ORIGINAL]", Id = 102845316684543},
-    {name = "[BEST] Jason Vorhees Shake - Dwerk (Don't Hide)", Id = 80471373725892}
+    {name = "[BEST] Jason Vorhees Shake - Dwerk (Don't Hide)", Id = 80471373725892},
+    {name = "Miss Me Jump [Friday Night Funkin]", Id = 106576745451974}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
