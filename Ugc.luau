@@ -1205,7 +1205,8 @@ _G.tools = {
     {name = "[BEST] Jason Vorhees Shake - Dwerk (Don't Hide)", Id = 80471373725892},
     {name = "Miss Me Jump [Friday Night Funkin]", Id = 106576745451974},
     {name = "Tall Tweaker", Id = 118294259309188},
-    {name = "Tall Headless Creature", Id = 98078268211180}
+    {name = "Tall Headless Creature", Id = 98078268211180},
+    {name = "Uget Uget Boyolali", Id = 77679366248400}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
