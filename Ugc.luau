@@ -1207,7 +1207,8 @@ _G.tools = {
     {name = "Tall Tweaker", Id = 118294259309188},
     {name = "Tall Headless Creature", Id = 98078268211180},
     {name = "Uget Uget Boyolali", Id = 77679366248400},
-    {name = "Simple Domain", Id = 132505740326684}
+    {name = "Simple Domain", Id = 132505740326684},
+    {name = "Yuta Domain Expansion", Id = 138483536012563}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
