@@ -1208,7 +1208,8 @@ _G.tools = {
     {name = "Tall Headless Creature", Id = 98078268211180},
     {name = "Uget Uget Boyolali", Id = 77679366248400},
     {name = "Simple Domain", Id = 132505740326684},
-    {name = "Yuta Domain Expansion", Id = 138483536012563}
+    {name = "Yuta Domain Expansion", Id = 138483536012563},
+    {name = "Springtrap Dance", Id = 80927378599036}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
