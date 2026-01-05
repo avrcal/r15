@@ -1211,7 +1211,8 @@ _G.tools = {
     {name = "Yuta Domain Expansion", Id = 138483536012563},
     {name = "Springtrap Dance", Id = 80927378599036},
     {name = "IShowSpeed Dance", Id = 137588536535005},
-    {name = "Needy Circle Shake (OG)", Id = 117743822724223}
+    {name = "Needy Circle Shake (OG)", Id = 117743822724223},
+    {name = "Watch my moves", Id = 85107678380259}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
