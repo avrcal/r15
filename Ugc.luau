@@ -1217,7 +1217,8 @@ _G.tools = {
     {name = "Ultra Needy Bailando Bouncing", Id = 127316053636379},
     {name = "Ultra Needy Grinch Bouncing", Id = 114636697719457},
     {name = "Needy Shake Heat Sway", Id = 97187217508701},
-    {name = "Needy Cutie Patootie", Id = 125503519932281}
+    {name = "Needy Cutie Patootie", Id = 125503519932281},
+    {name = "67", Id = 116555912432673}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
