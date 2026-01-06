@@ -1226,7 +1226,8 @@ _G.tools = {
     {name = "/headless /koblox .... kind of", Id = 84323682148776},
     {name = "Forsaken Noli Idle", Id = 87133915820289},
     {name = "FORSAKEN Noli Walk", Id = 90175656540190},
-    {name = "FORSAKEN Noli Void Rush", Id = 119380285634530}
+    {name = "FORSAKEN Noli Void Rush", Id = 119380285634530},
+    {name = "Jason Vorhees Emote Meme Goofy", Id = 104028235193067}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
