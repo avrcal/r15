@@ -1224,7 +1224,8 @@ _G.tools = {
     {name = "Needy Confidence", Id = 134167184667061},
     {name = "/e headless korblox (works in every game)", Id = 102325931762962},
     {name = "/headless /koblox .... kind of", Id = 84323682148776},
-    {name = "Forsaken Noli Idle", Id = 87133915820289}
+    {name = "Forsaken Noli Idle", Id = 87133915820289},
+    {name = "FORSAKEN Noli Walk", Id = 90175656540190}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
