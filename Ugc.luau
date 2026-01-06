@@ -1221,7 +1221,8 @@ _G.tools = {
     {name = "67", Id = 116555912432673},
     {name = "67", Id = 123922326825176},
     {name = "Cute Laying On Side", Id = 113016938567383},
-    {name = "Needy Confidence", Id = 134167184667061}
+    {name = "Needy Confidence", Id = 134167184667061},
+    {name = "/e headless korblox (works in every game)", Id = 102325931762962}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
