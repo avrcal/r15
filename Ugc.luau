@@ -1215,7 +1215,8 @@ _G.tools = {
     {name = "Watch my moves", Id = 85107678380259},
     {name = "[BEST] Goofy Shake Jason Vorhees Dwerk Dance", Id = 86203458993945},
     {name = "Ultra Needy Bailando Bouncing", Id = 127316053636379},
-    {name = "Ultra Needy Grinch Bouncing", Id = 114636697719457}
+    {name = "Ultra Needy Grinch Bouncing", Id = 114636697719457},
+    {name = "Needy Shake Heat Sway", Id = 97187217508701}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
