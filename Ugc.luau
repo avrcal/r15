@@ -1230,7 +1230,8 @@ _G.tools = {
     {name = "Jason Vorhees Emote Meme Goofy", Id = 104028235193067},
     {name = "Jason Vorhees Dance", Id = 118493257042591},
     {name = "Classic Retro Idle [2007]", Id = 118461919095618},
-    {name = "Sassy Fashion Twirl", Id = 121398241585809}
+    {name = "Sassy Fashion Twirl", Id = 121398241585809},
+    {name = "Iconic Pose", Id = 87403291640282}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
