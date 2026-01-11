@@ -1235,7 +1235,8 @@ _G.tools = {
     {name = "Haute Couture Pose", Id = 116765159485288},
     {name = "Dr. Livesey Walk (R6)", Id = 126769395026240},
     {name = "Skeleton Meme Skyrim", Id = 81158605951692},
-    {name = "Cute Walk - (Choppy Animation)", Id = 121062738708333}
+    {name = "Cute Walk - (Choppy Animation)", Id = 121062738708333},
+    {name = "[R6] Retro: Magician - Hat Holding Idle [POSE]", Id = 76767062741041}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
