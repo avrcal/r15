@@ -1240,7 +1240,8 @@ _G.tools = {
     {name = "[POSE] Praise", Id = 87036804494292},
     {name = "R6 Idle Pose | Hand on Hip", Id = 129278885995833},
     {name = "R6 Idle Pose | Back Display", Id = 93507119848388},
-    {name = "[Anime Aura] Jojo Pose Idle Pt3", Id = 114636753459405}
+    {name = "[Anime Aura] Jojo Pose Idle Pt3", Id = 114636753459405},
+    {name = "12662", Id = 109060871654410}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
