@@ -1242,7 +1242,8 @@ _G.tools = {
     {name = "R6 Idle Pose | Back Display", Id = 93507119848388},
     {name = "[Anime Aura] Jojo Pose Idle Pt3", Id = 114636753459405},
     {name = "12662", Id = 109060871654410},
-    {name = "cat scratching", Id = 114452440488871}
+    {name = "cat scratching", Id = 114452440488871},
+    {name = "Six Little Eggs Groove", Id = 87145544419394}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
