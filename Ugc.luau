@@ -1244,7 +1244,8 @@ _G.tools = {
     {name = "12662", Id = 109060871654410},
     {name = "cat scratching", Id = 114452440488871},
     {name = "Six Little Eggs Groove", Id = 87145544419394},
-    {name = "Needy Hip Dance", Id = 97347650540503}
+    {name = "Needy Hip Dance", Id = 97347650540503},
+    {name = "🎃 Scary Tall Halloween Idle", Id = 97102311507506}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
