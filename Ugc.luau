@@ -1246,7 +1246,8 @@ _G.tools = {
     {name = "Six Little Eggs Groove", Id = 87145544419394},
     {name = "Needy Hip Dance", Id = 97347650540503},
     {name = "🎃 Scary Tall Halloween Idle", Id = 97102311507506},
-    {name = "[NEW] Nightmail crossing the border floating dance", Id = 130633292146410}
+    {name = "[NEW] Nightmail crossing the border floating dance", Id = 130633292146410},
+    {name = "Do That Thang", Id = 96673018720208}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
