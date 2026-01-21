@@ -1248,7 +1248,8 @@ _G.tools = {
     {name = "🎃 Scary Tall Halloween Idle", Id = 97102311507506},
     {name = "[NEW] Nightmail crossing the border floating dance", Id = 130633292146410},
     {name = "Do That Thang", Id = 96673018720208},
-    {name = "Classic Retro Zombie Pose", Id = 90806086002292}
+    {name = "Classic Retro Zombie Pose", Id = 90806086002292},
+    {name = "Heel Dance", Id = 119405085486513}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
