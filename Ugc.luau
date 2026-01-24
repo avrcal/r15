@@ -1255,7 +1255,8 @@ _G.tools = {
     {name = "Spice On Floor", Id = 92689671662713},
     {name = "Throw it in a Circle", Id = 127860548047963},
     {name = "[Best] Bounce", Id = 124381424428316},
-    {name = "Samba", Id = 10714386947}
+    {name = "Samba", Id = 10714386947},
+    {name = "Goku Charge Up", Id = 112220709701439}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
