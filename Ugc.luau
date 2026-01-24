@@ -1252,7 +1252,8 @@ _G.tools = {
     {name = "Heel Dance", Id = 119405085486513},
     {name = "Needy Hip Dance", Id = 108287561312002},
     {name = "[OG BEST] Judy Shake", Id = 117812230822615},
-    {name = "Spice On Floor", Id = 92689671662713}
+    {name = "Spice On Floor", Id = 92689671662713},
+    {name = "Throw it in a Circle", Id = 127860548047963}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
