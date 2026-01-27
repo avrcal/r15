@@ -1258,7 +1258,8 @@ _G.tools = {
     {name = "Samba", Id = 10714386947},
     {name = "Goku Charge Up", Id = 112220709701439},
     {name = "Headless", Id = 100199766676370},
-    {name = "Uma Musume Umapyoi Densetsu", Id = 120037711857043}
+    {name = "Uma Musume Umapyoi Densetsu", Id = 120037711857043},
+    {name = "Head scratches / Head pats to small avatars", Id = 116557057551035}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
