@@ -1264,7 +1264,8 @@ _G.tools = {
     {name = "stretch like this?", Id = 119377401608190},
     {name = "Needy Bouncy Circle Shake Dance", Id = 99335180020611},
     {name = "Michael Myers Trip Out", Id = 113801771536506},
-    {name = "Celebration Hips", Id = 124209914932987}
+    {name = "Celebration Hips", Id = 124209914932987},
+    {name = "no animation", Id = 90377859048021}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
