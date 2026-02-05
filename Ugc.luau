@@ -1265,7 +1265,8 @@ _G.tools = {
     {name = "Needy Bouncy Circle Shake Dance", Id = 99335180020611},
     {name = "Michael Myers Trip Out", Id = 113801771536506},
     {name = "Celebration Hips", Id = 124209914932987},
-    {name = "no animation", Id = 90377859048021}
+    {name = "no animation", Id = 90377859048021},
+    {name = "Brazilian Funk Footwork", Id = 140219184038687}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
