@@ -1268,7 +1268,8 @@ _G.tools = {
     {name = "no animation", Id = 90377859048021},
     {name = "Brazilian Funk Footwork", Id = 140219184038687},
     {name = "MASSIVE POOP", Id = 125329959146841},
-    {name = "Evade - Bold March", Id = 73229066281713}
+    {name = "Evade - Bold March", Id = 73229066281713},
+    {name = "Cute Sit", Id = 75298957518822}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
