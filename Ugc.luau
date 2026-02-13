@@ -1270,7 +1270,8 @@ _G.tools = {
     {name = "MASSIVE POOP", Id = 125329959146841},
     {name = "Evade - Bold March", Id = 73229066281713},
     {name = "Cute Sit", Id = 75298957518822},
-    {name = "Head Shake Needy Bounce", Id = 74718473673561}
+    {name = "Head Shake Needy Bounce", Id = 74718473673561},
+    {name = "Needy Hip Bounce", Id = 106951683231213}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
