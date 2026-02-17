@@ -1272,7 +1272,8 @@ _G.tools = {
     {name = "Cute Sit", Id = 75298957518822},
     {name = "Head Shake Needy Bounce", Id = 74718473673561},
     {name = "Needy Hip Bounce", Id = 106951683231213},
-    {name = "needy hips", Id = 88358461544719}
+    {name = "needy hips", Id = 88358461544719},
+    {name = "La anguila hip (MEME)", Id = 89447470774934}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
