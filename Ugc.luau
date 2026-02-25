@@ -1277,7 +1277,8 @@ _G.tools = {
     {name = "Cut Water Summer Dance!", Id = 72333908650729},
     {name = "goofy hoppin'", Id = 105975426693049},
     {name = "Throw it in a circle", Id = 117436459881505},
-    {name = "Cute Kicking Feet", Id = 140609475920100}
+    {name = "Cute Kicking Feet", Id = 140609475920100},
+    {name = "I see Kareem Groove", Id = 70410722544605}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
