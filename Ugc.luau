@@ -1275,7 +1275,8 @@ _G.tools = {
     {name = "needy hips", Id = 88358461544719},
     {name = "La anguila hip (MEME)", Id = 89447470774934},
     {name = "Cut Water Summer Dance!", Id = 72333908650729},
-    {name = "goofy hoppin'", Id = 105975426693049}
+    {name = "goofy hoppin'", Id = 105975426693049},
+    {name = "Throw it in a circle", Id = 117436459881505}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
