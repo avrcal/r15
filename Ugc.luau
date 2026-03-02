@@ -1279,7 +1279,8 @@ _G.tools = {
     {name = "Throw it in a circle", Id = 117436459881505},
     {name = "Cute Kicking Feet", Id = 140609475920100},
     {name = "I see Kareem Groove", Id = 70410722544605},
-    {name = "STURDY", Id = 128968764985212}
+    {name = "STURDY", Id = 128968764985212},
+    {name = "MJ - P.Y.T. Pretty Young Thing", Id = 108374677470972}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
