@@ -1286,7 +1286,8 @@ _G.tools = {
     {name = "🎶Default Fortnite Dance Rambunctious [BEST]", Id = 76755207478592},
     {name = "Tail Wag Happy Idle", Id = 129026910898635},
     {name = "Money Hop Switch", Id = 132555082396072},
-    {name = "Tornado kick", Id = 82430395800667}
+    {name = "Tornado kick", Id = 82430395800667},
+    {name = "Dropkick", Id = 133566007754001}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
