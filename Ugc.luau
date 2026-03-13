@@ -1288,7 +1288,8 @@ _G.tools = {
     {name = "Money Hop Switch", Id = 132555082396072},
     {name = "Tornado kick", Id = 82430395800667},
     {name = "Dropkick", Id = 133566007754001},
-    {name = "Michael Jackson Anti-Gravity Lean", Id = 137419692498344}
+    {name = "Michael Jackson Anti-Gravity Lean", Id = 137419692498344},
+    {name = "Hog Rider [CLASH ROYALE]", Id = 138457427307562}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
