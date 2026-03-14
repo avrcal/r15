@@ -1290,7 +1290,8 @@ _G.tools = {
     {name = "Dropkick", Id = 133566007754001},
     {name = "Michael Jackson Anti-Gravity Lean", Id = 137419692498344},
     {name = "Hog Rider [CLASH ROYALE]", Id = 138457427307562},
-    {name = "[BEST] Low Cortisol", Id = 72849994379315}
+    {name = "[BEST] Low Cortisol", Id = 72849994379315},
+    {name = "Low Cortisol", Id = 126604285933607}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
