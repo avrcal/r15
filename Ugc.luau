@@ -1301,7 +1301,8 @@ _G.tools = {
     {name = "Scary Worm", Id = 84506790321040},
     {name = "Endless Worm Floating", Id = 76212616246340},
     {name = "Worm Spin Idle [Endless]", Id = 87623608818300},
-    {name = "Body Blender 🌪️ 🍅", Id = 97592799851492}
+    {name = "Body Blender 🌪️ 🍅", Id = 97592799851492},
+    {name = "Tadpole Wiggle 🐸", Id = 103057910579239}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
