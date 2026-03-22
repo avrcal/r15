@@ -1295,7 +1295,8 @@ _G.tools = {
     {name = "chibi", Id = 125884328313129},
     {name = "[🔫] Human Gun", Id = 73049499124836},
     {name = "Parkour Dance", Id = 120244151914853},
-    {name = "Flying Snake", Id = 109383342751992}
+    {name = "Flying Snake", Id = 109383342751992},
+    {name = "Arcade snake worm idle emote", Id = 89992214273150}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
