@@ -1292,7 +1292,8 @@ _G.tools = {
     {name = "Hog Rider [CLASH ROYALE]", Id = 138457427307562},
     {name = "[BEST] Low Cortisol", Id = 72849994379315},
     {name = "Low Cortisol", Id = 126604285933607},
-    {name = "chibi", Id = 125884328313129}
+    {name = "chibi", Id = 125884328313129},
+    {name = "[🔫] Human Gun", Id = 73049499124836}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
