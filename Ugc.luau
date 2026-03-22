@@ -1298,7 +1298,8 @@ _G.tools = {
     {name = "Flying Snake", Id = 109383342751992},
     {name = "Arcade snake worm idle emote", Id = 89992214273150},
     {name = "Be a Worm", Id = 72179827731629},
-    {name = "Scary Worm", Id = 84506790321040}
+    {name = "Scary Worm", Id = 84506790321040},
+    {name = "Endless Worm Floating", Id = 76212616246340}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
