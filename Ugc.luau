@@ -1304,7 +1304,8 @@ _G.tools = {
     {name = "Body Blender 🌪️ 🍅", Id = 97592799851492},
     {name = "Tadpole Wiggle 🐸", Id = 103057910579239},
     {name = "youngho bounce", Id = 114122935609043},
-    {name = "Needy Backflip Split! (OG)", Id = 95336639914949}
+    {name = "Needy Backflip Split! (OG)", Id = 95336639914949},
+    {name = "sharp's worm dance", Id = 105989596654929}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
