@@ -1306,7 +1306,8 @@ _G.tools = {
     {name = "youngho bounce", Id = 114122935609043},
     {name = "Needy Backflip Split! (OG)", Id = 95336639914949},
     {name = "sharp's worm dance", Id = 105989596654929},
-    {name = "Super Shaker 🫨", Id = 126675591949284}
+    {name = "Super Shaker 🫨", Id = 126675591949284},
+    {name = "Arthur Lima Dance", Id = 92467733306589}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
