@@ -1311,7 +1311,8 @@ _G.tools = {
     {name = "Denji Dance", Id = 139062443836718},
     {name = "Yuji Jumping Edit", Id = 139982320267456},
     {name = "[R6] Otsukare Summer", Id = 96239426856784},
-    {name = "I CAME TO GROOVE", Id = 76231343544375}
+    {name = "I CAME TO GROOVE", Id = 76231343544375},
+    {name = "🔥I came to GROOVE🔥[A peanut butter house] 4'10", Id = 132269133852709}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
