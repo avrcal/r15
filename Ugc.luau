@@ -1310,7 +1310,8 @@ _G.tools = {
     {name = "Arthur Lima Dance", Id = 92467733306589},
     {name = "Denji Dance", Id = 139062443836718},
     {name = "Yuji Jumping Edit", Id = 139982320267456},
-    {name = "[R6] Otsukare Summer", Id = 96239426856784}
+    {name = "[R6] Otsukare Summer", Id = 96239426856784},
+    {name = "I CAME TO GROOVE", Id = 76231343544375}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
