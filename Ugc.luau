@@ -1314,7 +1314,8 @@ _G.tools = {
     {name = "I CAME TO GROOVE", Id = 76231343544375},
     {name = "🔥I came to GROOVE🔥[A peanut butter house] 4'10", Id = 132269133852709},
     {name = "Needy Circle Shake (OG)", Id = 138897579156694},
-    {name = "Jason Vorhees Emote", Id = 135090837054063}
+    {name = "Jason Vorhees Emote", Id = 135090837054063},
+    {name = "⚡ Raiden Punching Armstrong Loop", Id = 126264342780589}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
