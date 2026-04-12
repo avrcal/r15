@@ -1317,7 +1317,8 @@ _G.tools = {
     {name = "Jason Vorhees Emote", Id = 135090837054063},
     {name = "⚡ Raiden Punching Armstrong Loop", Id = 126264342780589},
     {name = "WISH NLE", Id = 82501710348206},
-    {name = "Heeseung Walk - Once Upon A Time", Id = 110553340682162}
+    {name = "Heeseung Walk - Once Upon A Time", Id = 110553340682162},
+    {name = "Watch Me Whip Nae Nae Dance!", Id = 86975281901066}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
