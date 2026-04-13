@@ -1321,7 +1321,8 @@ _G.tools = {
     {name = "Watch Me Whip Nae Nae Dance!", Id = 86975281901066},
     {name = "Whip and Nae Nae", Id = 86994856132866},
     {name = "Tyranno", Id = 84624681260553},
-    {name = "WISH NLE", Id = 134979439704255}
+    {name = "WISH NLE", Id = 134979439704255},
+    {name = "Neck Roll", Id = 126557734418320}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
