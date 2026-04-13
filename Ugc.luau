@@ -1319,7 +1319,8 @@ _G.tools = {
     {name = "WISH NLE", Id = 82501710348206},
     {name = "Heeseung Walk - Once Upon A Time", Id = 110553340682162},
     {name = "Watch Me Whip Nae Nae Dance!", Id = 86975281901066},
-    {name = "Whip and Nae Nae", Id = 86994856132866}
+    {name = "Whip and Nae Nae", Id = 86994856132866},
+    {name = "Tyranno", Id = 84624681260553}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
