@@ -1323,7 +1323,8 @@ _G.tools = {
     {name = "Tyranno", Id = 84624681260553},
     {name = "WISH NLE", Id = 134979439704255},
     {name = "Neck Roll", Id = 126557734418320},
-    {name = "Needy V sit Split Drop (OG)", Id = 98126345395357}
+    {name = "Needy V sit Split Drop (OG)", Id = 98126345395357},
+    {name = "Zesty jump backflip", Id = 90545781161121}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
