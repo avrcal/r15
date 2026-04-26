@@ -1325,7 +1325,8 @@ _G.tools = {
     {name = "Neck Roll", Id = 126557734418320},
     {name = "Needy V sit Split Drop (OG)", Id = 98126345395357},
     {name = "Zesty jump backflip", Id = 90545781161121},
-    {name = "Huggy Wuggy Roar Poppy Playtime", Id = 79693854405529}
+    {name = "Huggy Wuggy Roar Poppy Playtime", Id = 79693854405529},
+    {name = "Huggy Wuggy Jumpscare Poppy Playtime ⭐ ORIGINAL ⭐", Id = 86804445577907}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
