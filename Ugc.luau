@@ -1328,7 +1328,8 @@ _G.tools = {
     {name = "Huggy Wuggy Roar Poppy Playtime", Id = 79693854405529},
     {name = "Huggy Wuggy Jumpscare Poppy Playtime ⭐ ORIGINAL ⭐", Id = 86804445577907},
     {name = "Zombie Eating Halloween Matching 1", Id = 106320514159313},
-    {name = "Bite A Friend!", Id = 76311389409448}
+    {name = "Bite A Friend!", Id = 76311389409448},
+    {name = "Monster Idle [Loop]", Id = 88885591539656}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
