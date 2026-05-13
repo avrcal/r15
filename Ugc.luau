@@ -1331,7 +1331,8 @@ _G.tools = {
     {name = "Bite A Friend!", Id = 76311389409448},
     {name = "Monster Idle [Loop]", Id = 88885591539656},
     {name = "Slow Forsaken Run", Id = 108891884872744},
-    {name = "FORSAKEN Survivor Idle Pose", Id = 98946450554814}
+    {name = "FORSAKEN Survivor Idle Pose", Id = 98946450554814},
+    {name = "FORSAKEN Jane Doe Walk", Id = 119545916455209}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
