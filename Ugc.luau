@@ -1334,7 +1334,8 @@ _G.tools = {
     {name = "FORSAKEN Survivor Idle Pose", Id = 98946450554814},
     {name = "FORSAKEN Jane Doe Walk", Id = 119545916455209},
     {name = "Invincible Wobbly Edit [V2]", Id = 111808196256227},
-    {name = "BIGGEST TALLEST Ancient Robloxian (GLITCH)", Id = 93206392584401}
+    {name = "BIGGEST TALLEST Ancient Robloxian (GLITCH)", Id = 93206392584401},
+    {name = "DJ Idle 🎵", Id = 114486154887764}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
