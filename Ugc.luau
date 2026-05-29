@@ -1337,7 +1337,8 @@ _G.tools = {
     {name = "BIGGEST TALLEST Ancient Robloxian (GLITCH)", Id = 93206392584401},
     {name = "DJ Idle 🎵", Id = 114486154887764},
     {name = "DJ Man", Id = 84113849301916},
-    {name = "Piggyback Ride V1 [MATCHING]", Id = 114336433436817}
+    {name = "Piggyback Ride V1 [MATCHING]", Id = 114336433436817},
+    {name = "Fake Lag", Id = 95701126566051}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
