@@ -1338,7 +1338,8 @@ _G.tools = {
     {name = "DJ Idle 🎵", Id = 114486154887764},
     {name = "DJ Man", Id = 84113849301916},
     {name = "Piggyback Ride V1 [MATCHING]", Id = 114336433436817},
-    {name = "Fake Lag", Id = 95701126566051}
+    {name = "Fake Lag", Id = 95701126566051},
+    {name = "Thriller", Id = 73665396963024}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
