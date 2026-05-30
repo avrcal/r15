@@ -1343,7 +1343,8 @@ _G.tools = {
     {name = "Michael Jackson Shuffle", Id = 114028991929761},
     {name = "Smooth Moonwalk", Id = 104856538123262},
     {name = "Michael Jackson Don’t Run Away", Id = 125846800145985},
-    {name = "Michael Jackson Intro", Id = 97070978443559}
+    {name = "Michael Jackson Intro", Id = 97070978443559},
+    {name = "\"Just Beat It\" Spin & Kick", Id = 84998418990320}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
