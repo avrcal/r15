@@ -1346,7 +1346,8 @@ _G.tools = {
     {name = "Michael Jackson Intro", Id = 97070978443559},
     {name = "\"Just Beat It\" Spin & Kick", Id = 84998418990320},
     {name = "Dance Billie Jean Michael Jackson", Id = 89233434506254},
-    {name = "Dance Billie Jean Schuffle Michael Jackson", Id = 71891068546538}
+    {name = "Dance Billie Jean Schuffle Michael Jackson", Id = 71891068546538},
+    {name = "FORSAKEN Guest 666 Pose", Id = 138888114040505}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
