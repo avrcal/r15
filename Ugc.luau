@@ -1351,7 +1351,8 @@ _G.tools = {
     {name = "FAKE MM2 DEATH [BEST]", Id = 73068180480944},
     {name = "Gangnam style", Id = 131104967711844},
     {name = "Scuba [ORIGINAL]", Id = 123952662936149},
-    {name = "Chinese Dance: Da Koto Nai [BEST]", Id = 131564504226925}
+    {name = "Chinese Dance: Da Koto Nai [BEST]", Id = 131564504226925},
+    {name = "Godly Aura fly pose idle", Id = 137704682075613}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
