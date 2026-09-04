@@ -1350,7 +1350,8 @@ _G.tools = {
     {name = "FORSAKEN Guest 666 Pose", Id = 138888114040505},
     {name = "FAKE MM2 DEATH [BEST]", Id = 73068180480944},
     {name = "Gangnam style", Id = 131104967711844},
-    {name = "Scuba [ORIGINAL]", Id = 123952662936149}
+    {name = "Scuba [ORIGINAL]", Id = 123952662936149},
+    {name = "Chinese Dance: Da Koto Nai [BEST]", Id = 131564504226925}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
