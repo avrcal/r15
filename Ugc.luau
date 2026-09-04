@@ -1349,7 +1349,8 @@ _G.tools = {
     {name = "Dance Billie Jean Schuffle Michael Jackson", Id = 71891068546538},
     {name = "FORSAKEN Guest 666 Pose", Id = 138888114040505},
     {name = "FAKE MM2 DEATH [BEST]", Id = 73068180480944},
-    {name = "Gangnam style", Id = 131104967711844}
+    {name = "Gangnam style", Id = 131104967711844},
+    {name = "Scuba [ORIGINAL]", Id = 123952662936149}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
