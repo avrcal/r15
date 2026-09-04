@@ -1354,7 +1354,8 @@ _G.tools = {
     {name = "Chinese Dance: Da Koto Nai [BEST]", Id = 131564504226925},
     {name = "Godly Aura fly pose idle", Id = 137704682075613},
     {name = "Take The L", Id = 118343267142519},
-    {name = "Moonwalk", Id = 134048087973127}
+    {name = "Moonwalk", Id = 134048087973127},
+    {name = "Caramelldansen (Caramell) Kawaii Dance", Id = 127118661424463}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
