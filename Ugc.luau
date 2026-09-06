@@ -1356,7 +1356,8 @@ _G.tools = {
     {name = "Take The L", Id = 118343267142519},
     {name = "Moonwalk", Id = 134048087973127},
     {name = "Caramelldansen (Caramell) Kawaii Dance", Id = 127118661424463},
-    {name = "R15 Death (Accurate)", Id = 88130117312312}
+    {name = "R15 Death (Accurate)", Id = 88130117312312},
+    {name = "MM2 Fake Dead Pose (Accurate)", Id = 130821923409961}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
