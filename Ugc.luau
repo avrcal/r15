@@ -1360,7 +1360,8 @@ _G.tools = {
     {name = "MM2 Fake Dead Pose (Accurate)", Id = 130821923409961},
     {name = "Frosty Flair Tommy (Loop)", Id = 129923369928050},
     {name = "67", Id = 109455121862186},
-    {name = "I got that feeling", Id = 140610898812528}
+    {name = "I got that feeling", Id = 140610898812528},
+    {name = "Dance All Night", Id = 102998462448180}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
