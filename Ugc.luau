@@ -1363,7 +1363,8 @@ _G.tools = {
     {name = "I got that feeling", Id = 140610898812528},
     {name = "Dance All Night", Id = 102998462448180},
     {name = "Zesty Dip", Id = 97177618213811},
-    {name = "Silly Animals Dance", Id = 98943029911905}
+    {name = "Silly Animals Dance", Id = 98943029911905},
+    {name = "Trip Out", Id = 105930925220838}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
