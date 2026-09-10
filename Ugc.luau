@@ -1361,7 +1361,8 @@ _G.tools = {
     {name = "Frosty Flair Tommy (Loop)", Id = 129923369928050},
     {name = "67", Id = 109455121862186},
     {name = "I got that feeling", Id = 140610898812528},
-    {name = "Dance All Night", Id = 102998462448180}
+    {name = "Dance All Night", Id = 102998462448180},
+    {name = "Zesty Dip", Id = 97177618213811}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
