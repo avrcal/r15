@@ -1367,7 +1367,8 @@ _G.tools = {
     {name = "Trip Out", Id = 105930925220838},
     {name = "Low Cortisol Dance Pill", Id = 77387643699357},
     {name = "move your hips", Id = 93462187852230},
-    {name = "IShowSpeed Shake Emote", Id = 113381488941814}
+    {name = "IShowSpeed Shake Emote", Id = 113381488941814},
+    {name = "Baddie Shake Shake Shake Dance", Id = 90709899056416}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
