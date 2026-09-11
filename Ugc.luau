@@ -1365,7 +1365,8 @@ _G.tools = {
     {name = "Zesty Dip", Id = 97177618213811},
     {name = "Silly Animals Dance", Id = 98943029911905},
     {name = "Trip Out", Id = 105930925220838},
-    {name = "Low Cortisol Dance Pill", Id = 77387643699357}
+    {name = "Low Cortisol Dance Pill", Id = 77387643699357},
+    {name = "move your hips", Id = 93462187852230}
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/avrcal/r15/refs/heads/main/patch.luau",true))()
